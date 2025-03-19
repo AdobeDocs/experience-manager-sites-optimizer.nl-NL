@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer Opportunity-typen
 description: In deze video ziet u de belangrijkste opportuniteitstypen in Sites Optimizer en hoe u hiermee de prestaties van uw site kunt verbeteren.
-source-git-commit: 383e0431354d8d88838f1319e37b773308dddb6d
+source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -13,51 +13,26 @@ ht-degree: 0%
 
 ![ types van Kansen ](./assets/overview/hero.png){align="center"}
 
-AEM Sites Optimizer biedt waardevolle inzichten en aanbevelingen om u te helpen de prestaties, bruikbaarheid en beveiliging van uw website te verbeteren. Deze inzichten zijn gegroepeerd in belangrijke opportuniteitsgebieden: Betrokkenheid, Verkeersverwerving, Beveiligingshouding, Sitegezondheid en Formulieroptimalisatie. Elke categorie benadrukt specifieke manieren om uw plaats te verbeteren, hetzij door bezoekersinteractie te verhogen, ontdekkingsbaarheid te verbeteren, veiligheid te versterken, plaatsstabiliteit te handhaven, of vormprestaties te optimaliseren.
+AEM Sites Optimizer biedt waardevolle inzichten en aanbevelingen om u te helpen de prestaties, bruikbaarheid en beveiliging van uw website te verbeteren. Deze inzichten worden gegroepeerd in belangrijke opportuniteitsgebieden: Betrokkenheid, Verkeersverwerving, Beveiligingstelling en, Sitegezondheid. Elke categorie benadrukt specifieke manieren om uw plaats te verbeteren, hetzij door bezoekersinteractie te verhogen, ontdekkingsbaarheid te verbeteren, veiligheid te versterken, of plaatsstabiliteit te handhaven.
 
-Als u deze mogelijkheden benut, wordt de gebruikerservaring verbeterd, krijgt u het juiste publiek en blijft uw site veilig en betrouwbaar. Het verbeteren van betrokkenheid en het aantrekken van verkeer drijft interactie en zichtbaarheid, terwijl een sterke veiligheidshulp en plaatsgezondheid helpen vertrouwen en stabiliteit verzekeren. Het optimaliseren van formulieren kan ook conversies stimuleren. Verken de onderstaande koppelingen om mogelijkheden per categorie te bekijken en manieren te vinden om uw site te verbeteren.
+Als u deze mogelijkheden benut, wordt de gebruikerservaring verbeterd, krijgt u het juiste publiek en blijft uw site veilig en betrouwbaar. Het verbeteren van betrokkenheid en het aantrekken van verkeer drijft interactie en zichtbaarheid, terwijl een sterke veiligheidshulp en plaatsgezondheid helpen vertrouwen en stabiliteit verzekeren.  Verken de onderstaande koppelingen om mogelijkheden per categorie te bekijken en manieren te vinden om uw site te verbeteren.
 
 ## Typen opportuniteiten
 
 <!-- CARDS 
 
-* ./traffic-acquisition.md
-   { title = Traffic acquisition }
 * ./engagement.md
    { title = Engagement }
-* ./site-health.md
-   { title = Site health }
 * ./security-posture.md
    { title = Security posture }
-* ./form-optimization.md
-   { title = Form optimization }
+* ./site-health.md
+   { title = Site health }
+* ./traffic-acquisition.md
+   { title = Traffic acquisition }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Traffic acquisition">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./traffic-acquisition.md" title="Verkeersverwerving" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/traffic-acquisition/hero.png" alt="Verkeersverwerving"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./traffic-acquisition.md" target="_blank" rel="referrer" title="Verkeersverwerving"> de aanwinst van het Verkeer </a>
-                    </p>
-                    <p class="is-size-6">Leer hoe te om verkeersaanwinst met Sites Optimizer te verhogen.</p>
-                </div>
-                <a href="./traffic-acquisition.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
-                </a>
-            </div>
-        </div>
-    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Engagement">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -76,29 +51,6 @@ Als u deze mogelijkheden benut, wordt de gebruikerservaring verbeterd, krijgt u 
                     <p class="is-size-6">Leer hoe u de betrokkenheid bij Sites Optimizer kunt verbeteren.</p>
                 </div>
                 <a href="./engagement.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Site health">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./site-health.md" title="Gezondheid van site" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/site-health/hero.png" alt="Gezondheid van site"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./site-health.md" target="_blank" rel="referrer" title="Gezondheid van site"> gezondheid van de Plaats </a>
-                    </p>
-                    <p class="is-size-6">Leer hoe u de gezondheid van uw site kunt verbeteren met Sites Optimizer.</p>
-                </div>
-                <a href="./site-health.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>
@@ -127,12 +79,12 @@ Als u deze mogelijkheden benut, wordt de gebruikerservaring verbeterd, krijgt u 
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Form optimization">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Site health">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./form-optimization.md" title="Formulier optimaliseren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Formulier optimaliseren"
+                    <a href="./site-health.md" title="Gezondheid van site" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/site-health/hero.png" alt="Gezondheid van site"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,11 +92,34 @@ Als u deze mogelijkheden benut, wordt de gebruikerservaring verbeterd, krijgt u 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Formulier optimaliseren"> optimalisering van de Vorm </a>
+                        <a href="./site-health.md" target="_blank" rel="referrer" title="Gezondheid van site"> gezondheid van de Plaats </a>
                     </p>
-                    <p class="is-size-6">Meer informatie over het optimaliseren van formulieren met Sites Optimizer.</p>
+                    <p class="is-size-6">Leer hoe u de gezondheid van uw site kunt verbeteren met Sites Optimizer.</p>
                 </div>
-                <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./site-health.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Traffic acquisition">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./traffic-acquisition.md" title="Verkeersverwerving" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/traffic-acquisition/hero.png" alt="Verkeersverwerving"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./traffic-acquisition.md" target="_blank" rel="referrer" title="Verkeersverwerving"> de aanwinst van het Verkeer </a>
+                    </p>
+                    <p class="is-size-6">Leer hoe te om verkeersaanwinst met Sites Optimizer te verhogen.</p>
+                </div>
+                <a href="./traffic-acquisition.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>

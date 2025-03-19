@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer Opportunity-documentatie
 description: Leer meer over alle beschikbare mogelijkheden voor Siteoptimalisatie en hoe u deze kunt gebruiken om de prestaties van uw site te verbeteren.
-source-git-commit: 76efc38b3f6bd3e1f5d63cf2396e443f7cb78762
+source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
@@ -96,12 +96,6 @@ Verken alle mogelijke mogelijkheden die in Sites Optimizer beschikbaar zijn:
 * ./invalid-or-missing-metadata.md
   {title=Invalid or missing metadata}
   {image=../../assets/common/card-code.png}
-* ./low-conversions.md
-  {title=Low conversions}
-  {image=../../assets/common/card-bag.png}
-* ./low-views.md
-  {title=Low views}
-  {image=../../assets/common/card-bag.png}   
 * ./missing-alt-text.md
   {title=Missing alt text}
   {image=../../assets/common/card-arrows.png}
@@ -300,52 +294,6 @@ Verken alle mogelijke mogelijkheden die in Sites Optimizer beschikbaar zijn:
                     <p class="is-size-6">Leer over de ongeldige of ontbrekende meta-gegevenskans en hoe te om het te gebruiken om verkeersverwerving te verbeteren.</p>
                 </div>
                 <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low conversions">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./low-conversions.md" title="Lage omzettingen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Lage omzettingen"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-conversions.md" target="_blank" rel="referrer" title="Lage omzettingen"> Lage omzettingen </a>
-                    </p>
-                    <p class="is-size-6">Leer meer over de lage conversiemogelijkheid en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.</p>
-                </div>
-                <a href="./low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low views">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./low-views.md" title="Lage weergaven" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Lage weergaven"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-views.md" target="_blank" rel="referrer" title="Lage weergaven"> Lage meningen </a>
-                    </p>
-                    <p class="is-size-6">Meer informatie over de lage weergavemogelijkheid en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.</p>
-                </div>
-                <a href="./low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>

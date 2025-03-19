@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Dit is een beschrijving voor de gebruikershandleiding die op de landingspagina wordt weergegeven.
-source-git-commit: 5d57d42623343ef5b968a4dc4368cc9ea4932d9d
+source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,6 @@ ht-degree: 0%
    + [Betrokkenheid](/help/opportunity-types/engagement.md)
    + [Gezondheid van site](/help/opportunity-types/site-health.md)
    + [Beveiligingspositie](/help/opportunity-types/security-posture.md)
-   + [Formulier optimaliseren](/help/opportunity-types/form-optimization.md)
 + Documentatie {#documentation}
    + [Overzicht](/help/documentation/overview.md)
    + [Basisbeginselen](/help/documentation/basics.md)
@@ -35,8 +34,6 @@ ht-degree: 0%
       + [Ongeldige of ontbrekende metagegevens](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [Ontbrekende of ongeldige gestructureerde gegevens](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [Ontbrekende alt-tekst](/help/documentation/opportunities/missing-alt-text.md)
-      + [Lage omzettingen](/help/documentation/opportunities/low-conversions.md)
-      + [Lage weergaven](/help/documentation/opportunities/low-views.md)
       + [Sitemapproblemen](/help/documentation/opportunities/sitemap-issues.md)
       + [Websitemachtigingen](/help/documentation/opportunities/website-permissions.md)
       + [Webkwetsbaarheden](/help/documentation/opportunities/website-vulnerabilities.md)
