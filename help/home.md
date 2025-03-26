@@ -1,9 +1,9 @@
 ---
 title: AEM Sites Optimizer
 description: Dit is de AEM Sites Optimizer landingspagina.
-source-git-commit: 62909a9c65a62beb202896d98bb9ab058bcd984a
+source-git-commit: ddb9cd950a3c793722ac6de49c449d70c491b495
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 2%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 # AEM Sites Optimizer
 
-![ Optimizer Experience Manager Sites ](./assets/sites-optimizer/hero.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
 Adobe Experience Manager (AEM) Sites Optimizer is een cloudservice waarmee de prestaties van websites die op AEM zijn gebouwd, worden geanalyseerd en verbeterd. Het identificeert gebieden waar het laden van pagina&#39;s, componentengebruik, en de levering van inhoud kunnen worden verbeterd, die u helpen de prestaties van uw website verbeteren en onderhoud en updatekosten drukken. Door Sites Optimizer te gebruiken, kunt u een vloeiende en betrouwbare online ervaring garanderen, die belangrijk is voor het onderhouden van betrokkenheid en conversies.
 
