@@ -2,7 +2,7 @@
 title: Broken Backlinks Opportunity Documentation
 description: Leer over de gebroken backlinks kans en hoe te om het te gebruiken om verkeersaanwinst te verbeteren.
 badgeTrafficAcquisition: label="Verkeersverwerving" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Verkeersverwerving"
-source-git-commit: d2f8df0515265f6bc983cf906e07e9bf7230becf
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -60,9 +60,9 @@ U kunt ervoor kiezen om vermeldingen met de verbroken doel-URL te negeren. Het s
 
 >[!ENDTABS]
 
+## Automatisch optimaliseren
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
-
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer gebroken backlinks ](./assets/broken-backlinks/auto-optimize.png){align="center"}
 

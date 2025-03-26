@@ -2,7 +2,7 @@
 title: Ongeldige of ontbrekende documentatie van de Kans van meta-gegevens
 description: Leer over de ongeldige of ontbrekende meta-gegevenskans en hoe te om het te gebruiken om verkeersverwerving te verbeteren.
 badgeTrafficAcquisition: label="Verkeersverwerving" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Verkeersverwerving"
-source-git-commit: 850c1ed49d4ee117ece19c865a329f13b69bc8dc
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '524'
 ht-degree: 0%
@@ -64,8 +64,9 @@ U kunt items met de beoogde verbroken of ongeldige metagegevens negeren. Het sel
 
 >[!ENDTABS]
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+## Automatisch optimaliseren
 
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer gesuggereerde ongeldige of ontbrekende meta-gegevens ](./assets/missing-or-invalid-metadata/auto-optimize.png){align="center"}
 

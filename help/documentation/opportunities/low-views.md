@@ -2,7 +2,7 @@
 title: Documentatie over opportunity voor lage weergaven
 description: Meer informatie over de lage weergavemogelijkheid en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.
 badgeFormOptimization: label="Formulieroptimalisatie" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Formulieroptimalisatie"
-source-git-commit: 258024606c732a4f4d4fe21a9ee36e1e2d3572f5
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -50,8 +50,9 @@ Klik op elke variatie om een voorvertoning weer te geven aan de rechterkant van 
 
 >[!ENDTABS]
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+## Automatisch optimaliseren
 
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer lage meningen ](./assets/low-views/auto-optimize.png){align="center"}
 

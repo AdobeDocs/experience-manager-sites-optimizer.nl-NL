@@ -2,7 +2,7 @@
 title: Sitemap Issues Opportunity Documentation
 description: Meer informatie over de sitemap-uitkeringsmogelijkheid en over hoe u deze kunt gebruiken om het aanschaffen van verkeer te verbeteren.
 badgeTrafficAcquisition: label="Verkeersverwerving" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Verkeersverwerving"
-source-git-commit: d812a49e4b49d329717586b9f3c7a235aff3e69a
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -75,8 +75,9 @@ Elke sitemapkwestie [ die aan de filtercriteria ](#auto-identify) voldoet is ver
 
 Suggesties bevatten doorgaans een bijgewerkt sitepad om de sitemapvermelding te corrigeren. In sommige gevallen kunnen ze ook gedetailleerdere instructies geven, zoals het juiste omleidingsdoel opgeven.
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+## Automatisch optimaliseren
 
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer de kwesties van de Sitemap ](./assets/sitemap-issues/auto-optimize.png){align="center"}
 

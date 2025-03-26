@@ -2,7 +2,7 @@
 title: Ontbrekende ALT-tekstdocumentatie
 description: Leer meer over de ontbrekende alternatieve tekstmogelijkheid en hoe u deze kunt gebruiken om de betrokkenheid op uw website te verbeteren.
 badgeEngagement: label="Betrokkenheid" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Betrokkenheid"
-source-git-commit: 84f922b5d0f788c1affe47a9013ed640947d0ec4
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -57,8 +57,9 @@ U kunt vermeldingen in de opportuniteitslijst negeren. Het selecteren van **nege
 
 >[!ENDTABS]
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+## Automatisch optimaliseren
 
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer ontbrekende alt tekst ](./assets/missing-alt-text/auto-optimize.png){align="center"}
 

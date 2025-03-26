@@ -2,7 +2,7 @@
 title: Documentatie over toegankelijkheidsproblemen
 description: Leer meer over de mogelijkheden voor toegankelijkheidsproblemen en hoe u deze kunt gebruiken om de beveiliging van uw website te verbeteren.
 badgeEngagement: label="Betrokkenheid" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Betrokkenheid"
-source-git-commit: fd439ce1e5191005fd79c81aef790f3cc7550e94
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -34,7 +34,9 @@ De **kans van de de kwesties van de Toegankelijkheid** identificeert toegankelij
 
 De auto-suggestie verstrekt AI-Gegenereerde aanbevelingen op **hoe te om het kwestie** gebied te bevestigen, dat voorschrijvende begeleiding op verstrekt wat te doen om de kwestie te bevestigen.
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+## Automatisch optimaliseren
+
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer toegankelijkheidskwesties ](./assets/accessibility-issues/auto-optimize.png){align="center"}
 

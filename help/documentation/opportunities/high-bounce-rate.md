@@ -2,7 +2,7 @@
 title: Documentatie voor opportunity over hoge stuitsnelheid
 description: Meer informatie over de lage weergavemogelijkheid en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.
 badgeEngagement: label="Betrokkenheid" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Betrokkenheid"
-source-git-commit: 393feffe477eff99a026b7ad7cad5531c20254ea
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -50,7 +50,9 @@ Klik op elke variatie om een voorvertoning weer te geven aan de rechterkant van 
 
 >[!ENDTABS]
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+## Automatisch optimaliseren
+
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer hoog stuittarief ](./assets/high-bounce-rate/auto-optimize.png){align="center"}
 

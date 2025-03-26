@@ -2,7 +2,7 @@
 title: Documentatie over opportunity-inhoud website
 description: Meer informatie over de mogelijkheden voor websitemachtigingen en hoe u deze kunt gebruiken om de beveiliging van uw website te verbeteren.
 badgeSecurityPosture: label="Beveiligingspositie" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Beveiligingspositie"
-source-git-commit: 5d1ae616ddde74f69b73ba5b44297c14b2dea36b
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -33,7 +33,9 @@ De **eigenschap van de Toestemmingen van de Website** identificeert zich automat
 
 De auto-suggestie verstrekt AI-Gegenereerde aanbevelingen op het **Voorgestelde toestemmingengebied**, toestaand u om het even welke gemarkeerde toestemmingen met veilige alternatieven te vervangen.
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+## Automatisch optimaliseren
+
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer websitetoestemmingen ](./assets/website-permissions/auto-optimize.png){align="center"}
 

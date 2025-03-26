@@ -2,7 +2,7 @@
 title: Documentatie voor lage conversiemogelijkheden
 description: Leer meer over de lage conversiemogelijkheid en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.
 badgeFormOptimization: label="Formulieroptimalisatie" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Formulieroptimalisatie"
-source-git-commit: f83926c9136e3d83be56faa403bc9609b2ee09df
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -50,8 +50,9 @@ Klik op elke variatie om een voorvertoning weer te geven aan de rechterkant van 
 
 >[!ENDTABS]
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+## Automatisch optimaliseren
 
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer lage omzettingen ](./assets/low-conversions/auto-optimize.png){align="center"}
 

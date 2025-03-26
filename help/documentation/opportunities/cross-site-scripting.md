@@ -2,7 +2,7 @@
 title: Documentatie over opportuniteit voor scripts die naar andere sites verwijzen
 description: Leer meer over de scriptmogelijkheid voor andere sites en om kwetsbaarheden op het gebied van sitebeveiliging te identificeren en te verhelpen.
 badgeSecurityPosture: label="Beveiligingspositie" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Beveiligingspositie"
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -29,8 +29,9 @@ Met de scriptmogelijkheid voor andere sites worden kwetsbaarheden in de code van
 
 * **stelde moeilijke situatie** voor - een AI-Gegenereerde suggestie op hoe te om de kwetsbaarheid te bevestigen.
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+## Automatisch optimaliseren
 
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 >[!BEGINTABS]
 

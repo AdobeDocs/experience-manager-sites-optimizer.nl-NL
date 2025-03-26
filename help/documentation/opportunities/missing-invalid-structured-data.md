@@ -2,7 +2,7 @@
 title: Ontbrekende of ongeldige gestructureerde gegevensdocumentatie
 description: Leer over de ontbrekende of ongeldige gestructureerde gegevenskans en hoe te om het te gebruiken om verkeersverwerving te verbeteren.
 badgeTrafficAcquisition: label="Verkeersverwerving" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Verkeersverwerving"
-source-git-commit: 0a333a4055e59c49d3266d8c3ed55d7e60771923
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
@@ -41,8 +41,9 @@ De ongeldige of ontbrekende gestructureerde gegevensmogelijkheid biedt ook door 
 * **Kwesties** - een gebied dat het aantal kwesties en een drop-down menu bevat dat van alle kwesties een lijst maakt.
 * **het gebied van de Suggestie** - een AI-Gegenereerde beschrijving en suggesties voor geschikte gestructureerde gegevensupdates. U kunt naar beneden schuiven voor extra suggesties en kwesties.
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+## Automatisch optimaliseren
 
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer voorgestelde ontbrekende of ongeldige gestructureerde gegevens ](./assets/missing-or-invalid-structured-data/auto-optimize.png){align="center"}
 

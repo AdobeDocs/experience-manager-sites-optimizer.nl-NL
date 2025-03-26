@@ -2,7 +2,7 @@
 title: Kerndocumentatie voor Kwaliteitsborging
 description: Leer over de belangrijkste kansen van het Web vitals en hoe te om het te gebruiken om verkeersaanwinst te verbeteren.
 badgeSiteHealth: label="Gezondheid van site" type="Caution" url="../../opportunity-types/site-health.md" tooltip="Gezondheid van site"
-source-git-commit: 81343812472477448fd0ee8be89bd6ae784a9e61
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -42,8 +42,9 @@ De belangrijkste kans van het Web van vitals verstrekt AI-Gegenereerde fixingssu
 
 Elke categorie kan verschillende problemen bevatten, zodat u omlaag kunt schuiven om de volledige lijst met problemen en aanbevelingen weer te geven.  Bovendien zijn er twee prestatiebreedten voor zowel mobiel als bureaublad voor elke meting.
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+## Automatisch optimaliseren
 
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer kernWeb kansen ](./assets/core-web-vitals/auto-optimize.png){align="center"}
 

@@ -2,7 +2,7 @@
 title: Documentatie over de configuratiemogelijkheid van CORS
 description: Leer over de de configuratiekans van CORS en om kwetsbaarheid van de plaatsveiligheid te identificeren en te bevestigen.
 badgeSecurityPosture: label="Beveiligingspositie" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Beveiligingspositie"
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -32,9 +32,9 @@ Met Automatisch identificeren kunt u uw website scannen op onjuiste CORS-configu
 De auto-voorstellen verstrekt van **dossiers van de code van de Toepassing** en hun **Lijnen** om worden herzien die laks beleid van CORS kunnen plaatsen.
 
 
-## Auto-optimaliseer [!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+## Automatisch optimaliseren
 
-
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 >[!BEGINTABS]
 
