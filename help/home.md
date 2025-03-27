@@ -1,9 +1,9 @@
 ---
 title: AEM Sites Optimizer
-description: Dit is de AEM Sites Optimizer landingspagina.
-source-git-commit: ddb9cd950a3c793722ac6de49c449d70c491b495
+description: Verhoog de prestaties van uw website met Sites Optimizer — verbeter de snelheid, verlaag de kosten en verbeter de betrouwbaarheid voor een betere betrokkenheid.
+source-git-commit: 80d1bb016dedcff9b3b6293008b43070ff24867c
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '140'
 ht-degree: 2%
 
 ---
