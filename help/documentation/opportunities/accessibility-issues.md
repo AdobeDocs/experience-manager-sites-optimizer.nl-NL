@@ -2,7 +2,7 @@
 title: Documentatie over toegankelijkheidsproblemen
 description: Leer meer over de mogelijkheden voor toegankelijkheidsproblemen en hoe u deze kunt gebruiken om de beveiliging van uw website te verbeteren.
 badgeEngagement: label="Betrokkenheid" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Betrokkenheid"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: c52b60fb483009856cb6976eddbf86141d0846fc
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -22,7 +22,7 @@ De kansen van toegankelijkheidskwesties identificeren hoe goed uw website aan de
 
 De **kans van de de kwesties van de Toegankelijkheid** identificeert toegankelijkheidskwesties op uw website, en omvat het volgende:
 
-* **Kwesties** - de specifieke toegankelijkheidskwestie gevonden.
+* **Kwesties** - de specifieke toegankelijkheidskwestie die wordt gevonden.
 * **Richtlijnen** - [ identiteitskaart van de 2} richtlijnen WCAG ](https://www.w3.org/TR/WCAG21/) de kwestie in schending van is.
 * **effect van de Gebruiker** - een beoordeling van het effect op gebruikers met handicaps.
 * **het Ontbreken elementen** - de elementen van HTML op webpage die door de kwestie worden beïnvloed.
