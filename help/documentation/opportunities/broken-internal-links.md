@@ -2,15 +2,15 @@
 title: Gebroken interne de Documentatie van de Kans van verbindingen
 description: Meer informatie over de kans op verbroken koppelingen en hoe u deze kunt gebruiken om de betrokkenheid op uw website te verbeteren.
 badgeEngagement: label="Betrokkenheid" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Betrokkenheid"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: c2bd3f7dc998b103ecdd02c239b1ea0312db20f1
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
 
 
-# Ongeldige of ontbrekende metagegevensmogelijkheid
+# Verbroken kans op interne koppelingen
 
 ![ Verbroken interne verbindingskansen ](./assets/broken-internal-links/hero.png){align="center"}
 
