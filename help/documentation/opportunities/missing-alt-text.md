@@ -41,7 +41,7 @@ Automatisch voorstellen biedt door AI gegenereerde suggesties voor de alternatie
 
 >[!BEGINTABS]
 
->[!TAB  geef ontbrekende alt tekst ] uit
+>[!TAB geef ontbrekende alt tekst  uit]
 
 ![ geef ontbrekende alt tekst ](./assets/missing-alt-text/edit-alt-text-value.png){align="center"} uit
 
@@ -59,7 +59,7 @@ U kunt vermeldingen in de opportuniteitslijst negeren. Het selecteren van **nege
 
 ## Automatisch optimaliseren
 
-[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer ontbrekende alt tekst ](./assets/missing-alt-text/auto-optimize.png){align="center"}
 
@@ -67,7 +67,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie
 
 >[!BEGINTABS]
 
->[!TAB  stel optimalisering ] op
+>[!TAB stel optimalisering  op]
 
 {{auto-optimize-deploy-optimization-slack}}
 

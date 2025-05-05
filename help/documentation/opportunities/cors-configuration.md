@@ -34,11 +34,11 @@ De auto-voorstellen verstrekt van **dossiers van de code van de Toepassing** en 
 
 ## Automatisch optimaliseren
 
-[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
 >[!BEGINTABS]
 
->[!TAB  stel optimalisering ] op
+>[!TAB stel optimalisering  op]
 
 {{auto-optimize-deploy-optimization-slack}}
 

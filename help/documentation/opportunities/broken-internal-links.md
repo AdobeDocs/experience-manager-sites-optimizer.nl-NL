@@ -46,7 +46,7 @@ De kans op verbroken interne koppelingen biedt door AI gegenereerde suggesties v
 
 Selecteer het **informatie** pictogram om de AI redenering voor voorgestelde URL te bekijken. De redenering verklaart waarom AI gelooft dat voorgestelde URL het beste geschikt voor de gebroken verbinding is. Dit kan u helpen het besluitvormingsproces van AI begrijpen en een weloverwogen beslissing nemen over het al dan niet aanvaarden of verwerpen van de suggestie.
 
->[!TAB  geef doel URL ] uit
+>[!TAB geef doel URL  uit]
 
 <!--![Edit suggested URL of broken internal links](./assets/broken-internal-links/edit-target-url.png){align="center"}-->
 
@@ -63,7 +63,7 @@ U kunt items negeren met de beoogde verbroken URL&#39;s. Het selecteren van **ne
 
 ## Automatisch optimaliseren
 
-[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
 <!---![Auto-optimize suggested invalid or missing metadata](./assets/broken-internal-links/auto-optimize.png){align="center"}-->
 
@@ -72,7 +72,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie
 
 >[!BEGINTABS]
 
->[!TAB  stel optimalisering ] op
+>[!TAB stel optimalisering  op]
 
 {{auto-optimize-deploy-optimization-slack}}
 

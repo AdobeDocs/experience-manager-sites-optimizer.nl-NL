@@ -52,7 +52,7 @@ Klik op elke variatie om een voorvertoning weer te geven aan de rechterkant van 
 
 ## Automatisch optimaliseren
 
-[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer hoog stuittarief ](./assets/high-bounce-rate/auto-optimize.png){align="center"}
 

@@ -23,7 +23,7 @@ De kansen van toegankelijkheidskwesties identificeren hoe goed uw website aan de
 De **kans van de de kwesties van de Toegankelijkheid** identificeert toegankelijkheidskwesties op uw website, en omvat het volgende:
 
 * **Kwesties** - de specifieke toegankelijkheidskwestie die wordt gevonden.
-* **Richtlijnen** - [ identiteitskaart van de 2} richtlijnen WCAG ](https://www.w3.org/TR/WCAG21/) de kwestie in schending van is.
+* **Richtlijnen** - [ identiteitskaart van de 2&rbrace; richtlijnen WCAG ](https://www.w3.org/TR/WCAG21/) de kwestie in schending van is.
 * **effect van de Gebruiker** - een beoordeling van het effect op gebruikers met handicaps.
 * **het Ontbreken elementen** - de elementen van HTML op webpage die door de kwestie worden beïnvloed.
 * **Plaats op de pagina** - het fragment van HTML van het element op de pagina die door de kwestie wordt beïnvloed.
@@ -36,7 +36,7 @@ De auto-suggestie verstrekt AI-Gegenereerde aanbevelingen op **hoe te om het kwe
 
 ## Automatisch optimaliseren
 
-[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer toegankelijkheidskwesties ](./assets/accessibility-issues/auto-optimize.png){align="center"}
 
@@ -44,7 +44,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie
 
 >[!BEGINTABS]
 
->[!TAB  stel optimalisering ] op
+>[!TAB stel optimalisering  op]
 
 {{auto-optimize-deploy-optimization-slack}}
 

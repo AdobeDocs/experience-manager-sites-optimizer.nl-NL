@@ -46,7 +46,7 @@ De kans op verbroken backs biedt ook door AI gegenereerde suggesties voor de pag
 
 Selecteer het **informatie** pictogram om de AI redenering voor voorgestelde URL te bekijken. De redenering verklaart waarom AI gelooft dat voorgestelde URL het beste geschikt voor de gebroken verbinding is. Dit kan u helpen het besluitvormingsproces van AI begrijpen en een weloverwogen beslissing nemen over het al dan niet aanvaarden of verwerpen van de suggestie.
 
->[!TAB  geef doel URL ] uit
+>[!TAB geef doel URL  uit]
 
 ![ geeft gesuggereerde URL van gebroken backlinks uit ](./assets/broken-backlinks/edit-target-url.png){align="center"}
 
@@ -62,7 +62,7 @@ U kunt ervoor kiezen om vermeldingen met de verbroken doel-URL te negeren. Het s
 
 ## Automatisch optimaliseren
 
-[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer gebroken backlinks ](./assets/broken-backlinks/auto-optimize.png){align="center"}
 
@@ -70,7 +70,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie
 
 >[!BEGINTABS]
 
->[!TAB  stel optimalisering ] op
+>[!TAB stel optimalisering  op]
 
 ![ stelt optimalisering van gebroken backlinks op ](./assets/broken-backlinks/deploy-optimization.png){align="center"}
 

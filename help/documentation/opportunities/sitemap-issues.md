@@ -49,7 +49,7 @@ Elke kwestie wordt getoond in een lijst, met de **kolom van de Pagina** identifi
 
 * **Pagina** - URL van de sitemapingang met een kwestie.
 
->[!TAB  richt ] opnieuw
+>[!TAB richt  opnieuw]
 
 ![ auto-identificeer sitemap cliëntfouten ](./assets/sitemap-issues/auto-identify-redirects.png){align="center"}
 
@@ -77,7 +77,7 @@ Suggesties bevatten doorgaans een bijgewerkt sitepad om de sitemapvermelding te 
 
 ## Automatisch optimaliseren
 
-[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer de kwesties van de Sitemap ](./assets/sitemap-issues/auto-optimize.png){align="center"}
 
@@ -85,7 +85,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatisch geoptimaliseer
 
 >[!BEGINTABS]
 
->[!TAB  stel optimalisering ] op
+>[!TAB stel optimalisering  op]
 
 {{auto-optimize-deploy-optimization-slack}}
 
