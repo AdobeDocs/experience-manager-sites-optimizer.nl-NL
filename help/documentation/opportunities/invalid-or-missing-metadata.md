@@ -66,7 +66,7 @@ U kunt items met de beoogde verbroken of ongeldige metagegevens negeren. Het sel
 
 ## Automatisch optimaliseren
 
-[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer gesuggereerde ongeldige of ontbrekende meta-gegevens ](./assets/missing-or-invalid-metadata/auto-optimize.png){align="center"}
 
@@ -74,7 +74,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie
 
 >[!BEGINTABS]
 
->[!TAB  stel optimalisering ] op
+>[!TAB stel optimalisering  op]
 
 {{auto-optimize-deploy-optimization-slack}}
 

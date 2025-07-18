@@ -43,7 +43,7 @@ De ongeldige of ontbrekende gestructureerde gegevensmogelijkheid biedt ook door 
 
 ## Automatisch optimaliseren
 
-[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
+[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer voorgestelde ontbrekende of ongeldige gestructureerde gegevens ](./assets/missing-or-invalid-structured-data/auto-optimize.png){align="center"}
 
@@ -51,7 +51,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie
 
 >[!BEGINTABS]
 
->[!TAB  stel optimalisering ] op
+>[!TAB stel optimalisering  op]
 
 {{auto-optimize-deploy-optimization-slack}}
 
