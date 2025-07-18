@@ -2,9 +2,9 @@
 title: Documentatie over kwetsbaarheden van website
 description: Leer meer over de kwetsbaarheden van de website en hoe u deze kunt gebruiken om de beveiliging van uw website te verhogen.
 badgeSecurityPosture: label="Beveiligingspositie" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Beveiligingspositie"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![ de kwetsbaarheidskans van de Website ](./assets/website-vulnerabilities/hero.png){align="center"}
 
-De kans op websitekwetsbaarheden identificeert beveiligingskwetsbaarheden in de bibliotheken van derden die door uw toepassingscode worden gebruikt. Deze kwetsbaarheden kunnen worden misbruikt door een kwaadwillige aanvaller, die het risico vergroot en de beveiligingspositie van uw website vermindert.
+De kwetsbaarheidskans van de website identificeert veiligheidskwetsbaarheden in de derdebibliotheken die door uw toepassingscode worden gebruikt. Kwaadwillige aanvallers misbruiken deze kwetsbaarheden, waardoor het risico toeneemt en de beveiligingsstatus van uw website afneemt.
 
 De kans op websitekwetsbaarheden toont een overzicht boven aan de pagina, met inbegrip van het volgende:
 
@@ -37,7 +37,7 @@ De **eigenschap van de Kans van de Kwetsbaarheid van de Kwetsbaarheid van de Web
 
 ![ automatisch-stelt websitekwetsbaarheden ](./assets/website-vulnerabilities/auto-suggest.png){align="center"} voor
 
-De auto-suggestie verstrekt AI-Gegenereerde suggesties voor de **Geadviseerde versie** van kwetsbare bibliotheek u zou moeten bevorderen aan. Elke ingang heeft a **Score** die op zijn algemene strengheid wijst, die aan de meest kritieke kwetsbaarheid helpt voorrang geven.
+De auto-suggestie verstrekt AI-Gegenereerde suggesties voor de **Geadviseerde versie** van een kwetsbare bibliotheek u zou moeten bevorderen aan. Elke ingang heeft a **Score** die op zijn algemene strengheid wijst, die aan de meest kritieke kwetsbaarheid helpt voorrang geven.
 
 >[!BEGINTABS]
 
@@ -47,14 +47,14 @@ Elke kwetsbaarheid bevat een verbinding aan de gedetailleerde informatie in het 
 
 >[!TAB  negeer ingangen ]
 
-U kunt items in de lijst met kwetsbaarheden negeren. Het selecteren van **negeert pictogram** verwijdert de ingang uit de lijst. De genegeerde ingangen kunnen van het **Genegeerde** lusje bij de bovenkant van de opportuniteitspagina opnieuw worden aangehaald.<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
+U kunt items in de lijst met kwetsbaarheden negeren. Het selecteren van ![ pictogram van de Schrapping ](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) verwijdert de ingang uit de lijst. De genegeerde ingangen kunnen van het **Genegeerde** lusje bij de bovenkant van de opportuniteitspagina opnieuw worden aangehaald.<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
 
 >[!ENDTABS]
 
 
 ## Automatisch optimaliseren
 
-[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ automatisch-optimaliseer website kwetsbaarheid ](./assets/website-vulnerabilities/auto-optimize.png){align="center"}
 
@@ -62,7 +62,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie
 
 >[!BEGINTABS]
 
->[!TAB stel optimalisering  op]
+>[!TAB  stel optimalisering ] op
 
 {{auto-optimize-deploy-optimization-slack}}
 

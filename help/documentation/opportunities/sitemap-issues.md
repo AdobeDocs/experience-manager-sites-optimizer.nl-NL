@@ -2,9 +2,9 @@
 title: Sitemap Issues Opportunity Documentation
 description: Meer informatie over de sitemap-uitkeringsmogelijkheid en over hoe u deze kunt gebruiken om het aanschaffen van verkeer te verbeteren.
 badgeTrafficAcquisition: label="Verkeersverwerving" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Verkeersverwerving"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![ de uitgiftekans van de Sitemap ](./assets/sitemap-issues/hero.png){align="center"}
 
-Met een volledige en nauwkeurige sitemap kunnen zoekprogramma&#39;s op efficiënte wijze door websitepagina&#39;s bladeren en indexeren, zodat de zoekresultaten beter zichtbaar zijn. Met de sitemapmogelijkheid worden potentiële problemen in uw sitemap geïdentificeerd. Door dit probleem op te lossen, kunt u de indexering van zoekprogramma&#39;s en de ontdekkingsmogelijkheden van inhoud op uw site aanzienlijk verbeteren.
+Met een volledige en nauwkeurige sitemap kunnen zoekprogramma&#39;s op efficiënte wijze door websitepagina&#39;s bladeren en indexeren, zodat de zoekresultaten beter zichtbaar zijn. Met de sitemapmogelijkheid worden potentiële problemen in uw sitemap geïdentificeerd. Door deze problemen op te lossen, kunt u de indexering van zoekprogramma&#39;s en de ontdekkingsmogelijkheden van inhoud op uw site aanzienlijk verbeteren.
 
 Boven aan de pagina wordt een overzicht weergegeven met een overzicht van het probleem en de gevolgen voor uw site en bedrijf.
 
@@ -36,11 +36,11 @@ Sitemap-problemen kunnen worden gefilterd aan de hand van de volgende criteria:
 
 ![ auto-identificeer sitemap cliëntfouten ](./assets/sitemap-issues/auto-identify-client-errors.png){align="center"}
 
-Als URLs in uw sitemap deze terugkeert, kunnen de onderzoeksmotoren veronderstellen uw sitemap verouderd is of dat de pagina&#39;s per ongeluk werden verwijderd. De client geeft aan dat de aanvraag van de client (browser of crawler) ongeldig was. Veelvoorkomende zijn:
+Als URL&#39;s in uw sitemap deze fouten retourneren, gaan zoekprogramma&#39;s er mogelijk van uit dat uw sitemap verouderd is of dat pagina&#39;s per ongeluk zijn verwijderd. De client geeft aan dat de aanvraag van de client (browser of crawler) ongeldig was. Veelvoorkomende zijn:
 
 * **404 niet Gevonden** - de gevraagde pagina bestaat niet.
 * **403 Verboden** - de server ontkent toegang tot de gevraagde pagina.
-* **410 Gone** - de pagina werd opzettelijk verwijderd en zal niet terugkeren.
+* **410 Gone** - de pagina werd opzettelijk verwijderd en is niet teruggekeerd.
 * **401 onbevoegd** - de Authentificatie wordt vereist maar verstrekt niet.
 
 Deze fouten kunnen SEO, vooral beschadigen als de belangrijke pagina&#39;s **404 of 410** terugkeren, aangezien de onderzoeksmotoren hen kunnen ontindexeren.
@@ -49,7 +49,7 @@ Elke kwestie wordt getoond in een lijst, met de **kolom van de Pagina** identifi
 
 * **Pagina** - URL van de sitemapingang met een kwestie.
 
->[!TAB richt  opnieuw]
+>[!TAB  richt ] opnieuw
 
 ![ auto-identificeer sitemap cliëntfouten ](./assets/sitemap-issues/auto-identify-redirects.png){align="center"}
 
@@ -77,7 +77,7 @@ Suggesties bevatten doorgaans een bijgewerkt sitepad om de sitemapvermelding te 
 
 ## Automatisch optimaliseren
 
-[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer de kwesties van de Sitemap ](./assets/sitemap-issues/auto-optimize.png){align="center"}
 
@@ -85,7 +85,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatisch geoptimaliseer
 
 >[!BEGINTABS]
 
->[!TAB stel optimalisering  op]
+>[!TAB  stel optimalisering ] op
 
 {{auto-optimize-deploy-optimization-slack}}
 

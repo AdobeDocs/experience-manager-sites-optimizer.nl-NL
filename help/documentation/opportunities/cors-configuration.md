@@ -2,9 +2,9 @@
 title: Documentatie over de configuratiemogelijkheid van CORS
 description: Leer over de de configuratiekans van CORS en om kwetsbaarheid van de plaatsveiligheid te identificeren en te bevestigen.
 badgeSecurityPosture: label="Beveiligingspositie" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Beveiligingspositie"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![ de configuratiekans van CORS ](./assets/cors-configuration/hero.png){align="center"}
 
-Het correct configureren van het delen van bronnen van oorsprong (CORS) is essentieel voor het beveiligen van webtoepassingen tegen ongeoorloofde gegevenstoegang. Wanneer de header `Access-Control-Allow-Origin` is ingesteld op `*` , kan elk domein reacties aanvragen en ontvangen, waarbij gevoelige informatie mogelijk aan aanvallers wordt getoond. Dit biedt een kans om de veiligheid te versterken door een gecontroleerde lijst van gewenste personen van vertrouwde domeinen uit te voeren of CORS onbruikbaar te maken waar het niet wordt vereist. Door een veilige installatie van CORS te garanderen, helpt u persoonlijke inhoud te beschermen en zorgt u voor naadloze toegang voor geautoriseerde gebruikers.
+Het correct configureren van het delen van bronnen van oorsprong (CORS) is essentieel voor het beveiligen van webtoepassingen tegen ongeoorloofde gegevenstoegang. Wanneer de header `Access-Control-Allow-Origin` is ingesteld op `*` , kan elk domein reacties aanvragen en ontvangen, waarbij gevoelige informatie mogelijk aan aanvallers wordt getoond. Deze functionaliteit biedt een kans om de beveiliging te versterken door een gecontroleerde lijst van gewenste personen van vertrouwde domeinen te implementeren of CORS uit te schakelen wanneer dit niet vereist is. Door een veilige installatie van CORS te garanderen, helpt u persoonlijke inhoud te beschermen en zorgt u voor naadloze toegang voor geautoriseerde gebruikers.
 
 ## Automatische identificatie
 
@@ -34,11 +34,11 @@ De auto-voorstellen verstrekt van **dossiers van de code van de Toepassing** en 
 
 ## Automatisch optimaliseren
 
-[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 >[!BEGINTABS]
 
->[!TAB stel optimalisering  op]
+>[!TAB  stel optimalisering ] op
 
 {{auto-optimize-deploy-optimization-slack}}
 

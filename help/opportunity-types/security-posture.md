@@ -1,7 +1,7 @@
 ---
 title: Beveiligingspositie optimaliseren met Sites Optimizer
 description: Leer hoe u de beveiliging van uw site kunt verbeteren met Sites Optimizer.
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![ de posture van de Veiligheid kansen ](./assets/security-posture/hero.png){align="center"}
 
-Het handhaven van een sterke veiligheidshulp in AEM Sites Optimizer is essentieel voor het beschermen van digitale ervaringen en gebruikersgegevens. Door mogelijkheden voor verbetering-zoals configuratie CORS, dwars-plaats scripting, websitetoestemmingen, en website kwetsbaarheid-teams te identificeren kunnen potentiële veiligheidsrisico&#39;s proactively richten en naleving van beste praktijken verzekeren. Versterking van de beveiligingsmaatregelen beschermt niet alleen gevoelige informatie, maar vergroot ook het vertrouwen van de gebruiker en de betrouwbaarheid van de site. Door gebruik te maken van AEM Sites Optimizer-inzichten kunnen organisaties hun beveiligingsstandpunt voortdurend bewaken en verbeteren, risico&#39;s beperken en een veilige digitale omgeving handhaven.
+Het handhaven van een sterke veiligheidshulp in AEM Sites Optimizer is essentieel voor het beschermen van digitale ervaringen en gebruikersgegevens. Door mogelijkheden voor verbetering-zoals configuratie CORS, dwars-plaats scripting, websitetoestemmingen, en website kwetsbaarheid-teams te identificeren kunnen potentiële veiligheidsrisico&#39;s proactively richten en naleving van beste praktijken verzekeren. Versterking van de beveiligingsmaatregelen beschermt niet alleen gevoelige informatie, maar vergroot ook het vertrouwen van de gebruiker en de betrouwbaarheid van de site. Met behulp van AEM Sites Optimizer-inzichten kunnen organisaties hun beveiligingsstandpunt voortdurend bewaken en verbeteren, risico&#39;s beperken en een veilige digitale omgeving handhaven.
 
 ## Kansen
 

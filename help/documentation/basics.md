@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer Basics
 description: Leer meer over de basisbeginselen van Sites Optimizer en hoe u erin kunt navigeren.
-source-git-commit: 38e6921ab511b34e54fe97e7317ba1442a4d2121
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '510'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Het Sites Optimizer-dashboard biedt een overzicht op hoog niveau van de prestati
 
 ![ het domeinmanager van de Optimizer van de Plaats ](./assets/basics/domain-manager.png){align="center"}
 
-Met het contextmenu van de domeincontroller kunt u de AEM-site per domein kiezen die u wilt beoordelen en optimaliseren. Sites Optimizer verstrekt een lijst van alle plaatsen van productieAEM die in [ worden geregistreerd Cloud Manager ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
+Met het contextmenu van de domeincontroller kunt u de AEM-site per domein kiezen die u wilt beoordelen en optimaliseren. Sites Optimizer verstrekt een lijst van alle plaatsen van productieAEM die in [ worden geregistreerd Cloud Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
 
 ## Navigatie
 
@@ -28,7 +28,7 @@ Met het contextmenu van de domeincontroller kunt u de AEM-site per domein kiezen
 De sectie Navigatie biedt snel en permanent toegang tot belangrijke gebieden van de Sites Optimizer vanaf elke willekeurige locatie in Sites Optimizer, waaronder:
 
 * **Huis** - het belangrijkste dashboard, dat een overzicht op hoog niveau van de prestaties en de kansen van uw plaats voor verbetering verstrekt.
-* **Kansen** - bekijk en beheer de kansen die door Sites Optimizer worden geïdentificeerd, met inbegrip van die die zijn geoptimaliseerd en die die niet geoptimaliseerd blijven.
+* **Kansen** - bekijk en beheer de kansen die door Sites Optimizer worden geïdentificeerd, met inbegrip van die kansen die zijn geoptimaliseerd of niet geoptimaliseerd blijven.
 * **Montages** - vorm uw montages van Sites Optimizer, met inbegrip van de plaatsen u controleert en de berichten u ontvangt.
 
 ## Overzicht van site
@@ -50,7 +50,8 @@ De sectie Site Summary biedt een momentopname van de prestaties van uw site, hoe
 
 De sectie Hoge Kansen van het Effect benadrukt de belangrijkste hangende kansen voor verbetering, die op hun potentiële effect op de prestaties van uw plaats wordt gebaseerd. Deze mogelijkheden zijn ingedeeld per type, waardoor u eenvoudig prioriteiten kunt stellen bij uw optimaliseringsinspanningen.
 
-De kansen kunnen door sleutelwoorden, markeringen, of URLs, of door [ opportuniteitstype ](../opportunity-types/overview.md) worden gefiltreerd om u te helpen op de meest kritieke gebieden van verbetering concentreren.
+De kansen van de filter door sleutelwoorden, markeringen, URLs, of [ opportuniteitstype ](../opportunity-types/overview.md) om op de meest kritieke gebieden van verbetering te concentreren.
+
 
 ### Opportuniteitsdetails
 
@@ -59,9 +60,9 @@ De kansen kunnen door sleutelwoorden, markeringen, of URLs, of door [ opportunit
 Elke gelegenheid biedt een korte beschrijving van het probleem, de mogelijke gevolgen voor uw site en een link naar volledige informatie. U kunt ook de status bekijken, om aan te geven of de toepassing is geoptimaliseerd of nog in behandeling is.
 
 * **titel van de Kans** - een korte beschrijving van de kwestie en zijn potentiële effect op de prestaties van uw plaats.
-* **laatst bijgewerkt** - de datum de kans werd laatst bijgewerkt door Sites Optimizer met nieuwe gegevens.
+* **Laatst bijgewerkt** - Sites Optimizer werkte de kans met nieuwe gegevens op deze datum laatst bij.
 * **Aantal van de Uitgave** - het aantal instanties van de kwestie die op uw plaats wordt geïdentificeerd.
-* **Type(n) van Kans** - [ type(n) van de kans ](../opportunity-types/overview.md) deze kans maakt deel uit van - zoals verkeersaanschaf, overeenkomst, of plaatsgezondheid.
+* **types van Kans** - de [ types van kans ](../opportunity-types/overview.md) dat deze kans deel van - zoals verkeersaanwinst, overeenkomst, of plaatsgezondheid uitmaakt.
 
 De summiere informatie voor elke kans varieert door type en kan details over opbrengsteffect, verkeer, gebruikersovereenkomst, of veiligheidsbedreigingen omvatten.
 

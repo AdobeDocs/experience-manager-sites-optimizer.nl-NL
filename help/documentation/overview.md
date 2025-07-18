@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer-documentatie
 description: documentatie van Experience Manager Sites Optimizer.
-source-git-commit: a0b7fcae81bee2bce5ed1d3186026f4577708512
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---

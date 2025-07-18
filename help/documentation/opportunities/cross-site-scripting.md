@@ -2,7 +2,7 @@
 title: Documentatie over opportuniteit voor scripts die naar andere sites verwijzen
 description: Leer meer over de scriptmogelijkheid voor andere sites en om kwetsbaarheden op het gebied van sitebeveiliging te identificeren en te verhelpen.
 badgeSecurityPosture: label="Beveiligingspositie" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Beveiligingspositie"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![ de kans van de dwars-plaats ](./assets/cross-site-scripting/hero.png){align="center"}
 
-Met de scriptmogelijkheid voor andere sites worden kwetsbaarheden in de code van uw site geïdentificeerd en gecorrigeerd die door aanvallers kunnen worden benut om schadelijke scripts te injecteren in webpagina&#39;s die door andere gebruikers worden weergegeven. Deze scripts kunnen vertrouwelijke informatie stelen, zoals sessiecookies, of acties uitvoeren namens de gebruiker, zoals het wijzigen van het wachtwoord van de gebruiker.
+Met de scriptmogelijkheid voor andere sites worden kwetsbaarheden in de code van uw site geïdentificeerd. Vervolgens worden problemen opgelost die aanvallers kunnen misbruiken om kwaadaardige scripts te injecteren in webpagina&#39;s die door andere gebruikers worden weergegeven. Deze scripts kunnen vertrouwelijke informatie stelen, zoals sessiecookies, of acties uitvoeren namens de gebruiker, zoals het wijzigen van het wachtwoord van de gebruiker.
 
 ## Automatische identificatie
 
@@ -31,11 +31,11 @@ Met de scriptmogelijkheid voor andere sites worden kwetsbaarheden in de code van
 
 ## Automatisch optimaliseren
 
-[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 >[!BEGINTABS]
 
->[!TAB stel optimalisering  op]
+>[!TAB  stel optimalisering ] op
 
 {{auto-optimize-deploy-optimization-slack}}
 

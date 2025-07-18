@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer Opportunity-documentatie
 description: Leer meer over alle beschikbare mogelijkheden voor Siteoptimalisatie en hoe u deze kunt gebruiken om de prestaties van uw site te verbeteren.
-source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Sites Optimizer bestaat uit een steeds groter wordende reeks mogelijkheden van Adobe AI, die ontworpen is om verbeteringen voor uw website te identificeren en voor te stellen. Elke kans biedt inzicht in de potentiële bedrijfswaarde, benadrukt gebieden die aandacht nodig hebben, en verstrekt activeerbare aanbevelingen voor optimalisering. Klik in elke gelegenheid om de geïdentificeerde problemen te verkennen, suggesties voor verbeteringen en stapsgewijze instructies voor het implementeren van deze wijzigingen voor verbeterde websiteprestaties en gebruikerservaring.
 
-De kansen zijn beschikbaar via de **menuoptie 0&rbrace; Kansen &lbrace;in [ de blijvende navigatie van de Optimizer van de Plaats ](/help/documentation/basics.md#navigation).**
+De kansen zijn beschikbaar via de **menuoptie 0} Kansen {in** de blijvende navigatie van de Optimizer van de Plaats [.](/help/documentation/basics.md#navigation)
 
 ## Opportunity-status
 
-De kansen kunnen door status worden georganiseerd en worden gefiltreerd gebruikend de lusjes over de bovenkant:
+Gebruik de lusjes over de bovenkant om kansen door status te organiseren en te filtreren.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ Een historische lijst met mogelijkheden die zijn geoptimaliseerd.
 
 ## Kansen
 
-Met een [ geselecteerde opportuniteitsstatus ](#opportunity-status), kunt u een lijst van kansen bekijken. De lijst van mogelijkheden kan verder worden gefilterd door:
+Met een [ geselecteerde opportuniteitsstatus ](#opportunity-status), kunt u een lijst van kansen bekijken. U kunt de lijst met mogelijkheden op de volgende manieren filteren:
 
 * **Onderzoek** - Onderzoek van kansen door **sleutelwoorden, markeringen of URLs**.
 * **het type van Kans** - gebruik **Type** dropdown aan filterkansen door [ opportuniteitstype ](/help/opportunity-types/overview.md).
@@ -56,9 +56,10 @@ Met een [ geselecteerde opportuniteitsstatus ](#opportunity-status), kunt u een 
 Elke gelegenheid biedt een korte beschrijving van het probleem, de mogelijke gevolgen voor uw site en een link naar volledige informatie. U kunt ook de status bekijken, om aan te geven of de toepassing is geoptimaliseerd of nog in behandeling is.
 
 * **titel van de Kans** - een korte beschrijving van de kwestie en zijn potentiële effect op de prestaties van uw plaats.
-* **laatst bijgewerkt** - de datum de kans werd laatst bijgewerkt door Sites Optimizer met nieuwe gegevens.
+* **Laatst bijgewerkt** - Sites Optimizer werkte de kans met nieuwe gegevens op deze datum laatst bij.
+
 * **Aantal van de Uitgave** - het aantal instanties van de kwestie die op uw plaats wordt geïdentificeerd.
-* **Type(s) van Kans** - [ type(n) van de kans ](/help/opportunity-types/overview.md), is deze kans deel van - zoals verkeersaanwinst, overeenkomst, of plaatsgezondheid.
+* **types van Kans** - de [ types van kans ](/help/opportunity-types/overview.md) dat deze kans deel van - zoals verkeersaanwinst, overeenkomst, of plaatsgezondheid uitmaakt.
 
 De summiere informatie voor elke kans varieert door type en kan details over opbrengsteffect, verkeer, gebruikersovereenkomst, of veiligheidsbedreigingen omvatten.
 

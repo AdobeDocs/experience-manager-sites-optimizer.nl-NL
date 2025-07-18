@@ -2,9 +2,9 @@
 title: Documentatie voor lage conversiemogelijkheden
 description: Leer meer over de lage conversiemogelijkheid en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.
 badgeFormOptimization: label="Formulieroptimalisatie" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Formulieroptimalisatie"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Elke webpagina met een vorm met lage omzettingen is vermeld als zijn eigen **Lag
 
 ![ auto-stelt lage omzettingen ](./assets/low-conversions/auto-suggest.png){align="center"} voor
 
-Automatische suggesties biedt door AI gegenereerde webpaginamarges die ontworpen zijn om de conversie van uw formulieren te vergroten. Elke variatie toont de **verhoging van de het tarief van de projectomzetting** wordt gebaseerd op zijn potentieel om vormovereenkomst te verbeteren, die u helpt bij de meest efficiënte suggesties voorrang geven.
+Automatische suggesties biedt door AI gegenereerde webpaginamarges die ontworpen zijn om de conversie van uw formulieren te vergroten. Elke variatie toont de **verhoging van de het tarief van de projectomzetting** die op zijn potentieel wordt gebaseerd om vormovereenkomst te verbeteren, die u helpt aan de meest efficiënte suggesties voorrang geven.
 
 >[!BEGINTABS]
 
@@ -52,7 +52,7 @@ Klik op elke variatie om een voorvertoning weer te geven aan de rechterkant van 
 
 ## Automatisch optimaliseren
 
-[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer lage omzettingen ](./assets/low-conversions/auto-optimize.png){align="center"}
 

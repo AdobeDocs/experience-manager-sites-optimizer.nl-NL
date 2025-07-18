@@ -1,9 +1,9 @@
 ---
 title: Formulieroptimalisatie met Sites Optimizer
 description: Meer informatie over het optimaliseren van formulieren met Sites Optimizer.
-source-git-commit: 84f922b5d0f788c1affe47a9013ed640947d0ec4
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![ de optimaliseringskansen van de Vorm ](./assets/form-optimization/hero.png){align="center"}
 
-Optimalisatie van formulieren in AEM Sites Optimizer is essentieel voor het verbeteren van gebruikersinteracties en het maximaliseren van conversies. Door gebieden voor verbetering aan te wijzen—zoals lage meningen en lage omzettingen van vorm—kunnen de teams vormontwerp, plaatsing, en inhoud verfijnen om overeenkomst te verbeteren. Geoptimaliseerde formulieren zorgen voor een naadloze gebruikerservaring, waardoor het voor bezoekers gemakkelijker wordt om handelingen uit te voeren en bedrijfsresultaten te sturen. Door gebruik te maken van AEM Sites Optimizer-inzichten kunnen marketers voortdurend gebieden voor verbetering identificeren, waardoor de effectiviteit uiteindelijk toeneemt en de algehele prestaties van de site worden verbeterd.
+Optimalisatie van formulieren in AEM Sites Optimizer is essentieel voor het verbeteren van gebruikersinteracties en het maximaliseren van conversies. Door gebieden voor verbetering aan te wijzen—zoals lage meningen en lage omzettingen van vorm—kunnen de teams vormontwerp, plaatsing, en inhoud verfijnen om overeenkomst te verbeteren. Geoptimaliseerde formulieren zorgen voor een naadloze gebruikerservaring, waardoor het voor bezoekers gemakkelijker wordt om handelingen uit te voeren en bedrijfsresultaten te sturen. Door AEM Sites Optimizer-inzichten te gebruiken, kunnen marketers voortdurend gebieden voor verbetering identificeren, waardoor de effectiviteit uiteindelijk toeneemt en de algehele prestaties van de site worden verbeterd.
 
 ## Kansen
 

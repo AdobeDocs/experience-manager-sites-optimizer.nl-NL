@@ -2,9 +2,9 @@
 title: Ontbrekende of ongeldige gestructureerde gegevensdocumentatie
 description: Leer over de ontbrekende of ongeldige gestructureerde gegevenskans en hoe te om het te gebruiken om verkeersverwerving te verbeteren.
 badgeTrafficAcquisition: label="Verkeersverwerving" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Verkeersverwerving"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ De ongeldige of ontbrekende gestructureerde gegevensmogelijkheid biedt ook door 
 
 ## Automatisch optimaliseren
 
-[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer voorgestelde ontbrekende of ongeldige gestructureerde gegevens ](./assets/missing-or-invalid-structured-data/auto-optimize.png){align="center"}
 
@@ -51,7 +51,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie
 
 >[!BEGINTABS]
 
->[!TAB stel optimalisering  op]
+>[!TAB  stel optimalisering ] op
 
 {{auto-optimize-deploy-optimization-slack}}
 

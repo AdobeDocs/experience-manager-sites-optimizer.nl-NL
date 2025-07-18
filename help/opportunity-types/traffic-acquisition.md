@@ -1,9 +1,9 @@
 ---
 title: Verkeersaanschaf optimaliseren met Sites Optimizer
 description: Leer hoe te om verkeersaanwinst met Sites Optimizer te verhogen.
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![ de verwervingskansen van het Verkeer ](./assets/traffic-acquisition/hero.png){align="center"}
 
-Verkeersaanschaf is van essentieel belang om potentiële klanten naar uw website te leiden en mogelijkheden voor verkoop of het genereren van leads te creëren. Door strategieën zoals optimalisatie voor zoekprogramma&#39;s (SEO) te benutten, kunnen bedrijven de zichtbaarheid van zoekopdrachten verbeteren en het voor gebruikers gemakkelijker maken om hun inhoud te ontdekken. Een gestage stroom bezoekers verhoogt niet alleen het bewustzijn en het vertrouwen van het merk, maar biedt ook waardevolle inzichten in gebruikersgedrag, waardoor teams hun aanbod kunnen verfijnen en de algemene ervaring kunnen verbeteren. Door gebruik te maken van AEM Sites Optimizer-inzichten kunt u doorlopend optimaliseren, duurzame groei en verbeterde conversietarieven in de loop der tijd garanderen.
+Verkeersaanschaf drijft potentiële klanten naar uw website en creëert verkoop- of leadmogelijkheden. Door strategieën zoals de optimalisering van de onderzoeksmotor (SEO) te gebruiken, kunnen de ondernemingen onderzoekszicht verbeteren en het voor gebruikers gemakkelijker maken om hun inhoud te ontdekken. Een gestage stroom bezoekers vergroot het bewustzijn van merken en vergroot het vertrouwen. Het geeft ook waardevolle inzichten in gebruikersgedrag. Met deze inzichten kunnen teams hun aanbod verfijnen en de algehele ervaring verbeteren. Met behulp van AEM Sites Optimizer-inzichten kunt u doorlopend optimaliseren, een duurzame groei garanderen en de conversiegraad in de loop der tijd verbeteren.
 
 ## Kansen
 

@@ -1,9 +1,9 @@
 ---
 title: Betrokkenheid met Sites Optimizer optimaliseren
 description: Leer hoe u de betrokkenheid bij Sites Optimizer kunt verbeteren.
-source-git-commit: 62909a9c65a62beb202896d98bb9ab058bcd984a
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![ de kansen van de Betrokkenheid ](./assets/engagement/hero.png){align="center"}
 
-Betrokkenheidsmogelijkheden in AEM Sites Optimizer zijn van cruciaal belang voor het verbeteren van digitale ervaringen door gebruikers inzicht te geven in de manier waarop ze met webpagina&#39;s werken. Door gebieden voor verbetering te identificeren - zoals toegankelijkheidskwesties, gebroken interne verbindingen, hoge stuittarieven, en ontbrekende alt tekst - kunnen de marketers en inhoudsauteurs hun plaatsen voor betere prestaties en gebruikersbetrokkenheid optimaliseren. Deze kansen helpen ervoor zorgen dat de inhoud effectief, ontdekkbaar, en dwingend is, uiteindelijk drijvende hogere omzettingen en een naadloze klantenreis. Door gebruik te maken van AEM Sites Optimizer-aanbevelingen kunnen teams hun digitale strategie voortdurend verfijnen en op grote schaal ervaringen met hoge impact bieden.
+Betrokkenheidsmogelijkheden in AEM Sites Optimizer zijn van cruciaal belang voor het verbeteren van digitale ervaringen door gebruikers inzicht te geven in de manier waarop ze met webpagina&#39;s werken. Door gebieden voor verbetering te identificeren - zoals toegankelijkheidskwesties, gebroken interne verbindingen, hoge stuittarieven, en ontbrekende alt tekst - kunnen de marketers en inhoudsauteurs hun plaatsen voor betere prestaties en gebruikersbetrokkenheid optimaliseren. Deze kansen helpen ervoor zorgen dat de inhoud effectief, ontdekkbaar, en dwingend is, uiteindelijk drijvende hogere omzettingen en een naadloze klantenreis. Met AEM Sites Optimizer-aanbevelingen kunnen teams hun digitale strategie voortdurend verfijnen en op grote schaal ervaringen met hoge impact bieden.
 
 
 ## Kansen

@@ -2,7 +2,7 @@
 title: Gebroken interne de Documentatie van de Kans van verbindingen
 description: Meer informatie over de kans op verbroken koppelingen en hoe u deze kunt gebruiken om de betrokkenheid op uw website te verbeteren.
 badgeEngagement: label="Betrokkenheid" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Betrokkenheid"
-source-git-commit: c2bd3f7dc998b103ecdd02c239b1ea0312db20f1
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![ Verbroken interne verbindingskansen ](./assets/broken-internal-links/hero.png){align="center"}
 
-Verbroken interne koppelingen beïnvloeden het vermogen van het zoekprogramma om uw site te indexeren en beïnvloeden zowel de gebruikerservaring als de optimalisatie van zoekprogramma&#39;s negatief. Om dit probleem te verhelpen, verwijst de kans op verbroken interne koppelingen naar verbroken URL&#39;s en biedt u suggesties voor geldige koppelingsupdates. Het aanpakken van deze problemen zal de betrokkenheid van gebruikers verbeteren en voor een soepele navigatie en toegankelijkheid zorgen.
+Verbroken interne koppelingen beïnvloeden het vermogen van het zoekprogramma om uw site te indexeren en beïnvloeden zowel de gebruikerservaring als de optimalisatie van zoekprogramma&#39;s negatief. Om dit probleem te verhelpen, verwijst de kans op verbroken interne koppelingen naar verbroken URL&#39;s en biedt u suggesties voor geldige koppelingsupdates. Het aanpakken van deze problemen kan de betrokkenheid van gebruikers verbeteren en voor een vloeiende navigatie en toegankelijkheid zorgen.
 
 De verbroken kans op interne koppelingen geeft een overzicht boven aan de pagina, inclusief een overzicht van het probleem en de gevolgen ervan voor uw site en bedrijf.
 
@@ -35,7 +35,7 @@ De kans om verbroken interne koppelingen te maken geeft automatisch alle verbrok
 
 <!--![Auto-suggest broken internal links](./assets/broken-internal-links/auto-suggest.png){align="center"}-->
 
-De kans op verbroken interne koppelingen biedt door AI gegenereerde suggesties voor het bijwerken van verbroken koppelingen. Deze suggesties zijn gebaseerd op de beoogde verbroken URL en bieden een geschikte vervanging. Het selecteren van het **informatiepictogram** verstrekt een AI-Gegenereerde redenering voor de voorgestelde update.
+De kans op verbroken interne koppelingen biedt door AI gegenereerde suggesties voor het bijwerken van verbroken koppelingen. Deze suggesties zijn gebaseerd op de beoogde verbroken URL en bieden een geschikte vervanging. Het selecteren van ![ pictogram van de Informatie ](https://spectrum.adobe.com/static/icons/workflow_18/Smock_InfoOutline_18_N.svg) verstrekt een AI-Gegenereerde redenering voor de voorgestelde update.
 
 
 >[!BEGINTABS]
@@ -44,26 +44,26 @@ De kans op verbroken interne koppelingen biedt door AI gegenereerde suggesties v
 
 <!--[AI rationale of broken internal links](./assets/broken-internal-links/auto-suggest-ai-rationale.png) -->
 
-Selecteer het **informatie** pictogram om de AI redenering voor voorgestelde URL te bekijken. De redenering verklaart waarom AI gelooft dat voorgestelde URL het beste geschikt voor de gebroken verbinding is. Dit kan u helpen het besluitvormingsproces van AI begrijpen en een weloverwogen beslissing nemen over het al dan niet aanvaarden of verwerpen van de suggestie.
+Selecteer ![ het pictogram van de Informatie ](https://spectrum.adobe.com/static/icons/workflow_18/Smock_InfoOutline_18_N.svg) om de AI redenering voor voorgestelde URL te bekijken. De redenering verklaart waarom AI gelooft dat voorgestelde URL het beste geschikt voor de gebroken verbinding is. Het kan u ook helpen het besluitvormingsproces van AI te begrijpen en een weloverwogen beslissing te nemen over het al dan niet aanvaarden of verwerpen van het voorstel.
 
->[!TAB geef doel URL  uit]
+>[!TAB  geef doel URL ] uit
 
 <!--![Edit suggested URL of broken internal links](./assets/broken-internal-links/edit-target-url.png){align="center"}-->
 
-Als u met de op AI-Gegenereerde suggestie oneens bent, kunt u de voorgestelde verbindingswaarde uitgeven door **te selecteren geef pictogram** uit. Zo kunt u de gewenste koppeling handmatig invoeren. Het uitgeven venster bevat de **Gebroken doelweg** van de verbinding, **Gewenst doelweg** waar u de verbinding en een gebied met de a-geproduceerde suggestie manueel kunt uitgeven. Nadat u klaar bent met het uitgeven, klik **sparen** om de gebroken verbindingsingang bij te werken. Er verschijnt een gele stip in het invoerveld om aan te geven dat de koppeling is bewerkt.
+Als u met de op AI-Gegenereerde suggestie oneens bent, kunt u de voorgestelde verbindingswaarde uitgeven door **te selecteren geef pictogram** uit. Hierdoor kunt u de gewenste koppeling handmatig invoeren. Het uitgeven venster bevat de **Gebroken doelweg** van de verbinding, **Gewenst doelweg** waar u de verbinding en een gebied met de a-geproduceerde suggestie manueel kunt uitgeven. Nadat u klaar bent met het uitgeven, klik **sparen** om de gebroken verbindingsingang bij te werken. Er verschijnt een gele stip in het invoerveld om aan te geven dat de koppeling is bewerkt.
 
 >[!TAB  negeer ingangen ]
 
 <!--![Ignore broken links](./assets/broken-internal-links/ignore.png){align="center"}-->
 
-U kunt items negeren met de beoogde verbroken URL&#39;s. Het selecteren van **negeert pictogram** verwijdert de ingang uit de opportuniteitslijst. De genegeerde ingangen kunnen van het **Genegeerde** lusje bij de bovenkant van de opportuniteitspagina opnieuw worden aangehaald.
+U kunt items negeren met de beoogde verbroken URL&#39;s. Het selecteren van ![ pictogram van de Schrapping ](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) verwijdert de ingang uit de opportuniteitslijst. De genegeerde ingangen kunnen van het **Genegeerde** lusje bij de bovenkant van de opportuniteitspagina opnieuw worden aangehaald.
 
 >[!ENDTABS]
 
 
 ## Automatisch optimaliseren
 
-[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 <!---![Auto-optimize suggested invalid or missing metadata](./assets/broken-internal-links/auto-optimize.png){align="center"}-->
 
@@ -72,7 +72,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie
 
 >[!BEGINTABS]
 
->[!TAB stel optimalisering  op]
+>[!TAB  stel optimalisering ] op
 
 {{auto-optimize-deploy-optimization-slack}}
 

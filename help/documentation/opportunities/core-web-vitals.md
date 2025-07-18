@@ -2,9 +2,9 @@
 title: Kerndocumentatie voor Kwaliteitsborging
 description: Leer over de belangrijkste kansen van het Web vitals en hoe te om het te gebruiken om verkeersaanwinst te verbeteren.
 badgeSiteHealth: label="Gezondheid van site" type="Caution" url="../../opportunity-types/site-health.md" tooltip="Gezondheid van site"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![ de kansen van kernWeb vitals ](./assets/core-web-vitals/hero.png){align="center"}
 
-De belangrijkste kans van het Web van vitals identificeert kwesties die de gebruikerservaring en de biologische onderzoeksprestaties van uw Web-pagina&#39;s kunnen degraderen. Deze problemen zijn het gevolg van een groot aantal factoren, zoals aangepaste lettertypen, niet-geoptimaliseerde javascript-afhankelijkheden, scripts van derden enzovoort. De belangrijkste kans op internet wijst op deze onvolkomenheden en stelt oplossingen voor die de prestaties van uw webpagina kunnen verbeteren. Houd er rekening mee dat alleen pagina&#39;s met weergaven van minstens 1000 pagina&#39;s kunnen worden geanalyseerd.
+De belangrijkste kans van het Web van vitals identificeert kwesties die de gebruikerservaring en de biologische onderzoeksprestaties van uw Web-pagina&#39;s kunnen degraderen. Deze problemen zijn het gevolg van verschillende factoren, zoals aangepaste lettertypen, niet-geoptimaliseerde JavaScript-afhankelijkheden, scripts van derden enzovoort. De belangrijkste kans op internet wijst op deze onvolkomenheden en stelt oplossingen voor die de prestaties van uw webpagina kunnen verbeteren. Houd er rekening mee dat alleen pagina&#39;s met weergaven van minstens 1000 pagina&#39;s kunnen worden geanalyseerd.
 
 Om te beginnen geeft de belangrijkste webvitals-kans boven aan de pagina een overzicht weer, inclusief een overzicht van het probleem en de impact ervan op uw site en uw bedrijf.
 
@@ -32,7 +32,11 @@ In het onderste gedeelte van de pagina hebt u een lijst met alle huidige uitgave
 
 Elke kwestie wordt getoond in een lijst, met de **kolom van de Pagina** identificerend de beïnvloede paginaingang.
 
-Voorts worden deze kwesties ook gegroepeerd door de standaardprestatiesmetriek van het rapport van kernWeb vitals: grootste contenteuze verf **LCP**, interactie aan volgende verf **INP** en cumulatieve lay-outverschuiving **CLS**.
+Het systeem groepeert deze kwesties door de standaardprestatiesmetriek in het rapport van de Kernwebvariaties:
+
+* grootste inhoudelijke verf **LCP**
+* interactie aan volgende verf **INP**
+* cumulatieve lay-outverschuiving **CLS**
 
 ## Automatisch voorstellen
 
@@ -44,7 +48,7 @@ Elke categorie kan verschillende problemen bevatten, zodat u omlaag kunt schuive
 
 ## Automatisch optimaliseren
 
-[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer kernWeb kansen ](./assets/core-web-vitals/auto-optimize.png){align="center"}
 
@@ -52,7 +56,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie
 
 >[!BEGINTABS]
 
->[!TAB stel optimalisering  op]
+>[!TAB  stel optimalisering ] op
 
 {{auto-optimize-deploy-optimization-slack}}
 

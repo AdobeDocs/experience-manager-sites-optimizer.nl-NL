@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer Opportunity-typen
 description: In deze video ziet u de belangrijkste opportuniteitstypen in Sites Optimizer en hoe u hiermee de prestaties van uw site kunt verbeteren.
-source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,16 @@ ht-degree: 0%
 
 ![ types van Kansen ](./assets/overview/hero.png){align="center"}
 
-AEM Sites Optimizer biedt waardevolle inzichten en aanbevelingen om u te helpen de prestaties, bruikbaarheid en beveiliging van uw website te verbeteren. Deze inzichten worden gegroepeerd in belangrijke opportuniteitsgebieden: Betrokkenheid, Verkeersverwerving, Beveiligingstelling en, Sitegezondheid. Elke categorie benadrukt specifieke manieren om uw plaats te verbeteren, hetzij door bezoekersinteractie te verhogen, ontdekkingsbaarheid te verbeteren, veiligheid te versterken, of plaatsstabiliteit te handhaven.
+AEM Sites Optimizer biedt waardevolle inzichten en aanbevelingen om u te helpen de prestaties, bruikbaarheid en beveiliging van uw website te verbeteren. Deze inzichten zijn gegroepeerd in de volgende belangrijke opportuniteitsgebieden:
 
-Als u deze mogelijkheden benut, wordt de gebruikerservaring verbeterd, krijgt u het juiste publiek en blijft uw site veilig en betrouwbaar. Het verbeteren van betrokkenheid en het aantrekken van verkeer drijft interactie en zichtbaarheid, terwijl een sterke veiligheidshulp en plaatsgezondheid helpen vertrouwen en stabiliteit verzekeren.  Verken de onderstaande koppelingen om mogelijkheden per categorie te bekijken en manieren te vinden om uw site te verbeteren.
+* Betrokkenheid
+* Verkeersverwerving
+* Beveiligingstelling
+* Sitegezondheid
+
+Elke categorie markeert een andere manier om uw site te verbeteren. Eén categorie kan de interactie tussen bezoekers verhogen. Een andere kan de ontdekkingsmogelijkheden verbeteren. Anderen richten zich op het versterken van de veiligheid of het handhaven van plaatsstabiliteit.
+
+Het gebruik van deze mogelijkheden verbetert de gebruikerservaring, trekt het juiste publiek aan, en houdt uw plaats veilig en betrouwbaar. Het verbeteren van de betrokkenheid en het aantrekken van verkeer drijft interactie en zichtbaarheid, terwijl een sterke post van de Veiligheid en de gezondheid van de plaats helpen vertrouwen en stabiliteit verzekeren.  Verken de onderstaande koppelingen om mogelijkheden per categorie te bekijken en manieren te vinden om uw site te verbeteren.
 
 ## Typen opportuniteiten
 

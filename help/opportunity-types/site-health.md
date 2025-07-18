@@ -1,7 +1,7 @@
 ---
 title: Sitegezondheid optimaliseren met Sites Optimizer
 description: Leer hoe u de gezondheid van uw site kunt verbeteren met Sites Optimizer.
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![ de gezondheidskansen van de Plaats ](./assets/site-health/hero.png){align="center"}
 
-Het behoud van de gezondheid van sites in AEM Sites Optimizer is essentieel voor het bieden van snelle, betrouwbare en krachtige digitale ervaringen. Door kansen voor verbetering-zulke als Kernweb te identificeren kunnen de teams paginasnelheid, interactiviteit, en visuele stabiliteit optimaliseren om gebruikerservaring en onderzoekmachine rangschikkingen te verbeteren. Een goed onderhouden site zorgt voor vloeiender navigatie, betere betrokkenheid en verbeterde algehele prestaties. Door gebruik te maken van AEM Sites Optimizer-inzichten, kunt u de site voortdurend controleren en verfijnen, zodat deze efficiënt en effectief blijft.
+Het behoud van de gezondheid van sites in AEM Sites Optimizer is essentieel voor het bieden van snelle, betrouwbare en krachtige digitale ervaringen. Door kansen voor verbetering-zulke als Kernweb te identificeren kunnen de teams paginasnelheid, interactiviteit, en visuele stabiliteit optimaliseren om gebruikerservaring en onderzoekmachine rangschikkingen te verbeteren. Een goed onderhouden site zorgt voor vloeiender navigatie, betere betrokkenheid en verbeterde algehele prestaties. Met behulp van AEM Sites Optimizer-inzichten kunt u de site voortdurend controleren en verfijnen, zodat deze efficiënt en effectief blijft.
 
 ## Kansen
 
@@ -41,7 +41,7 @@ Het behoud van de gezondheid van sites in AEM Sites Optimizer is essentieel voor
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Kernwebvitaliteit"> het Web vitals van de Kern </a>
                     </p>
-                    <p class="is-size-6">Leer over de belangrijkste kansen van het Web vitals en hoe te om het te gebruiken om verkeersaanwinst te verbeteren.</p>
+                    <p class="is-size-6">Leer over de Kernwebinstellingen van het Web en hoe te om het te gebruiken om verkeersaanwinst te verbeteren.</p>
                 </div>
                 <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
