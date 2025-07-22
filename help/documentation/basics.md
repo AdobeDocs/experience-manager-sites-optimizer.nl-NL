@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer Basics
 description: Leer meer over de basisbeginselen van Sites Optimizer en hoe u erin kunt navigeren.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Het Sites Optimizer-dashboard biedt een overzicht op hoog niveau van de prestati
 
 ![ het domeinmanager van de Optimizer van de Plaats ](./assets/basics/domain-manager.png){align="center"}
 
-Met het contextmenu van de domeincontroller kunt u de AEM-site per domein kiezen die u wilt beoordelen en optimaliseren. Sites Optimizer verstrekt een lijst van alle plaatsen van productieAEM die in [ worden geregistreerd Cloud Manager ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
+Met het contextmenu van de domeincontroller kunt u de AEM-site per domein kiezen die u wilt beoordelen en optimaliseren. Sites Optimizer verstrekt een lijst van alle plaatsen van productieAEM die in [ worden geregistreerd Cloud Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
 
 ## Navigatie
 

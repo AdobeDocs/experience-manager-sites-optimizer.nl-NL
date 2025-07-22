@@ -1,7 +1,7 @@
 ---
 title: Betrokkenheid met Sites Optimizer optimaliseren
 description: Leer hoe u de betrokkenheid bij Sites Optimizer kunt verbeteren.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
