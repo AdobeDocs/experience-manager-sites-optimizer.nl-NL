@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer Opportunity-documentatie
 description: Leer meer over alle beschikbare mogelijkheden voor Siteoptimalisatie en hoe u deze kunt gebruiken om de prestaties van uw site te verbeteren.
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Sites Optimizer bestaat uit een steeds groter wordende reeks mogelijkheden van Adobe AI, die ontworpen is om verbeteringen voor uw website te identificeren en voor te stellen. Elke kans biedt inzicht in de potentiële bedrijfswaarde, benadrukt gebieden die aandacht nodig hebben, en verstrekt activeerbare aanbevelingen voor optimalisering. Klik in elke gelegenheid om de geïdentificeerde problemen te verkennen, suggesties voor verbeteringen en stapsgewijze instructies voor het implementeren van deze wijzigingen voor verbeterde websiteprestaties en gebruikerservaring.
 
-De kansen zijn beschikbaar via de **menuoptie 0&rbrace; Kansen &lbrace;in** de blijvende navigatie van de Optimizer van de Plaats [.](/help/documentation/basics.md#navigation)
+De kansen zijn beschikbaar via de **menuoptie 0} Kansen {in** de blijvende navigatie van de Optimizer van de Plaats [.](/help/documentation/basics.md#navigation)
 
 ## Opportunity-status
 
@@ -57,9 +57,8 @@ Elke gelegenheid biedt een korte beschrijving van het probleem, de mogelijke gev
 
 * **titel van de Kans** - een korte beschrijving van de kwestie en zijn potentiële effect op de prestaties van uw plaats.
 * **Laatst bijgewerkt** - Sites Optimizer werkte de kans met nieuwe gegevens op deze datum laatst bij.
-
 * **Aantal van de Uitgave** - het aantal instanties van de kwestie die op uw plaats wordt geïdentificeerd.
-* **types van Kans** - de [ types van kans ](/help/opportunity-types/overview.md) dat deze kans deel van - zoals verkeersaanwinst, overeenkomst, of plaatsgezondheid uitmaakt.
+* **types van Kans** - de [ types van kans ](/help/opportunity-types/overview.md) dat deze kans deel van - zoals verkeersaanwinst, overeenkomst, omzetting, of plaatsgezondheid uitmaakt.
 
 De summiere informatie voor elke kans varieert door type en kan details over opbrengsteffect, verkeer, gebruikersovereenkomst, of veiligheidsbedreigingen omvatten.
 
@@ -97,6 +96,12 @@ Verken alle mogelijke mogelijkheden die in Sites Optimizer beschikbaar zijn:
 * ./invalid-or-missing-metadata.md
   {title=Invalid or missing metadata}
   {image=../../assets/common/card-code.png}
+* ./low-conversions.md
+  {title=Low conversions}
+  {image=../../assets/common/card-bag.png}
+* ./low-views.md
+  {title=Low views}
+  {image=../../assets/common/card-bag.png} 
 * ./missing-alt-text.md
   {title=Missing alt text}
   {image=../../assets/common/card-arrows.png}
@@ -295,6 +300,98 @@ Verken alle mogelijke mogelijkheden die in Sites Optimizer beschikbaar zijn:
                     <p class="is-size-6">Leer over de ongeldige of ontbrekende meta-gegevenskans en hoe te om het te gebruiken om verkeersverwerving te verbeteren.</p>
                 </div>
                 <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
+                </a>
+            </div>
+        </div>
+    </div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms low conversions">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./low-conversions.md" title="Forms lage conversies" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Forms lage conversies"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./low-conversions.md" target="_blank" rel="referrer" title="Forms lage conversies"> Forms lage omzettingen </a>
+                    </p>
+                    <p class="is-size-6">Leer meer over de lage omzettingsmogelijkheden en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.</p>
+                </div>
+                <a href="./low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms low views">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./low-views.md" title="Lage Forms-weergaven" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Lage weergaven"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./low-views.md" target="_blank" rel="referrer" title="Lage weergaven"> Forms lage meningen </a>
+                    </p>
+                    <p class="is-size-6">Leer hoe u formulieren in een lage weergavemogelijkheid kunt weergeven en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.</p>
+                </div>
+                <a href="./low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms low navigation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./low-navigation.md" title="Forms, lage navigatie" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Forms, lage navigatie"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./low-navigation.md" target="_blank" rel="referrer" title="Forms, lage navigatie"> Forms lage navigatie </a>
+                    </p>
+                    <p class="is-size-6">Leer hoe u weinig navigatiefuncties hebt voor formulieren en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.</p>
+                </div>
+                <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms low navigation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./forms-accessibility-issues.md" title="Toegankelijkheidsproblemen in Forms" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Toegankelijkheidsproblemen in Forms"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="Toegankelijkheidsproblemen in Forms"> de toegankelijkheidskwesties van Forms </a>
+                    </p>
+                    <p class="is-size-6">Leer meer over de mogelijkheden voor toegankelijkheidsproblemen voor formulieren en hoe u deze kunt gebruiken om de betrokkenheid op uw website te verbeteren.</p>
+                </div>
+                <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>

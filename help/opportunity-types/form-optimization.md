@@ -1,19 +1,25 @@
 ---
-title: Formulieroptimalisatie met Sites Optimizer
-description: Meer informatie over het optimaliseren van formulieren met Sites Optimizer.
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+title: Forms Optimizer met Sites Optimizer
+description: Meer informatie over Forms Optimizer met Sites Optimizer.
+hide: true
+hidefromtoc: true
+source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
 
-# Optimalisatiemogelijkheden voor formulieren
+# Optimalisatiemogelijkheden voor Forms
 
-![ de optimaliseringskansen van de Vorm ](./assets/form-optimization/hero.png){align="center"}
+<span class="preview"> De Forms Optimizer-functie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
 
-Optimalisatie van formulieren in AEM Sites Optimizer is essentieel voor het verbeteren van gebruikersinteracties en het maximaliseren van conversies. Door gebieden voor verbetering aan te wijzen—zoals lage meningen en lage omzettingen van vorm—kunnen de teams vormontwerp, plaatsing, en inhoud verfijnen om overeenkomst te verbeteren. Geoptimaliseerde formulieren zorgen voor een naadloze gebruikerservaring, waardoor het voor bezoekers gemakkelijker wordt om handelingen uit te voeren en bedrijfsresultaten te sturen. Door AEM Sites Optimizer-inzichten te gebruiken, kunnen marketers voortdurend gebieden voor verbetering identificeren, waardoor de effectiviteit uiteindelijk toeneemt en de algehele prestaties van de site worden verbeterd.
+>[!VIDEO](https://video.tv.adobe.com/v/3469472/)
+
+<!-- ![Forms Optimization opportunities](./assets/form-optimization/hero.png){align="center"} -->
+
+Met Forms-optimalisatiemogelijkheden kunnen organisaties de gebruikersinteracties systematisch verbeteren en het converteren van formulieren versnellen. Door problemen zoals lage weergaven, lage conversies en lage navigatiesnelheden op te sporen, kunnen teams gegevensgestuurde aanpassingen aanbrengen in het formulierontwerp, de plaatsing en de inhoud. Deze optimalisaties helpen de gebruikerservaring te stroomlijnen, waardoor bezoekers gemakkelijker formulieren kunnen invullen en de gewenste resultaten kunnen bereiken. Het gebruik van inzichten van Forms Optimizer ondersteunt continue identificatie en oplossing van prestatieverschillen, wat resulteert in effectievere formulieren en verbeterde bedrijfsresultaten.
 
 ## Kansen
 
@@ -67,9 +73,32 @@ Optimalisatie van formulieren in AEM Sites Optimizer is essentieel voor het verb
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" title="Lage omzettingen"> Lage omzettingen </a>
                     </p>
-                    <p class="is-size-6">Leer meer over de lage conversiemogelijkheid en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.</p>
+                    <p class="is-size-6">Leer meer over de lage omzettingsmogelijkheden en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.</p>
                 </div>
                 <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low navigation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../documentation/opportunities/low-navigation.md" title="Lage navigatie" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="Lage navigatie"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" title="Toegankelijkheidsproblemen"> Lage navigatie </a>
+                    </p>
+                    <p class="is-size-6">Leer meer over de lage navigatiemogelijkheid en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.</p>
+                </div>
+                <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>

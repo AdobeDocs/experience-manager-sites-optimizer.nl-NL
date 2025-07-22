@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer Opportunity-typen
 description: In deze video ziet u de belangrijkste opportuniteitstypen in Sites Optimizer en hoe u hiermee de prestaties van uw site kunt verbeteren.
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,7 @@ ht-degree: 0%
 # Opportuniteitstypen
 
 ![ types van Kansen ](./assets/overview/hero.png){align="center"}
+
 
 AEM Sites Optimizer biedt waardevolle inzichten en aanbevelingen om u te helpen de prestaties, bruikbaarheid en beveiliging van uw website te verbeteren. Deze inzichten zijn gegroepeerd in de volgende belangrijke opportuniteitsgebieden:
 
@@ -36,6 +37,8 @@ Het gebruik van deze mogelijkheden verbetert de gebruikerservaring, trekt het ju
    { title = Site health }
 * ./traffic-acquisition.md
    { title = Traffic acquisition }
+* ./form-optimization.md
+   { title = Forms Optimizer }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -132,5 +135,54 @@ Het gebruik van deze mogelijkheden verbetert de gebruikerservaring, trekt het ju
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms Optimization">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./form-optimization.md" title="Forms optimaliseren" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Forms optimaliseren"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms optimaliseren"> optimalisering van Forms </a>
+                    </p>
+                    <p class="is-size-6">Meer informatie over het verbeteren van de conversie van formulieren met Forms Optimizer.</p>
+                </div>
+                <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms Accessibility">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./form-optimization.md" title="Forms-toegankelijkheid" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Forms-toegankelijkheid"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms-toegankelijkheid"> Toegankelijkheid van Forms </a>
+                    </p>
+                    <p class="is-size-6">Meer informatie over hoe u de toegankelijkheid van formulieren kunt verbeteren met Forms Optimizer.</p>
+                </div>
+                <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
+                </a>
+            </div>
+        </div>
+    </div>
+
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+<span class="preview"> De Forms Optimization and Forms Accessibility capabilities are available under early access program. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>

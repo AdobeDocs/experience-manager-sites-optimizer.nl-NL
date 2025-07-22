@@ -1,32 +1,36 @@
 ---
 title: Documentatie voor lage conversiemogelijkheden
-description: Leer meer over de lage conversiemogelijkheid en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.
-badgeFormOptimization: label="Formulieroptimalisatie" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Formulieroptimalisatie"
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+description: Leer meer over de lage omzettingsmogelijkheden en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.
+badgeFormOptimization: label="Forms Optimizer" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimizer"
+hide: true
+hidefromtoc: true
+source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
 
-# Lage omzettingsmogelijkheden
+# Forms lage conversiemogelijkheid
+
+<span class="preview"> De Forms Optimizer-functie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
 
 ![ Lage omzettingskansen ](./assets/low-conversions/hero.png){align="center"}
 
-Met de lage conversiekans worden op uw website formulieren met lage conversiesnelheden geïdentificeerd. Deze kans helpt u te begrijpen welke formulieren niet goed presteren en biedt suggesties voor het verbeteren van hun betrokkenheidspercentages. Door conversies van uw formulieren te optimaliseren, kunt u het aantal verzonden formulieren verhogen en de algehele prestaties van uw website verbeteren.
+Met de lage conversiekans worden op uw website formulieren met lage conversiekoersen geïdentificeerd. Met dit opportuniteitstype kunt u beter begrijpen welke formulieren niet goed presteren en kunt u suggesties doen voor het verbeteren van hun betrokkenheidspercentage.
 
 ## Automatische identificatie
 
 ![ auto-identificeer lage omzettingen ](./assets/low-conversions/auto-identify.png){align="center"}
 
-Elke webpagina met een vorm met lage omzettingen is vermeld als zijn eigen **Lage omzettingen** kans. Boven aan de opportuniteitspagina wordt een korte samenvatting van de opportuniteit en de AI-redenering weergegeven.
+Elke webpagina met vormen met lage omzettingen is vermeld als zijn eigen **Lage omzettingen** kans. Boven aan de opportunitypagina wordt een korte samenvatting van de opportuniteit en de redenering weergegeven.
 
 ## Automatisch voorstellen
 
 ![ auto-stelt lage omzettingen ](./assets/low-conversions/auto-suggest.png){align="center"} voor
 
-Automatische suggesties biedt door AI gegenereerde webpaginamarges die ontworpen zijn om de conversie van uw formulieren te vergroten. Elke variatie toont de **verhoging van de het tarief van de projectomzetting** die op zijn potentieel wordt gebaseerd om vormovereenkomst te verbeteren, die u helpt aan de meest efficiënte suggesties voorrang geven.
+Automatisch voorstellen biedt door AI gegenereerde formuliervariaties die zijn ontworpen om de conversie van uw formulieren te vergroten. Elke variatie toont de **geprojecteerde verhoging van het omzettingspercentage** die op zijn potentieel wordt gebaseerd om vormenovereenkomst te verbeteren, die u helpt aan de meest efficiënte suggesties voorrang geven.
 
 >[!BEGINTABS]
 
@@ -34,41 +38,47 @@ Automatische suggesties biedt door AI gegenereerde webpaginamarges die ontworpen
 
 ![ de variaties van de Controle ](./assets/low-conversions/control-variation.png){align="center"}
 
-De besturingsvariant is het oorspronkelijke formulier dat op dit moment live is op uw website. Deze variatie wordt gebruikt als basislijn om de prestaties van de voorgestelde variaties te vergelijken.
+De besturingsvariant zijn de oorspronkelijke formulieren die op dat moment actief zijn op uw website. Deze variatie wordt gebruikt als basislijn om de prestaties van de voorgestelde variaties te vergelijken.
 
 >[!TAB  Voorgestelde variaties ]
 
 ![ Voorgestelde variaties ](./assets/low-conversions/suggested-variations.png){align="center"}
 
-De voorgestelde variaties zijn door AI gegenereerde webpaginavariaties die zijn ontworpen om de conversie van uw formulieren te verhogen. Elke variatie toont de **geprojecteerde verhoging van het omzettingspercentage** die op zijn potentieel wordt gebaseerd om vormovereenkomst te verbeteren, die u helpt aan de meest efficiënte suggesties voorrang geven.
+De voorgestelde variaties zijn door AI gegenereerde formuliervariaties die zijn ontworpen om de conversie van uw formulieren te verhogen. Elke variatie toont de **geprojecteerde verhoging van het omzettingspercentage** die op zijn potentieel wordt gebaseerd om vormenovereenkomst te verbeteren, die u helpt aan de meest efficiënte suggesties voorrang geven.
 
 Klik op elke variatie om een voorvertoning weer te geven aan de rechterkant van het scherm. Boven aan het voorbeeld zijn de volgende acties en informatie beschikbaar:
 
 * **Veranderingen** - een korte samenvatting van wat in deze variatie van de **controle** variatie veranderde.
-* **Verhoging van de Verwachte omzettingssnelheid** - de geschatte toename in vormovereenkomst als deze variatie wordt uitgevoerd.
+* **de Verhoging van de Verwachte omzettingssnelheid** - de geschatte toename in vormenovereenkomst als deze variatie wordt uitgevoerd.
 * **geeft** uit - klik om de variatie in het auteursrecht van AEM uit te geven.
 
 >[!ENDTABS]
 
-## Automatisch optimaliseren
 
-[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
+<!-- 
 
-![ auto-optimaliseer lage omzettingen ](./assets/low-conversions/auto-optimize.png){align="center"}
+## Auto-optimize
 
-Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie te implementeren voor de problemen die worden gevonden door de lage conversiemogelijkheid.
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+
+![Auto-optimize low conversions](./assets/low-conversions/auto-optimize.png){align="center"}
+
+Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the low conversions opportunity.
 
 >[!BEGINTABS]
 
->[!TAB  Test veelvoudige ]
+>[!TAB Test multiple]
 
 
->[!TAB  publiceer geselecteerde ]
+>[!TAB Publish selected]
 
 {{auto-optimize-deploy-optimization-slack}}
 
->[!TAB  Goedkeuring van het Verzoek ]
+>[!TAB Request approval]
 
 {{auto-optimize-request-approval}}
 
 >[!ENDTABS]
+
+
+-->

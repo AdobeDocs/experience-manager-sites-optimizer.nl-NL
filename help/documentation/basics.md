@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer Basics
 description: Leer meer over de basisbeginselen van Sites Optimizer en hoe u erin kunt navigeren.
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Het Sites Optimizer-dashboard biedt een overzicht op hoog niveau van de prestati
 
 ![ het domeinmanager van de Optimizer van de Plaats ](./assets/basics/domain-manager.png){align="center"}
 
-Met het contextmenu van de domeincontroller kunt u de AEM-site per domein kiezen die u wilt beoordelen en optimaliseren. Sites Optimizer verstrekt een lijst van alle plaatsen van productieAEM die in [ worden geregistreerd Cloud Manager ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
+Met het contextmenu van de domeincontroller kunt u de AEM-site per domein kiezen die u wilt beoordelen en optimaliseren. Sites Optimizer verstrekt een lijst van alle plaatsen van productieAEM die in [ worden geregistreerd Cloud Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
 
 ## Navigatie
 
@@ -62,7 +62,7 @@ Elke gelegenheid biedt een korte beschrijving van het probleem, de mogelijke gev
 * **titel van de Kans** - een korte beschrijving van de kwestie en zijn potentiële effect op de prestaties van uw plaats.
 * **Laatst bijgewerkt** - Sites Optimizer werkte de kans met nieuwe gegevens op deze datum laatst bij.
 * **Aantal van de Uitgave** - het aantal instanties van de kwestie die op uw plaats wordt geïdentificeerd.
-* **types van Kans** - de [ types van kans ](../opportunity-types/overview.md) dat deze kans deel van - zoals verkeersaanwinst, overeenkomst, of plaatsgezondheid uitmaakt.
+* **types van Kans** - de [ types van kans ](../opportunity-types/overview.md) dat deze kans deel van - zoals verkeersaanwinst, overeenkomst, omzetting, of plaatsgezondheid uitmaakt.
 
 De summiere informatie voor elke kans varieert door type en kan details over opbrengsteffect, verkeer, gebruikersovereenkomst, of veiligheidsbedreigingen omvatten.
 

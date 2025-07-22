@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Dit is een beschrijving voor de gebruikershandleiding die op de landingspagina wordt weergegeven.
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '97'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,8 @@ ht-degree: 1%
    + [Betrokkenheid](/help/opportunity-types/engagement.md)
    + [Gezondheid van site](/help/opportunity-types/site-health.md)
    + [Beveiligingspositie](/help/opportunity-types/security-posture.md)
+   + [Forms optimaliseren](/help/opportunity-types/form-optimization.md)
+   + [Forms-toegankelijkheid](/help/opportunity-types/form-accesibility.md)
 + Documentatie{#documentation}
    + [Overzicht](/help/documentation/overview.md)
    + [Basisbeginselen](/help/documentation/basics.md)
@@ -34,6 +36,10 @@ ht-degree: 1%
       + [Ongeldige of ontbrekende metagegevens](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [Ontbrekende of ongeldige gestructureerde gegevens](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [Ontbrekende alt-tekst](/help/documentation/opportunities/missing-alt-text.md)
+      + [Forms lage conversies](/help/documentation/opportunities/low-conversions.md)
+      + [Lage Forms-weergaven](/help/documentation/opportunities/low-views.md)
+      + [Forms, lage navigatie](/help/documentation/opportunities/low-navigation.md)
+      + [Toegankelijkheidsprobleem in Forms](/help/documentation/opportunities/forms-accessibility-issues.md)
       + [Sitemapproblemen](/help/documentation/opportunities/sitemap-issues.md)
       + [Websitemachtigingen](/help/documentation/opportunities/website-permissions.md)
       + [Webkwetsbaarheden](/help/documentation/opportunities/website-vulnerabilities.md)
