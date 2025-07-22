@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Sites Optimizer bestaat uit een steeds groter wordende reeks mogelijkheden van Adobe AI, die ontworpen is om verbeteringen voor uw website te identificeren en voor te stellen. Elke kans biedt inzicht in de potentiële bedrijfswaarde, benadrukt gebieden die aandacht nodig hebben, en verstrekt activeerbare aanbevelingen voor optimalisering. Klik in elke gelegenheid om de geïdentificeerde problemen te verkennen, suggesties voor verbeteringen en stapsgewijze instructies voor het implementeren van deze wijzigingen voor verbeterde websiteprestaties en gebruikerservaring.
 
-De kansen zijn beschikbaar via de **menuoptie 0} Kansen {in** de blijvende navigatie van de Optimizer van de Plaats [.](/help/documentation/basics.md#navigation)
+De kansen zijn beschikbaar via de **menuoptie 0&rbrace; Kansen &lbrace;in** de blijvende navigatie van de Optimizer van de Plaats [.](/help/documentation/basics.md#navigation)
 
 ## Opportunity-status
 
