@@ -19,7 +19,7 @@ Het Sites Optimizer-dashboard biedt een overzicht op hoog niveau van de prestati
 
 ![ het domeinmanager van de Optimizer van de Plaats ](./assets/basics/domain-manager.png){align="center"}
 
-Met het contextmenu van de domeincontroller kunt u de AEM-site per domein kiezen die u wilt beoordelen en optimaliseren. Sites Optimizer verstrekt een lijst van alle plaatsen van productieAEM die in [ worden geregistreerd Cloud Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
+Met het contextmenu van de domeincontroller kunt u de AEM-site per domein kiezen die u wilt beoordelen en optimaliseren. Sites Optimizer verstrekt een lijst van alle plaatsen van productieAEM die in [ worden geregistreerd Cloud Manager ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
 
 ## Navigatie
 
