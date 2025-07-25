@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer Opportunity-documentatie
 description: Leer meer over alle beschikbare mogelijkheden voor Siteoptimalisatie en hoe u deze kunt gebruiken om de prestaties van uw site te verbeteren.
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
 workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Sites Optimizer bestaat uit een steeds groter wordende reeks mogelijkheden van Adobe AI, die ontworpen is om verbeteringen voor uw website te identificeren en voor te stellen. Elke kans biedt inzicht in de potentiële bedrijfswaarde, benadrukt gebieden die aandacht nodig hebben, en verstrekt activeerbare aanbevelingen voor optimalisering. Klik in elke gelegenheid om de geïdentificeerde problemen te verkennen, suggesties voor verbeteringen en stapsgewijze instructies voor het implementeren van deze wijzigingen voor verbeterde websiteprestaties en gebruikerservaring.
 
-De kansen zijn beschikbaar via de **menuoptie 0&rbrace; Kansen &lbrace;in** de blijvende navigatie van de Optimizer van de Plaats [.](/help/documentation/basics.md#navigation)
+De kansen zijn beschikbaar via de **menuoptie 0} Kansen {in** de blijvende navigatie van de Optimizer van de Plaats [.](/help/documentation/basics.md#navigation)
 
 ## Opportunity-status
 
@@ -310,7 +310,7 @@ Verken alle mogelijke mogelijkheden die in Sites Optimizer beschikbaar zijn:
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-conversions.md" title="Forms lage conversies" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Forms lage conversies"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Forms lage conversies"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -333,7 +333,7 @@ Verken alle mogelijke mogelijkheden die in Sites Optimizer beschikbaar zijn:
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-views.md" title="Lage Forms-weergaven" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Lage weergaven"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Lage weergaven"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -356,7 +356,7 @@ Verken alle mogelijke mogelijkheden die in Sites Optimizer beschikbaar zijn:
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-navigation.md" title="Forms, lage navigatie" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Forms, lage navigatie"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Forms, lage navigatie"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -379,7 +379,7 @@ Verken alle mogelijke mogelijkheden die in Sites Optimizer beschikbaar zijn:
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./forms-accessibility-issues.md" title="Toegankelijkheidsproblemen in Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Toegankelijkheidsproblemen in Forms"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="Toegankelijkheidsproblemen in Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

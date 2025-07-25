@@ -1,11 +1,11 @@
 ---
-title: Forms Optimizer met Sites Optimizer
-description: Meer informatie over Forms Optimizer met Sites Optimizer.
+title: Forms optimaliseren met Sites Optimizer
+description: Meer informatie over Forms Optimization met Sites Optimizer.
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Optimalisatiemogelijkheden voor Forms
 
-<span class="preview"> De Forms Optimizer-functie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
+<span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
 
->[!VIDEO](https://video.tv.adobe.com/v/3469472/)
+<!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
-<!-- ![Forms Optimization opportunities](./assets/form-optimization/hero.png){align="center"} -->
+![ de Optimalisatiemogelijkheden van Forms ](./assets/form-optimization/hero.png){align="center"}
 
-Met Forms-optimalisatiemogelijkheden kunnen organisaties de gebruikersinteracties systematisch verbeteren en het converteren van formulieren versnellen. Door problemen zoals lage weergaven, lage conversies en lage navigatiesnelheden op te sporen, kunnen teams gegevensgestuurde aanpassingen aanbrengen in het formulierontwerp, de plaatsing en de inhoud. Deze optimalisaties helpen de gebruikerservaring te stroomlijnen, waardoor bezoekers gemakkelijker formulieren kunnen invullen en de gewenste resultaten kunnen bereiken. Het gebruik van inzichten van Forms Optimizer ondersteunt continue identificatie en oplossing van prestatieverschillen, wat resulteert in effectievere formulieren en verbeterde bedrijfsresultaten.
+Met Forms-optimalisatiemogelijkheden kunnen organisaties de gebruikersinteracties systematisch verbeteren en het converteren van formulieren versnellen. Door problemen zoals lage weergaven, lage conversies en lage navigatiesnelheden op te sporen, kunnen teams gegevensgestuurde aanpassingen aanbrengen in het formulierontwerp, de plaatsing en de inhoud. Deze optimalisaties helpen de gebruikerservaring te stroomlijnen, waardoor bezoekers gemakkelijker formulieren kunnen invullen en de gewenste resultaten kunnen bereiken. Door gebruik te maken van inzichten van Forms Optimization worden prestatieverschillen voortdurend geïdentificeerd en verholpen, wat resulteert in effectievere formulieren en verbeterde bedrijfsresultaten.
 
 ## Kansen
 
@@ -40,7 +40,7 @@ Met Forms-optimalisatiemogelijkheden kunnen organisaties de gebruikersinteractie
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-views.md" title="Lage weergaven" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="Lage weergaven"
+                        <img class="is-bordered-r-small" src="../assets/common/card-conversion.png" alt="Lage weergaven"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -63,7 +63,7 @@ Met Forms-optimalisatiemogelijkheden kunnen organisaties de gebruikersinteractie
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-conversions.md" title="Lage omzettingen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="Lage omzettingen"
+                        <img class="is-bordered-r-small" src="../assets/common/card-conversion.png" alt="Lage omzettingen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +86,7 @@ Met Forms-optimalisatiemogelijkheden kunnen organisaties de gebruikersinteractie
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-navigation.md" title="Lage navigatie" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="Lage navigatie"
+                        <img class="is-bordered-r-small" src="../assets/common/card-conversion.png" alt="Lage navigatie"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

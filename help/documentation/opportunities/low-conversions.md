@@ -1,10 +1,10 @@
 ---
 title: Documentatie voor lage conversiemogelijkheden
 description: Leer meer over de lage omzettingsmogelijkheden en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.
-badgeFormOptimization: label="Forms Optimizer" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimizer"
+badgeFormOptimization: label="Forms optimaliseren" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms optimaliseren"
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Forms lage conversiemogelijkheid
 
-<span class="preview"> De Forms Optimizer-functie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
+<span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
 
 ![ Lage omzettingskansen ](./assets/low-conversions/hero.png){align="center"}
 

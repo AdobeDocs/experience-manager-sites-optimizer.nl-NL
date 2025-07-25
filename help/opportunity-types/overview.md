@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer Opportunity-typen
 description: In deze video ziet u de belangrijkste opportuniteitstypen in Sites Optimizer en hoe u hiermee de prestaties van uw site kunt verbeteren.
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Het gebruik van deze mogelijkheden verbetert de gebruikerservaring, trekt het ju
 * ./traffic-acquisition.md
    { title = Traffic acquisition }
 * ./form-optimization.md
-   { title = Forms Optimizer }
+   { title = Forms Optimization }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -150,7 +150,7 @@ Het gebruik van deze mogelijkheden verbetert de gebruikerservaring, trekt het ju
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms optimaliseren"> optimalisering van Forms </a>
                     </p>
-                    <p class="is-size-6">Meer informatie over het verbeteren van de conversie van formulieren met Forms Optimizer.</p>
+                    <p class="is-size-6">Leer hoe u uw formulierconversie kunt verbeteren met Forms Optimization.</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
@@ -173,7 +173,7 @@ Het gebruik van deze mogelijkheden verbetert de gebruikerservaring, trekt het ju
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms-toegankelijkheid"> Toegankelijkheid van Forms </a>
                     </p>
-                    <p class="is-size-6">Meer informatie over hoe u de toegankelijkheid van formulieren kunt verbeteren met Forms Optimizer.</p>
+                    <p class="is-size-6">Leer hoe u de toegankelijkheid van formulieren kunt verbeteren met Forms Optimization.</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
