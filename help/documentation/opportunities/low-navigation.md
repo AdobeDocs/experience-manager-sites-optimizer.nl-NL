@@ -4,15 +4,17 @@ description: Leer meer over de lage navigatiemogelijkheid en hoe u deze kunt geb
 badgeFormOptimization: label="Forms optimaliseren" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms optimaliseren"
 hide: true
 hidefromtoc: true
-source-git-commit: ccabd2c9d0c08dbbb7872be7bf1232661ca17bd9
+source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
 
 # Forms lage navigatiemogelijkheid
+
+<span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
 
 ![ Lage navigatiemogelijkheid ](./assets/low-navigation/hero.png){align="center"}
 
