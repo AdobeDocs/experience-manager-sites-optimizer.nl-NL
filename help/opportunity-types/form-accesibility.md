@@ -3,17 +3,15 @@ title: Forms optimaliseren met Sites Optimizer
 description: Meer informatie over Forms Optimization met Sites Optimizer.
 hide: true
 hidefromtoc: true
-source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
+source-git-commit: ccabd2c9d0c08dbbb7872be7bf1232661ca17bd9
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
 
 # Toegankelijkheidsmogelijkheden van Forms
-
-<span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
 
 ![ de Toegankelijkheidskansen van Forms ](./assets/form-accesibility/hero.png){align="center"}
 

@@ -4,17 +4,15 @@ description: Meer informatie over de lage weergavemogelijkheid en hoe u deze kun
 badgeFormOptimization: label="Forms optimaliseren" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms optimaliseren"
 hide: true
 hidefromtoc: true
-source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
+source-git-commit: ccabd2c9d0c08dbbb7872be7bf1232661ca17bd9
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
 
 # Forms, mogelijkheid voor lage weergaven
-
-<span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
 
 ![ Lage meningskansen ](./assets/low-views/hero.png){align="center"}
 
