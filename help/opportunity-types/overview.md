@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer Opportunity-typen
 description: In deze video ziet u de belangrijkste opportuniteitstypen in Sites Optimizer en hoe u hiermee de prestaties van uw site kunt verbeteren.
-source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
+source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,11 @@ AEM Sites Optimizer biedt waardevolle inzichten en aanbevelingen om u te helpen 
 * Verkeersverwerving
 * Beveiligingstelling
 * Sitegezondheid
+* Preflight
 
-Elke categorie markeert een andere manier om uw site te verbeteren. Eén categorie kan de interactie tussen bezoekers verhogen. Een andere kan de ontdekkingsmogelijkheden verbeteren. Anderen richten zich op het versterken van de veiligheid of het handhaven van plaatsstabiliteit.
+Elke categorie markeert een andere manier om uw site te verbeteren. Eén categorie kan de interactie tussen bezoekers verhogen. Een andere kan de ontdekkingsmogelijkheden verbeteren. Anderen richten zich op het versterken van de veiligheid of het handhaven van plaatsstabiliteit. Met Preflight kunt u pagina&#39;s analyseren en optimaliseren voordat ze worden gepubliceerd.
 
-Het gebruik van deze mogelijkheden verbetert de gebruikerservaring, trekt het juiste publiek aan, en houdt uw plaats veilig en betrouwbaar. Het verbeteren van de betrokkenheid en het aantrekken van verkeer drijft interactie en zichtbaarheid, terwijl een sterke post van de Veiligheid en de gezondheid van de plaats helpen vertrouwen en stabiliteit verzekeren.  Verken de onderstaande koppelingen om mogelijkheden per categorie te bekijken en manieren te vinden om uw site te verbeteren.
+Het gebruik van deze mogelijkheden verbetert de gebruikerservaring, trekt het juiste publiek aan, en houdt uw plaats veilig en betrouwbaar. Het verbeteren van de betrokkenheid en het aantrekken van verkeer drijft interactie en zichtbaarheid, terwijl een sterke post van de Veiligheid en de gezondheid van de plaats helpen vertrouwen en stabiliteit verzekeren. Met Preflight-analyse wordt gecontroleerd of uw inhoud is geoptimaliseerd voordat deze actief wordt. Verken de onderstaande koppelingen om mogelijkheden per categorie te bekijken en manieren te vinden om uw site te verbeteren.
 
 ## Typen opportuniteiten
 
@@ -39,6 +40,8 @@ Het gebruik van deze mogelijkheden verbetert de gebruikerservaring, trekt het ju
    { title = Traffic acquisition }
 * ./form-optimization.md
    { title = Forms Optimization }
+* ./preflight.md
+   { title = Preflight }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -181,7 +184,30 @@ Het gebruik van deze mogelijkheden verbetert de gebruikerservaring, trekt het ju
             </div>
         </div>
     </div>
-
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./preflight.md" title="Preflight" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/preflight/hero.png" alt="Preflight"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./preflight.md" target="_blank" rel="referrer" title="Preflight"> Preflight </a>
+                    </p>
+                    <p class="is-size-6">Meer informatie over Preflight-analyse en hoe u Preflight-mogelijkheden kunt instellen in Sites Optimizer.</p>
+                </div>
+                <a href="./preflight.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
+                </a>
+            </div>
+        </div>
+    </div>
+ </br>   
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
