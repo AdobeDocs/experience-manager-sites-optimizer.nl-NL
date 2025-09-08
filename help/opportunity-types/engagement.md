@@ -1,9 +1,9 @@
 ---
 title: Betrokkenheid met Sites Optimizer optimaliseren
 description: Leer hoe u de betrokkenheid bij Sites Optimizer kunt verbeteren.
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Betrokkenheidsmogelijkheden in AEM Sites Optimizer zijn van cruciaal belang voor het verbeteren van digitale ervaringen door gebruikers inzicht te geven in de manier waarop ze met webpagina&#39;s werken. Door gebieden voor verbetering te identificeren - zoals toegankelijkheidskwesties, gebroken interne verbindingen, hoge stuittarieven, en ontbrekende alt tekst - kunnen de marketers en inhoudsauteurs hun plaatsen voor betere prestaties en gebruikersbetrokkenheid optimaliseren. Deze kansen helpen ervoor zorgen dat de inhoud effectief, ontdekkbaar, en dwingend is, uiteindelijk drijvende hogere omzettingen en een naadloze klantenreis. Met AEM Sites Optimizer-aanbevelingen kunnen teams hun digitale strategie voortdurend verfijnen en op grote schaal ervaringen met hoge impact bieden.
 
-
 ## Kansen
-
 
 <!-- CARDS
 
@@ -30,6 +28,9 @@ Betrokkenheidsmogelijkheden in AEM Sites Optimizer zijn van cruciaal belang voor
 * ../documentation/opportunities//high-bounce-rate.md
   {title=High bounce rate}
   {image=../assets/common/card-arrows.png}
+* ../documentation/opportunities/high-traffic-page-has-low-ctr.md
+  {title=High traffic page has low CTR}
+  {image=../assets/common/card-browser.png}
 * ../documentation/opportunities/missing-alt-text.md  
   {title=Missing alt text}
   {image=../assets/common/card-arrows.png}
@@ -101,6 +102,29 @@ Betrokkenheidsmogelijkheden in AEM Sites Optimizer zijn van cruciaal belang voor
                     <p class="is-size-6">Meer informatie over de lage weergavemogelijkheid en hoe u deze kunt gebruiken om de betrokkenheid van formulieren op uw website te verbeteren.</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="High traffic page has low CTR">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="De hoge verkeerspagina heeft lage CTR" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="De hoge verkeerspagina heeft lage CTR"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="De hoge verkeerspagina heeft lage CTR"> Hoge het verkeerspagina heeft lage CTR </a>
+                    </p>
+                    <p class="is-size-6">Leer over de hoge verkeerspagina heeft lage kansen CTR en hoe te om het te gebruiken om de betrokkenheid op uw website te verhogen.</p>
+                </div>
+                <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>

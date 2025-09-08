@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Dit is een beschrijving voor de gebruikershandleiding die op de landingspagina wordt weergegeven.
-source-git-commit: fcdda7414b56f40ec0feaa9cdbfbe896643d0556
+source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 1%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 1%
       + [CORS-configuratie](/help/documentation/opportunities/cors-configuration.md)
       + [Xxx-site](/help/documentation/opportunities/cross-site-scripting.md)
       + [Hoge stuitsnelheid](/help/documentation/opportunities/high-bounce-rate.md)
+      + [De hoge verkeerspagina heeft lage CTR](/help/documentation/opportunities/high-traffic-page-has-low-ctr.md)
       + [Ongeldige of ontbrekende metagegevens](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [Ontbrekende of ongeldige gestructureerde gegevens](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [Ontbrekende alt-tekst](/help/documentation/opportunities/missing-alt-text.md)
