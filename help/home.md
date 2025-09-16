@@ -81,7 +81,7 @@ Adobe Experience Manager (AEM) Sites Optimizer is een cloudservice waarmee de pr
 ## Meer informatie over Sites Optimizer
 
 <!-- CARDS 
-    * https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+    * https://helpx.adobe.com/nl/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
         {title=Packages and licensing}
         {description=Learn about AEM Sites Optimizer packages and licensing.}
         {image=https://business.adobe.com/products/experience-manager/sites/media_17296346c44dba1976d5fbac060205b5ec7df0164.png?width=2000&format=webply&optimize=medium}
@@ -98,7 +98,7 @@ Adobe Experience Manager (AEM) Sites Optimizer is een cloudservice waarmee de pr
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" title="De mogelijkheden van AEM Sites Optimizer verkennen" target="_blank" rel="referrer">
+                    <a href="https://helpx.adobe.com/nl/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" title="De mogelijkheden van AEM Sites Optimizer verkennen" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://business.adobe.com/products/experience-manager/sites/media_17296346c44dba1976d5fbac060205b5ec7df0164.png?width=400&format=webply&optimize=medium" alt="De mogelijkheden van AEM Sites Optimizer verkennen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -107,11 +107,11 @@ Adobe Experience Manager (AEM) Sites Optimizer is een cloudservice waarmee de pr
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" title="De mogelijkheden van AEM Sites Optimizer verkennen"> Onderzoek de mogelijkheden van AEM Sites Optimizer </a>
+                        <a href="https://helpx.adobe.com/nl/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" title="De mogelijkheden van AEM Sites Optimizer verkennen"> Onderzoek de mogelijkheden van AEM Sites Optimizer </a>
                     </p>
                     <p class="is-size-6">Ontdek wat AEM Site Optimizer kan doen voor uw bedrijf.</p>
                 </div>
-                <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://helpx.adobe.com/nl/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>
