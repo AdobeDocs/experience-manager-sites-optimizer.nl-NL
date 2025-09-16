@@ -2,7 +2,7 @@
 title: De hoge pagina van het Verkeer heeft Lage documentatie van de Kans CTR
 description: Leer over de hoge verkeerspagina heeft lage kansen CTR en hoe te om het te gebruiken om de betrokkenheid op uw website te verhogen.
 badgeEngagement: label="Betrokkenheid" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Betrokkenheid"
-source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
+source-git-commit: 5c3b4eb9941c82273c017602202b74d7911f7cc5
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Suggesties kunnen worden geselecteerd om ze in volledige weergave te bekijken, h
 
 ## Automatisch optimaliseren
 
-[!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
+[!BADGE  Ultimate ]{type=Positive tooltip="Ultimate"}
 
 ![ auto-optimaliseer hoge verkeerspagina heeft lage kwesties CTR ](./assets/high-traffic-page-has-low-ctr/auto-optimize.png){align="center"}
 
@@ -44,7 +44,7 @@ Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie
 
 >[!BEGINTABS]
 
->[!TAB stel optimalisering  op]
+>[!TAB  stel optimalisering ] op
 
 {{auto-optimize-deploy-optimization-slack}}
 
