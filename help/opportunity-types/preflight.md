@@ -1,9 +1,9 @@
 ---
-title: AEM Sites Optimizer - Preflight-handleiding voor instapkaarten
-description: Meer informatie over Preflight-mogelijkheden en hoe u Preflight-analyse kunt instellen in AEM Sites Optimizer.
-source-git-commit: 0a6ddcdfd369253500067b31617facfb7f38b656
+title: Preflight-optimalisatie met AEM Sites Optimizer
+description: Meer weten over Preflight-mogelijkheden met AEM Sites Optimizer?
+source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![ Preflight kansen ](./assets/preflight/hero.png){align="center"}
 
-<span class="preview"> Preflight van AEM Sites Optimizer analyseert de technische en prestatiesgegevens van uw pagina en voorziet en ontdekt kansen alvorens het wordt gepubliceerd. Het gebruikt generatieve AI om optimalisaties voor te stellen.</span>
+Dankzij de AEM Sites Optimizer Preflight-mogelijkheden kunt u ervoor zorgen dat uw webpagina&#39;s zijn geoptimaliseerd voor prestaties, SEO en gebruikerservaring voordat ze live gaan. Door mogelijke problemen zoals verbroken koppelingen, ontbrekende metatags en zorgen over toegankelijkheid te identificeren, kunnen auteurs en marketeers van inhoud met Preflight deze problemen vroeg in het publicatieproces oplossen. Deze proactieve benadering minimaliseert het risico van het publiceren van suboptimale inhoud, verbetert plaatskwaliteit, en verbetert algemene digitale aanwezigheid. Het gebruik van Preflight-mogelijkheden ondersteunt een vloeiender werkschema, vermindert postpublishing-correcties en draagt bij aan betere beoordelingen van zoekmachines en gebruikerstevredenheid.
 
 ## Kansen
 
@@ -159,126 +159,139 @@ ht-degree: 0%
 
 ## Instellen
 
-### Universal Editor instellen
+Voor identificatie van de AEM Sites Optimizer Preflight-opportuniteit moet u de Preflight-extensie instellen in de Universal Editor, in een op documenten gebaseerde voorvertoning of in de AEM Cloud-service om Preflight-controles op uw pagina&#39;s uit te voeren voordat deze worden gepubliceerd.
 
-1. Ga naar de Extension Manager via de URL: https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor
-2. Selecteer de Preflight-extensie van AEM Sites Optimizer en schakel het selectievakje in
-3. Het team van AEM zal de uitbreiding voor uw organisatie toelaten
-4. Als dat is gebeurd, opent u een pagina in de Universal Editor, bijvoorbeeld: https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/site/subscription.html
-5. De extensie Preflight is zichtbaar in de zijspoor
-6. Als u vanaf de zijbalk op de Preflight-extensie klikt, wordt de Preflight-controle voor de huidige pagina gestart
+## Gebruikerstoegang inschakelen
 
-### Voorvertoning op basis van document instellen
+Om de Preflight uitbreiding te gebruiken, zorg ervoor uw gebruiker aan minstens één van de volgende het productprofielen van AEM Sites Optimizer in [ Adobe Admin Console ](https://adminconsole.adobe.com) wordt toegewezen:
 
-#### Stap 1: Sidekick inschakelen met Preflight-knop
+* AEM Sites Optimizer - Gebruiker automatisch voorstellen
+* AEM Sites Optimizer - Gebruiker automatisch optimaliseren
 
-Voeg de volgende configuratie aan `/tools/sidekick/config.json` in uw bewaarplaats GitHub toe:
+## De extensie Preflight inschakelen
 
-```json
-{
-  "plugins": [
-    {
-      "id": "preflight",
-      "titleI18n": {
-        "en": "Preflight"
-      },
-      "environments": ["preview"],
-      "event": "preflight"
-    }
-  ]
-}
-```
+>[!BEGINTABS]
 
-#### Stap 2: Maak het Sidekick Integration-script
+>[!TAB  Universele Redacteur ]
 
-Maak `/tools/sidekick/aem-sites-optimizer-preflight.js` met de volgende inhoud:
+Voer de volgende stappen uit om Preflight in de Universal Editor in te stellen:
+
+1. Open **Extension Manager** bij:
+   [ https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
+1. Bepaal de plaats van **Preflight Uitbreiding van AEM Sites Optimizer** en leg een verzoek voor om het toe te laten.
+1. Het **team van AEM van Adobe** zal de uitbreiding voor uw organisatie herzien en toelaten.
+1. Nadat de uitbreiding wordt toegelaten, open een pagina in **Universele Redacteur**, bijvoorbeeld:
+   `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
+1. De **Preflight Uitbreiding** zal in **zijspoor** verschijnen.
+1. Selecteer de **Uitbreiding Preflight** van de zijspoor om a **Preflight Controle** van de huidige pagina te beginnen.
+
+>[!TAB  op document-Gebaseerde creatie ]
+
+Voer de volgende stappen uit om Preflight in te stellen voor ontwerpen op basis van document:
+
+1. Voeg de volgende configuratie toe aan `/tools/sidekick/config.json` in de GitHub-opslagplaats van uw Edge Delivery Services-project:
+
+   ```json
+   {
+     "plugins": [
+       {
+         "id": "preflight",
+         "titleI18n": {
+           "en": "Preflight"
+         },
+         "environments": ["preview"],
+         "event": "preflight"
+       }
+     ]
+   }
+   ```
+
+1. Maak een nieuw bestand `/tools/sidekick/aem-sites-optimizer-preflight.js` en voeg de volgende inhoud toe:
+
+   ```javascript
+   (function () {
+     let isAEMSitesOptimizerPreflightAppLoaded = false;
+     function loadAEMSitesOptimizerPreflightApp() {
+       const script = document.createElement('script');
+       script.src = 'https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=plugin';
+       script.onload = function () {
+         isAEMSitesOptimizerPreflightAppLoaded = true;
+       };
+       script.onerror = function () {
+         console.error('Error loading AEMSitesOptimizerPreflightApp.');
+       };
+       document.head.appendChild(script);
+     }
+   
+     function handlePluginButtonClick() {
+       if (!isAEMSitesOptimizerPreflightAppLoaded) {
+         loadAEMSitesOptimizerPreflightApp();
+       }
+     }
+   
+     // Sidekick V1 extension support
+     const sidekick = document.querySelector('helix-sidekick');
+     if (sidekick) {
+       sidekick.addEventListener('custom:preflight', handlePluginButtonClick);
+     } else {
+       document.addEventListener('sidekick-ready', () => {
+         document.querySelector('helix-sidekick')
+           .addEventListener('custom:preflight', handlePluginButtonClick);
+       }, { once: true });
+     }
+   
+     // Sidekick V2 extension support
+     const sidekickV2 = document.querySelector('aem-sidekick');
+     if (sidekickV2) {
+       sidekickV2.addEventListener('custom:preflight', handlePluginButtonClick);
+     } else {
+       document.addEventListener('sidekick-ready', () => {
+         document.querySelector('aem-sidekick')
+           .addEventListener('custom:preflight', handlePluginButtonClick);
+       }, { once: true });
+     }
+   }());
+   ```
+
+1. Werk de functie `loadLazy()` in `/scripts/scripts.js` bij om het Preflight-script te importeren voor voorbeeld-URL&#39;s:
+
+   ```javascript
+   if (window.location.href.includes('.aem.page')) {
+      import('../tools/sidekick/aem-sites-optimizer-preflight.js');
+   }
+   ```
+
+1. Open de voorproef URL (`*.aem.page`) van de pagina u wilt controleren.
+1. In **Sidekick**, klik **Preflight** knoop om de controle voor de huidige pagina te beginnen.
+
+>[!TAB  de Redacteur van de Pagina van AEM Sites ]
+
+Als u Preflight wilt gebruiken in de AEM Sites Page Editor, kunt u een bladwijzer maken in uw webbrowser. Voer de volgende stappen uit:
+
+1. Toon uw **Bar van Referenties** in uw Webbrowser:
+
+   * Pers **Ctrl+Shift+B** (Vensters) of **Cmd+Shift+B** (Mac).
+
+!. Maak een nieuwe bladwijzer in uw browser:
+
+* Klik met de rechtermuisknop op de bladwijzerbalk en selecteer **Nieuwe pagina** of **Bladwijzer toevoegen** .
+* Op het **Adres (URL)** gebied, kleef de volgende code:
 
 ```javascript
-(function () {
-  let isAEMSitesOptimizerPreflightAppLoaded = false;
-  function loadAEMSitesOptimizerPreflightApp() {
-    const script = document.createElement('script');
-    script.src = 'https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=plugin';
-    script.onload = function () {
-      isAEMSitesOptimizerPreflightAppLoaded = true;
-    };
-    script.onerror = function () {
-      console.error('Error loading AEMSitesOptimizerPreflightApp.');
-    };
-    document.head.appendChild(script);
-  }
-
-  function handlePluginButtonClick() {
-    if (!isAEMSitesOptimizerPreflightAppLoaded) {
-      loadAEMSitesOptimizerPreflightApp();
-    }
-  }
-
-  // Sidekick V1 extension support
-  const sidekick = document.querySelector('helix-sidekick');
-  if (sidekick) {
-    sidekick.addEventListener('custom:preflight', handlePluginButtonClick);
-  } else {
-    document.addEventListener('sidekick-ready', () => {
-      document.querySelector('helix-sidekick')
-        .addEventListener('custom:preflight', handlePluginButtonClick);
-    }, { once: true });
-  }
-
-  // Sidekick V2 extension support
-  const sidekickV2 = document.querySelector('aem-sidekick');
-  if (sidekickV2) {
-    sidekickV2.addEventListener('custom:preflight', handlePluginButtonClick);
-  } else {
-    document.addEventListener('sidekick-ready', () => {
-      document.querySelector('aem-sidekick')
-        .addEventListener('custom:preflight', handlePluginButtonClick);
-    }, { once: true });
-  }
-}());
-```
-
-#### Stap 3: Scriptbestand bijwerken
-
-Voeg de volgende importinstructie toe aan de functie `loadLazy()` in `/scripts/scripts.js` voor voorbeeld-URL&#39;s, zoals hieronder wordt getoond:
-
-```javascript
-if (window.location.href.includes('.aem.page')) {
-   import('../tools/sidekick/aem-sites-optimizer-preflight.js');
-}
-```
-
-De knop Preflight moet nu zichtbaar zijn in Sidekick.
-
-#### Stap 4: De controle uitvoeren
-
-Open de voorvertoning-URL (*.aem.page) van de gecontroleerde pagina. Klik op de knop Preflight vanuit Sidekick.
-
-### AEM Cloud Service Setup
-
-U kunt de optie voor bladwijzers gebruiken om Preflight te testen op pagina-editors en Sandbox-omgevingen van AEM Cloud Service.
-
-<!-- Drag the button below to your Bookmarks Bar to get started. -->
-
-Pers **Ctrl+Shift+B** (Vensters) of **Cmd+Shift+B** (Mac) om uw bar van Bladwijzers te tonen. Klik met de rechtermuisknop op de bladwijzers en selecteer Nieuwe pagina of Bladwijzer toevoegen. Kopieer in het adresveld de onderstaande code.
-
-<!-- **Drag this link to your Bookmarks Bar:**
-
-<a href="javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();">Preflight</a> -->
-
-**Exemplaar deze code en creeer een nieuwe referentie:**
-
-```
 javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
 ```
 
-Nadat de bladwijzer is toegevoegd, opent u de URL van de voorvertoning (*.aem.page) van de gecontroleerde pagina. Klik op de Preflight-bladwijzer om de Preflight-controle te starten.
+1. Noem de referentie **Preflight** (of om het even welke naam u verkiest).
+1. Open voorproef URL (`*.aem.page`) van de pagina u in de **Redacteur van de Pagina van AEM Sites** wilt controleren.
+1. Klik **Preflight** referentie in uw bar van Bladwijzers om de controle voor de huidige pagina te beginnen.
+
+>[!ENDTABS]
 
 ## Aanbevolen procedures
 
-Houd rekening met het volgende wanneer u Preflight gebruikt:
+Houd rekening met de volgende richtlijnen wanneer u Preflight-controles uitvoert:
 
-* Voer Preflight-audits uit op alle pagina&#39;s in de testfase of in de voorvertoning voordat u ze publiceert.
-* Pas eerst problemen met een hoog effect aan (verbroken koppelingen, ontbrekende H1-tags, onveilige koppelingen).
-* Verificatie inschakelen voor beveiligde staging-omgevingen.
-* Bekijk en implementeer suggesties voor meta-tags voor betere SEO-prestaties.
+* Voer altijd controles op **het opvoeren of voorproef pagina&#39;s** alvorens aan productie te publiceren in werking.
+* Prioriseer het oplossen van **high-impact kwesties** zoals gebroken verbindingen, ontbrekende markeringen H1, of onveilige verbindingen.
+* Verzeker **de authentificatie wordt toegelaten** voor beschermde het opvoeren milieu&#39;s alvorens controles in werking te stellen.
+* Herzie en pas **aanbevelingen van de meta markering** toe om prestaties SEO te verbeteren.
