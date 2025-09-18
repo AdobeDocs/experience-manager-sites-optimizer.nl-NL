@@ -1,7 +1,7 @@
 ---
 title: Preflight-optimalisatie met AEM Sites Optimizer
 description: Meer weten over Preflight-mogelijkheden met AEM Sites Optimizer?
-source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+source-git-commit: cae186f8a953fd9d4e9d68653dd5eb2a4bd14152
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 0%
@@ -161,14 +161,14 @@ Dankzij de AEM Sites Optimizer Preflight-mogelijkheden kunt u ervoor zorgen dat 
 
 Voor identificatie van de AEM Sites Optimizer Preflight-opportuniteit moet u de Preflight-extensie instellen in de Universal Editor, in een op documenten gebaseerde voorvertoning of in de AEM Cloud-service om Preflight-controles op uw pagina&#39;s uit te voeren voordat deze worden gepubliceerd.
 
-## Gebruikerstoegang inschakelen
+### Gebruikerstoegang inschakelen
 
 Om de Preflight uitbreiding te gebruiken, zorg ervoor uw gebruiker aan minstens één van de volgende het productprofielen van AEM Sites Optimizer in [ Adobe Admin Console ](https://adminconsole.adobe.com) wordt toegewezen:
 
 * AEM Sites Optimizer - Gebruiker automatisch voorstellen
 * AEM Sites Optimizer - Gebruiker automatisch optimaliseren
 
-## De extensie Preflight inschakelen
+### De extensie Preflight inschakelen
 
 >[!BEGINTABS]
 
