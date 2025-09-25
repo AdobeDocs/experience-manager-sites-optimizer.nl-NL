@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Dit is een beschrijving voor de gebruikershandleiding die op de landingspagina wordt weergegeven.
-source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -45,4 +45,12 @@ ht-degree: 0%
       + [Sitemapproblemen](/help/documentation/opportunities/sitemap-issues.md)
       + [Websitemachtigingen](/help/documentation/opportunities/website-permissions.md)
       + [Webkwetsbaarheden](/help/documentation/opportunities/website-vulnerabilities.md)
+   + Preflight-mogelijkheden{#preflight-opportunities}
+      + [Overzicht](/help/documentation/preflight/overview.md)
+      + [Instellen](/help/documentation/preflight/setup.md)
+      + [Toegankelijkheid](/help/documentation/preflight/accessibility.md)
+      + [Aantal H1](/help/documentation/preflight/h1-count.md)
+      + [Koppelingen](/help/documentation/preflight/links.md)
+      + [Metagegevens](/help/documentation/preflight/meta-data.md)
+      + [Leesbaarheid](/help/documentation/preflight/readability.md)
    + [Instellingen](/help/documentation/settings.md)

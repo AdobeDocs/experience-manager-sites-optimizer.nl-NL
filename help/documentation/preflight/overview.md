@@ -1,9 +1,9 @@
 ---
-title: Preflight-optimalisatie met AEM Sites Optimizer
-description: Meer weten over Preflight-mogelijkheden met AEM Sites Optimizer?
+title: Preflight-mogelijkheden
+description: Documentatie over de Preflight-mogelijkheden in Sites Optimizer.
 source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -11,39 +11,31 @@ ht-degree: 0%
 
 # Preflight-mogelijkheden
 
-![ Preflight kansen ](./assets/preflight/hero.png){align="center"}
+![ Preflight kansen ](./assets/overview/hero.png){align="center"}
 
-De Preflight van de kansen van AEM Sites Optimizer [ hulp zorgt ervoor dat uw Web-pagina&#39;s voor prestaties, SEO, en gebruikerservaring worden geoptimaliseerd alvorens zij live gaan. ](../documentation/preflight/overview.md) Door mogelijke problemen zoals verbroken koppelingen, ontbrekende metatags en zorgen over toegankelijkheid te identificeren, kunnen auteurs en marketeers van inhoud met Preflight deze problemen vroeg in het publicatieproces oplossen. Deze proactieve benadering minimaliseert het risico van het publiceren van suboptimale inhoud, verbetert plaatskwaliteit, en verbetert algemene digitale aanwezigheid. Het gebruik van Preflight-mogelijkheden ondersteunt een vloeiender werkschema, vermindert postpublishing-correcties en draagt bij aan betere beoordelingen van zoekmachines en gebruikerstevredenheid.
+De Preflight-mogelijkheden van Sites Optimizer bestaan uit een reeks evaluaties die verschillende aspecten van de inhoud en structuur van uw website analyseren voordat de webpagina wordt gepubliceerd. Deze evaluaties helpen u potentiële problemen te identificeren en aanbevelingen te doen om de algehele kwaliteit en prestaties van uw site te verbeteren.
 
-## Kansen
+## Preflight instellen
+
+Volg de stappen in de [ Preflight opstelling ](./setup.md) gids om de uitbreiding Preflight in uw website te vormen.
+
+## Preflight-mogelijkheden
 
 <!-- CARDS
-
-* ../documentation/preflight/accessibility.md
-  {title=Accessibility}
-  {image=../assets/common/card-puzzle.png}
-* ../documentation/preflight/h1-count.md
-  {title=H1 count}
-  {image=../assets/common/card-link.png}
-* ../documentation/preflight/links.md
-  {title=Links}
-  {image=../assets/common/card-link.png}
-* ../documentation/preflight/meta-data.md
-  {title=Metadata}
-  {image=../assets/common/card-code.png}
-* ../documentation/preflight/readability.md
-  {title=Readability}
-  {image=../assets/common/card-people.png}
-
+* ./accessibility.md
+* ./h1-count.md
+* ./links.md
+* ./meta-data.md
+* ./readability.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Accessibility">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight Accessibility Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/accessibility.md" title="Toegankelijkheid" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-puzzle.png" alt="Toegankelijkheid"
+                    <a href="./accessibility.md" title="Toegankelijkheidsoptie Preflight" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/accessibility/hero.png" alt="Toegankelijkheidsoptie Preflight"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,22 +43,22 @@ De Preflight van de kansen van AEM Sites Optimizer [ hulp zorgt ervoor dat uw We
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/accessibility.md" target="_blank" rel="referrer" title="Toegankelijkheid"> Toegankelijkheid </a>
+                        <a href="./accessibility.md" target="_blank" rel="referrer" title="Toegankelijkheidsoptie Preflight"> Preflight de Kans van de Toegankelijkheid </a>
                     </p>
                     <p class="is-size-6">Meer informatie over de Preflight-toegankelijkheidsmogelijkheid in Sites Optimizer.</p>
                 </div>
-                <a href="../documentation/preflight/accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="H1 count">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight H1 Count Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/h1-count.md" title="Aantal H1" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-link.png" alt="Aantal H1"
+                    <a href="./h1-count.md" title="Kans voor aantal Preflight H1" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/h1-count/hero.png" alt="Kans voor aantal Preflight H1"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,22 +66,22 @@ De Preflight van de kansen van AEM Sites Optimizer [ hulp zorgt ervoor dat uw We
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/h1-count.md" target="_blank" rel="referrer" title="Aantal H1"> H1 aantal </a>
+                        <a href="./h1-count.md" target="_blank" rel="referrer" title="Kans voor aantal Preflight H1"> Preflight H1 de Kans van de Telling </a>
                     </p>
                     <p class="is-size-6">Meer informatie over de Preflight-toegankelijkheidsmogelijkheid in Sites Optimizer.</p>
                 </div>
-                <a href="../documentation/preflight/h1-count.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./h1-count.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Links">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight Links Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/links.md" title="Koppelingen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-link.png" alt="Koppelingen"
+                    <a href="./links.md" title="Kans voor Preflight-koppelingen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/links/hero.png" alt="Kans voor Preflight-koppelingen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,22 +89,22 @@ De Preflight van de kansen van AEM Sites Optimizer [ hulp zorgt ervoor dat uw We
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/links.md" target="_blank" rel="referrer" title="Koppelingen"> Verbindingen </a>
+                        <a href="./links.md" target="_blank" rel="referrer" title="Kans voor Preflight-koppelingen"> de Kans van de Verbindingen Preflight </a>
                     </p>
                     <p class="is-size-6">Meer informatie over de Preflight-koppelingenkans in Sites Optimizer.</p>
                 </div>
-                <a href="../documentation/preflight/links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Metadata">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight Metadata Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/meta-data.md" title="Metagegevens" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="Metagegevens"
+                    <a href="./meta-data.md" title="Opportunity van Preflight-metagegevens" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/metadata/hero.png" alt="Opportunity van Preflight-metagegevens"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,22 +112,22 @@ De Preflight van de kansen van AEM Sites Optimizer [ hulp zorgt ervoor dat uw We
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/meta-data.md" target="_blank" rel="referrer" title="Metagegevens"> Metagegevens </a>
+                        <a href="./meta-data.md" target="_blank" rel="referrer" title="Opportunity van Preflight-metagegevens"> de Kans van Meta-gegevens Preflight </a>
                     </p>
                     <p class="is-size-6">Meer informatie over de Preflight-metagegevensmogelijkheid in Sites Optimizer.</p>
                 </div>
-                <a href="../documentation/preflight/meta-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./meta-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Readability">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight Readability Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/readability.md" title="Leesbaarheid" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-people.png" alt="Leesbaarheid"
+                    <a href="./readability.md" title="Preflight-leesbaarheid" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/readability/hero.png" alt="Preflight-leesbaarheid"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -143,11 +135,11 @@ De Preflight van de kansen van AEM Sites Optimizer [ hulp zorgt ervoor dat uw We
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/readability.md" target="_blank" rel="referrer" title="Leesbaarheid"> Leesbaarheid </a>
+                        <a href="./readability.md" target="_blank" rel="referrer" title="Preflight-leesbaarheid"> Preflight de Kans van de Leesbaarheid </a>
                     </p>
                     <p class="is-size-6">Meer informatie over de Preflight-leesbaarheid in Sites Optimizer.</p>
                 </div>
-                <a href="../documentation/preflight/readability.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./readability.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>
