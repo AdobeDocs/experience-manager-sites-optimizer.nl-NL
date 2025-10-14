@@ -11,13 +11,13 @@ ht-degree: 0%
 
 # Sites Optimizer-instellingen
 
-![ de montages van Sites Optimizer ](./assets/settings/hero.png){align="center"}
+![&#x200B; de montages van Sites Optimizer &#x200B;](./assets/settings/hero.png){align="center"}
 
 Instellingen voor Siteoptimalisatie vormen het centrale knooppunt voor het configureren van uw Sites Optimizer-ervaring.
 
 ## Google-zoekconsole
 
-![ de Optimizer van de Plaats montages voor de Console van het Onderzoek van Google ](./assets/settings/google-search-console.png){align="center"}
+![&#x200B; de Optimizer van de Plaats montages voor de Console van het Onderzoek van Google &#x200B;](./assets/settings/google-search-console.png){align="center"}
 
 Met de Google Search Console Settings-aansluiting in AEM Sites Optimizer kunt u belangrijke SEO-meetgegevens analyseren, zoals zoekresultaten, doorkliksnelheden en Core Web Vital. Door de Google Search Console verbonden te houden, kunt u JSON analyse gebruiken om optimalisatiemogelijkheden te ontdekken en plaatsprestaties te verbeteren.
 

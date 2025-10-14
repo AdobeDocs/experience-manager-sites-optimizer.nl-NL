@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Verbroken kans op interne koppelingen
 
-![ Verbroken interne verbindingskansen ](./assets/broken-internal-links/hero.png){align="center"}
+![&#x200B; Verbroken interne verbindingskansen &#x200B;](./assets/broken-internal-links/hero.png){align="center"}
 
 Verbroken interne koppelingen beïnvloeden het vermogen van het zoekprogramma om uw site te indexeren en beïnvloeden zowel de gebruikerservaring als de optimalisatie van zoekprogramma&#39;s negatief. Om dit probleem te verhelpen, verwijst de kans op verbroken interne koppelingen naar verbroken URL&#39;s en biedt u suggesties voor geldige koppelingsupdates. Het aanpakken van deze problemen kan de betrokkenheid van gebruikers verbeteren en voor een vloeiende navigatie en toegankelijkheid zorgen.
 
@@ -35,7 +35,7 @@ De kans om verbroken interne koppelingen te maken geeft automatisch alle verbrok
 
 <!--![Auto-suggest broken internal links](./assets/broken-internal-links/auto-suggest.png){align="center"}-->
 
-De kans op verbroken interne koppelingen biedt door AI gegenereerde suggesties voor het bijwerken van verbroken koppelingen. Deze suggesties zijn gebaseerd op de beoogde verbroken URL en bieden een geschikte vervanging. Het selecteren van ![ pictogram van de Informatie ](https://spectrum.adobe.com/static/icons/workflow_18/Smock_InfoOutline_18_N.svg) verstrekt een AI-Gegenereerde redenering voor de voorgestelde update.
+De kans op verbroken interne koppelingen biedt door AI gegenereerde suggesties voor het bijwerken van verbroken koppelingen. Deze suggesties zijn gebaseerd op de beoogde verbroken URL en bieden een geschikte vervanging. Het selecteren van ![&#x200B; pictogram van de Informatie &#x200B;](https://spectrum.adobe.com/static/icons/workflow_18/Smock_InfoOutline_18_N.svg) verstrekt een AI-Gegenereerde redenering voor de voorgestelde update.
 
 
 >[!BEGINTABS]
@@ -44,7 +44,7 @@ De kans op verbroken interne koppelingen biedt door AI gegenereerde suggesties v
 
 <!--[AI rationale of broken internal links](./assets/broken-internal-links/auto-suggest-ai-rationale.png) -->
 
-Selecteer ![ het pictogram van de Informatie ](https://spectrum.adobe.com/static/icons/workflow_18/Smock_InfoOutline_18_N.svg) om de AI redenering voor voorgestelde URL te bekijken. De redenering verklaart waarom AI gelooft dat voorgestelde URL het beste geschikt voor de gebroken verbinding is. Het kan u ook helpen het besluitvormingsproces van AI te begrijpen en een weloverwogen beslissing te nemen over het al dan niet aanvaarden of verwerpen van het voorstel.
+Selecteer ![&#x200B; het pictogram van de Informatie &#x200B;](https://spectrum.adobe.com/static/icons/workflow_18/Smock_InfoOutline_18_N.svg) om de AI redenering voor voorgestelde URL te bekijken. De redenering verklaart waarom AI gelooft dat voorgestelde URL het beste geschikt voor de gebroken verbinding is. Het kan u ook helpen het besluitvormingsproces van AI te begrijpen en een weloverwogen beslissing te nemen over het al dan niet aanvaarden of verwerpen van het voorstel.
 
 >[!TAB geef doel URL  uit]
 
@@ -56,7 +56,7 @@ Als u met de op AI-Gegenereerde suggestie oneens bent, kunt u de voorgestelde ve
 
 <!--![Ignore broken links](./assets/broken-internal-links/ignore.png){align="center"}-->
 
-U kunt items negeren met de beoogde verbroken URL&#39;s. Het selecteren van ![ pictogram van de Schrapping ](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) verwijdert de ingang uit de opportuniteitslijst. De genegeerde ingangen kunnen van het **Genegeerde** lusje bij de bovenkant van de opportuniteitspagina opnieuw worden aangehaald.
+U kunt items negeren met de beoogde verbroken URL&#39;s. Het selecteren van ![&#x200B; pictogram van de Schrapping &#x200B;](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) verwijdert de ingang uit de opportuniteitslijst. De genegeerde ingangen kunnen van het **Genegeerde** lusje bij de bovenkant van de opportuniteitspagina opnieuw worden aangehaald.
 
 >[!ENDTABS]
 

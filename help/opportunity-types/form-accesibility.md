@@ -15,7 +15,7 @@ ht-degree: 0%
 
 <span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
 
-![ de Toegankelijkheidskansen van Forms ](./assets/form-accesibility/hero.png){align="center"}
+![&#x200B; de Toegankelijkheidskansen van Forms &#x200B;](./assets/form-accesibility/hero.png){align="center"}
 
 
 Toegankelijkheidsmogelijkheden van Forms zijn van essentieel belang voor het verbeteren van gebruikersinteracties en het verhogen van de conversies. Als u uw formulieren controleert op naleving van de Web Content Accessibility Guidelines (WCAG), kunt u ervoor zorgen dat gebruikers met een visuele, auditieve, cognitieve en motorische handicap een inclusieve ervaring hebben. Dit voldoet niet alleen aan ethische en wettelijke vereisten, maar verbetert ook de voltooiingscijfers en vergroot uw publiek, wat resulteert in een betere gebruikerservaring en sterkere bedrijfsresultaten.

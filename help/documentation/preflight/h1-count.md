@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # Preflight van H1-telling
 
-![ Preflight H1 tellingskans ](./assets/h1-count/hero.png){align="center"}
+![&#x200B; Preflight H1 tellingskans &#x200B;](./assets/h1-count/hero.png){align="center"}
 
 Met de Preflight-telfunctie voor H1 in Sites Optimizer kunt u problemen met betrekking tot het gebruik van H1-koppen op uw website opsporen en oplossen. Deze kans is vooral gericht op het evalueren van de structuur van uw site en biedt aanbevelingen die u kunt doen voor verbetering.

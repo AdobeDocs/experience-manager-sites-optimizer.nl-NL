@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Verkeersaankomstmogelijkheden
 
-![ de verwervingskansen van het Verkeer ](./assets/traffic-acquisition/hero.png){align="center"}
+![&#x200B; de verwervingskansen van het Verkeer &#x200B;](./assets/traffic-acquisition/hero.png){align="center"}
 
 Verkeersaanschaf drijft potentiële klanten naar uw website en creëert verkoop- of leadmogelijkheden. Door strategieën zoals de optimalisering van de onderzoeksmotor (SEO) te gebruiken, kunnen de ondernemingen onderzoekszicht verbeteren en het voor gebruikers gemakkelijker maken om hun inhoud te ontdekken. Een gestage stroom bezoekers vergroot het bewustzijn van merken en vergroot het vertrouwen. Het geeft ook waardevolle inzichten in gebruikersgedrag. Met deze inzichten kunnen teams hun aanbod verfijnen en de algehele ervaring verbeteren. Met behulp van AEM Sites Optimizer-inzichten kunt u doorlopend optimaliseren, een duurzame groei garanderen en de conversiegraad in de loop der tijd verbeteren.
 

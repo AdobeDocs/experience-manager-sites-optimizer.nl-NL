@@ -12,20 +12,20 @@ ht-degree: 0%
 
 # Geschiktheid voor scripts die naar andere sites verwijzen
 
-![ de kans van de dwars-plaats ](./assets/cross-site-scripting/hero.png){align="center"}
+![&#x200B; de kans van de dwars-plaats &#x200B;](./assets/cross-site-scripting/hero.png){align="center"}
 
 Met de scriptmogelijkheid voor andere sites worden kwetsbaarheden in de code van uw site geïdentificeerd. Vervolgens worden problemen opgelost die aanvallers kunnen misbruiken om kwaadaardige scripts te injecteren in webpagina&#39;s die door andere gebruikers worden weergegeven. Deze scripts kunnen vertrouwelijke informatie stelen, zoals sessiecookies, of acties uitvoeren namens de gebruiker, zoals het wijzigen van het wachtwoord van de gebruiker.
 
 ## Automatische identificatie
 
-![ auto-identificeer de kans van de dwars-plaats ](./assets/cross-site-scripting/auto-identify.png){align="center"}
+![&#x200B; auto-identificeer de kans van de dwars-plaats &#x200B;](./assets/cross-site-scripting/auto-identify.png){align="center"}
 
 * **Kwetsbare code** - om het even welke code die aan dwars-plaats scripting aanvallen kwetsbaar is.
 * **Verbinding om** te reproduceren - de verbinding aan de pagina waar de kwetsbaarheid werd gevonden.
 
 ## Automatisch voorstellen
 
-![ auto-suggereert de kans van de Intersite ](./assets/cross-site-scripting/auto-suggest.png){align="center"}
+![&#x200B; auto-suggereert de kans van de Intersite &#x200B;](./assets/cross-site-scripting/auto-suggest.png){align="center"}
 
 * **stelde moeilijke situatie** voor - een AI-Gegenereerde suggestie op hoe te om de kwetsbaarheid te bevestigen.
 

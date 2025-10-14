@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Onmogelijkheid voor website
 
-![ de kwetsbaarheidskans van de Website ](./assets/website-vulnerabilities/hero.png){align="center"}
+![&#x200B; de kwetsbaarheidskans van de Website &#x200B;](./assets/website-vulnerabilities/hero.png){align="center"}
 
 De kwetsbaarheidskans van de website identificeert veiligheidskwetsbaarheden in de derdebibliotheken die door uw toepassingscode worden gebruikt. Kwaadwillige aanvallers misbruiken deze kwetsbaarheden, waardoor het risico toeneemt en de beveiligingsstatus van uw website afneemt.
 
@@ -23,7 +23,7 @@ De kans op websitekwetsbaarheden toont een overzicht boven aan de pagina, met in
 
 ## Automatische identificatie
 
-![ auto-identificeer websitekwetsbaarheden ](./assets/website-vulnerabilities/auto-identify.png){align="center"}
+![&#x200B; auto-identificeer websitekwetsbaarheden &#x200B;](./assets/website-vulnerabilities/auto-identify.png){align="center"}
 
 De **eigenschap van de Kans van de Kwetsbaarheid van de Kwetsbaarheid van de Website** identificeert zich automatisch en maakt een lijst van kwetsbaarheid die in derdebibliotheken wordt gevonden die door uw toepassingscode worden gebruikt. Hierin worden de volgende details gegeven:
 
@@ -35,7 +35,7 @@ De **eigenschap van de Kans van de Kwetsbaarheid van de Kwetsbaarheid van de Web
 
 ## Automatisch voorstellen
 
-![ automatisch-stelt websitekwetsbaarheden ](./assets/website-vulnerabilities/auto-suggest.png){align="center"} voor
+![&#x200B; automatisch-stelt websitekwetsbaarheden &#x200B;](./assets/website-vulnerabilities/auto-suggest.png){align="center"} voor
 
 De auto-suggestie verstrekt AI-Gegenereerde suggesties voor de **Geadviseerde versie** van een kwetsbare bibliotheek u zou moeten bevorderen aan. Elke ingang heeft a **Score** die op zijn algemene strengheid wijst, die aan de meest kritieke kwetsbaarheid helpt voorrang geven.
 
@@ -43,11 +43,11 @@ De auto-suggestie verstrekt AI-Gegenereerde suggesties voor de **Geadviseerde ve
 
 >[!TAB  de details van de Vulnerability ]
 
-Elke kwetsbaarheid bevat een verbinding aan de gedetailleerde informatie in het [ Nationale Gegevensbestand van de Vulnerability (NVD) ](https://nvd.nist.gov/). Als u klikt op de kwetsbaarheidsidentificatie of het koppelingsitem rechts van de beschrijving, gaat u naar de NVD-pagina voor die kwetsbaarheid.
+Elke kwetsbaarheid bevat een verbinding aan de gedetailleerde informatie in het [&#x200B; Nationale Gegevensbestand van de Vulnerability (NVD) &#x200B;](https://nvd.nist.gov/). Als u klikt op de kwetsbaarheidsidentificatie of het koppelingsitem rechts van de beschrijving, gaat u naar de NVD-pagina voor die kwetsbaarheid.
 
 >[!TAB  negeer ingangen ]
 
-U kunt items in de lijst met kwetsbaarheden negeren. Het selecteren van ![ pictogram van de Schrapping ](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) verwijdert de ingang uit de lijst. De genegeerde ingangen kunnen van het **Genegeerde** lusje bij de bovenkant van de opportuniteitspagina opnieuw worden aangehaald.<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
+U kunt items in de lijst met kwetsbaarheden negeren. Het selecteren van ![&#x200B; pictogram van de Schrapping &#x200B;](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) verwijdert de ingang uit de lijst. De genegeerde ingangen kunnen van het **Genegeerde** lusje bij de bovenkant van de opportuniteitspagina opnieuw worden aangehaald.<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
 
 >[!ENDTABS]
 
@@ -56,7 +56,7 @@ U kunt items in de lijst met kwetsbaarheden negeren. Het selecteren van ![ picto
 
 [!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
-![ automatisch-optimaliseer website kwetsbaarheid ](./assets/website-vulnerabilities/auto-optimize.png){align="center"}
+![&#x200B; automatisch-optimaliseer website kwetsbaarheid &#x200B;](./assets/website-vulnerabilities/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie te implementeren voor de gevonden kwetsbaarheden.
 

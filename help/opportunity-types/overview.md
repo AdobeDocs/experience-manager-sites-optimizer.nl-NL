@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Opportuniteitstypen
 
-![ types van Kansen ](./assets/overview/hero.png){align="center"}
+![&#x200B; types van Kansen &#x200B;](./assets/overview/hero.png){align="center"}
 
 
 AEM Sites Optimizer biedt waardevolle inzichten en aanbevelingen om u te helpen de prestaties, bruikbaarheid en beveiliging van uw website te verbeteren. Deze inzichten zijn gegroepeerd in de volgende belangrijke opportuniteitsgebieden:

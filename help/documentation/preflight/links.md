@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # Preflight-koppelingen, kans
 
-![ Preflight de kans van Verbindingen ](./assets/links/hero.png){align="center"}
+![&#x200B; Preflight de kans van Verbindingen &#x200B;](./assets/links/hero.png){align="center"}
 
 Met de optie Preflight-koppelingen in Sites Optimizer kunt u problemen met betrekking tot het gebruik van koppelingen op uw website opsporen en oplossen. Deze kans is vooral gericht op het evalueren van de koppelingsstructuur van uw site en biedt aanbevelingen die u kunt doen voor verbetering.

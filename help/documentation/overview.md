@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Sites Optimizer-documentatie
 
-![ Sites Optimizer ](./assets/overview/hero.png){align="center"}
+![&#x200B; Sites Optimizer &#x200B;](./assets/overview/hero.png){align="center"}
 
 Welkom bij de documentatie van Sites Optimizer. Hier vindt u informatie over hoe u Sites Optimizer kunt gebruiken om uw AEM-sites te optimaliseren.
 

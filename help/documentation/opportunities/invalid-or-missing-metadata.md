@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Ongeldige of ontbrekende metagegevensmogelijkheid
 
-![ Ongeldige of ontbrekende meta-gegevenskans ](./assets/missing-or-invalid-metadata/hero.png){align="center"}
+![&#x200B; Ongeldige of ontbrekende meta-gegevenskans &#x200B;](./assets/missing-or-invalid-metadata/hero.png){align="center"}
 
 De ongeldige of ontbrekende metagegevensmogelijkheid identificeert ontbrekende of onjuiste metagegevens op uw webpagina&#39;s. Door problemen met metagegevens op te lossen wordt de SEO verhoogd door de zichtbaarheid van inhoud, zoekresultaten en de betrokkenheid van gebruikers te verbeteren. Dergelijke problemen kunnen ontstaan door ontbrekende of ongeldige tags, te lange of te korte beschrijvingen enzovoort.
 
@@ -23,7 +23,7 @@ De ongeldige of ontbrekende meta-gegevenskans toont een samenvatting bij de bove
 
 ## Automatische identificatie
 
-![ auto-identificeer ongeldige of ontbrekende meta-gegevens ](./assets/missing-or-invalid-metadata/auto-identify.png){align="center"}
+![&#x200B; auto-identificeer ongeldige of ontbrekende meta-gegevens &#x200B;](./assets/missing-or-invalid-metadata/auto-identify.png){align="center"}
 
 De ongeldige of ontbrekende meta-gegevenskans maakt een lijst van alle defecte meta-gegevens op uw pagina&#39;s, en omvat het volgende:
 
@@ -34,7 +34,7 @@ De ongeldige of ontbrekende meta-gegevenskans maakt een lijst van alle defecte m
 
 ## Automatisch voorstellen
 
-![ automatisch-suggereren ongeldige of ontbrekende meta-gegevens ](./assets/missing-or-invalid-metadata/auto-suggest.png){align="center"}
+![&#x200B; automatisch-suggereren ongeldige of ontbrekende meta-gegevens &#x200B;](./assets/missing-or-invalid-metadata/auto-suggest.png){align="center"}
 
 De ongeldige of ontbrekende metagegevensmogelijkheid biedt ook door AI gegenereerde suggesties voor het wijzigen of bijwerken van de metagegevenstags. Deze suggesties zijn gebaseerd op de oorspronkelijke tag die de metagegevens in de fout bevatte en op de inhoud van de voorgestelde update.
 
@@ -42,13 +42,13 @@ De ongeldige of ontbrekende metagegevensmogelijkheid biedt ook door AI gegeneree
 
 >[!TAB  AI rationale ]
 
-Het selecteren van ![ pictogram van de Informatie ](https://spectrum.adobe.com/static/icons/workflow_18/Smock_InfoOutline_18_N.svg) verstrekt de AI redenering voor de voorgestelde update.
+Het selecteren van ![&#x200B; pictogram van de Informatie &#x200B;](https://spectrum.adobe.com/static/icons/workflow_18/Smock_InfoOutline_18_N.svg) verstrekt de AI redenering voor de voorgestelde update.
 
 >[!TAB  Aanbevolen metagegevenswaarde bewerken ]
 
-![ geef gesuggereerde ongeldige of ontbrekende meta-gegevens uit ](./assets/missing-or-invalid-metadata/edit-suggested-metadata-value.png){align="center"}
+![&#x200B; geef gesuggereerde ongeldige of ontbrekende meta-gegevens uit &#x200B;](./assets/missing-or-invalid-metadata/edit-suggested-metadata-value.png){align="center"}
 
-Als u met de AI-Gegenereerde suggestie oneens bent, kunt u de voorgestelde meta-gegevenswaarde uitgeven door ![ pictogram van de Schrapping ](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) te selecteren. Op deze manier kunt u handmatig de waarde invoeren die u het beste geschikt acht voor de metagegevens. Het bewerkingsvenster bevat het volgende:
+Als u met de AI-Gegenereerde suggestie oneens bent, kunt u de voorgestelde meta-gegevenswaarde uitgeven door ![&#x200B; pictogram van de Schrapping &#x200B;](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) te selecteren. Op deze manier kunt u handmatig de waarde invoeren die u het beste geschikt acht voor de metagegevens. Het bewerkingsvenster bevat het volgende:
 
 * **Weg** - de weg aan de pagina die de meta-gegevens (of gebrek van) bevat.
 * **beschrijving van de kwestie** - wijst op het type van kwestie die de meta-gegevensmarkering en een korte beschrijving beïnvloeden.
@@ -60,7 +60,7 @@ Als u met de AI-Gegenereerde suggestie oneens bent, kunt u de voorgestelde meta-
 
 >[!TAB  negeer ingangen ]
 
-U kunt items met de beoogde verbroken of ongeldige metagegevens negeren. Het selecteren van ![ pictogram van de Schrapping ](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) verwijdert de ingang uit de opportuniteitslijst. De genegeerde ingangen kunnen van het **Genegeerde** lusje bij de bovenkant van de opportuniteitspagina opnieuw worden aangehaald.
+U kunt items met de beoogde verbroken of ongeldige metagegevens negeren. Het selecteren van ![&#x200B; pictogram van de Schrapping &#x200B;](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) verwijdert de ingang uit de opportuniteitslijst. De genegeerde ingangen kunnen van het **Genegeerde** lusje bij de bovenkant van de opportuniteitspagina opnieuw worden aangehaald.
 
 >[!ENDTABS]
 
@@ -68,7 +68,7 @@ U kunt items met de beoogde verbroken of ongeldige metagegevens negeren. Het sel
 
 [!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
-![ auto-optimaliseer gesuggereerde ongeldige of ontbrekende meta-gegevens ](./assets/missing-or-invalid-metadata/auto-optimize.png){align="center"}
+![&#x200B; auto-optimaliseer gesuggereerde ongeldige of ontbrekende meta-gegevens &#x200B;](./assets/missing-or-invalid-metadata/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie te implementeren voor de problemen die worden gevonden door de ongeldige of ontbrekende metagegevensmogelijkheid. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 

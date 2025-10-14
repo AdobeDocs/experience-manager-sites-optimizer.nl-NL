@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Kernwebvitaliteit
 
-![ de kansen van kernWeb vitals ](./assets/core-web-vitals/hero.png){align="center"}
+![&#x200B; de kansen van kernWeb vitals &#x200B;](./assets/core-web-vitals/hero.png){align="center"}
 
 De belangrijkste kans van het Web van vitals identificeert kwesties die de gebruikerservaring en de biologische onderzoeksprestaties van uw Web-pagina&#39;s kunnen degraderen. Deze problemen zijn het gevolg van verschillende factoren, zoals aangepaste lettertypen, niet-geoptimaliseerde JavaScript-afhankelijkheden, scripts van derden enzovoort. De belangrijkste kans op internet wijst op deze onvolkomenheden en stelt oplossingen voor die de prestaties van uw webpagina kunnen verbeteren. Houd er rekening mee dat alleen pagina&#39;s met weergaven van minstens 1000 pagina&#39;s kunnen worden geanalyseerd.
 
@@ -23,7 +23,7 @@ Om te beginnen geeft de belangrijkste webvitals-kans boven aan de pagina een ove
 
 ## Automatische identificatie
 
-![ auto-identificeer kernWeb vitals ](./assets/core-web-vitals/auto-identify.png){align="center"}
+![&#x200B; auto-identificeer kernWeb vitals &#x200B;](./assets/core-web-vitals/auto-identify.png){align="center"}
 
 In het onderste gedeelte van de pagina hebt u een lijst met alle huidige uitgaven gegroepeerd als:
 
@@ -40,7 +40,7 @@ Het systeem groepeert deze kwesties door de standaardprestatiesmetriek in het ra
 
 ## Automatisch voorstellen
 
-![ auto-stelt de kansen van kernWeb van vitals voor ](./assets/core-web-vitals/auto-suggest.png){align="center"}
+![&#x200B; auto-stelt de kansen van kernWeb van vitals voor &#x200B;](./assets/core-web-vitals/auto-suggest.png){align="center"}
 
 De belangrijkste kans van het Web van vitals verstrekt AI-Gegenereerde fixingssuggesties. Wanneer u de suggesties klikt knoop, verschijnt een nieuw venster dat de prestatiesmetriek **LCP**, **INP** en **CLS** als categorieën bevat. U kunt tussen deze categorieën schakelen om een lijst met specifieke kwesties te zien.
 
@@ -50,7 +50,7 @@ Elke categorie kan verschillende problemen bevatten, zodat u omlaag kunt schuive
 
 [!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
-![ auto-optimaliseer kernWeb kansen ](./assets/core-web-vitals/auto-optimize.png){align="center"}
+![&#x200B; auto-optimaliseer kernWeb kansen &#x200B;](./assets/core-web-vitals/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie te implementeren voor de problemen die worden aangetroffen door de belangrijkste webvitals-mogelijkheid. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 

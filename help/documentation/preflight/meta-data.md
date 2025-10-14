@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # Preflight-metagegevens, mogelijkheid
 
-![ Preflight Metagegevens kans ](./assets/metadata/hero.png){align="center"}
+![&#x200B; Preflight Metagegevens kans &#x200B;](./assets/metadata/hero.png){align="center"}
 
 Met de Preflight-metagegevensmogelijkheid in Sites Optimizer kunt u problemen met betrekking tot het gebruik van metagegevens op uw website opsporen en oplossen. Deze kans is vooral gericht op het evalueren van de metagegevensstructuur van uw site en biedt aanbevelingen die u kunt doen voor verbetering.

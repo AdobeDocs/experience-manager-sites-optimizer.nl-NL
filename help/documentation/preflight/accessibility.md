@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # Toegankelijkheidsmogelijkheden van Preflight
 
-![ Preflight toegankelijkheidskansen ](./assets/accessibility/hero.png){align="center"}
+![&#x200B; Preflight toegankelijkheidskansen &#x200B;](./assets/accessibility/hero.png){align="center"}
 
 Met de Preflight-toegankelijkheidsmogelijkheid in Sites Optimizer kunt u toegankelijkheidsproblemen op uw website identificeren en aanpakken, zodat deze voor alle personen, inclusief personen met een handicap, bruikbaar zijn. Deze kans is gericht op het evalueren van de mate waarin uw site voldoet aan toegankelijkheidsstandaarden en biedt activeerbare aanbevelingen voor verbetering.

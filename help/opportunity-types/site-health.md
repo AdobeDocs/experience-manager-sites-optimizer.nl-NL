@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Gezondheidsmogelijkheden van de site
 
-![ de gezondheidskansen van de Plaats ](./assets/site-health/hero.png){align="center"}
+![&#x200B; de gezondheidskansen van de Plaats &#x200B;](./assets/site-health/hero.png){align="center"}
 
 Het behoud van de gezondheid van sites in AEM Sites Optimizer is essentieel voor het bieden van snelle, betrouwbare en krachtige digitale ervaringen. Door kansen voor verbetering-zulke als Kernweb te identificeren kunnen de teams paginasnelheid, interactiviteit, en visuele stabiliteit optimaliseren om gebruikerservaring en onderzoekmachine rangschikkingen te verbeteren. Een goed onderhouden site zorgt voor vloeiender navigatie, betere betrokkenheid en verbeterde algehele prestaties. Met behulp van AEM Sites Optimizer-inzichten kunt u de site voortdurend controleren en verfijnen, zodat deze efficiënt en effectief blijft.
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Aanbieding voor Sitemap
 
-![ de uitgiftekans van de Sitemap ](./assets/sitemap-issues/hero.png){align="center"}
+![&#x200B; de uitgiftekans van de Sitemap &#x200B;](./assets/sitemap-issues/hero.png){align="center"}
 
 Met een volledige en nauwkeurige sitemap kunnen zoekprogramma&#39;s op efficiënte wijze door websitepagina&#39;s bladeren en indexeren, zodat de zoekresultaten beter zichtbaar zijn. Met de sitemapmogelijkheid worden potentiële problemen in uw sitemap geïdentificeerd. Door deze problemen op te lossen, kunt u de indexering van zoekprogramma&#39;s en de ontdekkingsmogelijkheden van inhoud op uw site aanzienlijk verbeteren.
 
@@ -34,7 +34,7 @@ Sitemap-problemen kunnen worden gefilterd aan de hand van de volgende criteria:
 
 >[!TAB  de fouten van de Cliënt ]
 
-![ auto-identificeer sitemap cliëntfouten ](./assets/sitemap-issues/auto-identify-client-errors.png){align="center"}
+![&#x200B; auto-identificeer sitemap cliëntfouten &#x200B;](./assets/sitemap-issues/auto-identify-client-errors.png){align="center"}
 
 Als URL&#39;s in uw sitemap deze fouten retourneren, gaan zoekprogramma&#39;s er mogelijk van uit dat uw sitemap verouderd is of dat pagina&#39;s per ongeluk zijn verwijderd. De client geeft aan dat de aanvraag van de client (browser of crawler) ongeldig was. Veelvoorkomende zijn:
 
@@ -51,7 +51,7 @@ Elke kwestie wordt getoond in een lijst, met de **kolom van de Pagina** identifi
 
 >[!TAB richt  opnieuw]
 
-![ auto-identificeer sitemap cliëntfouten ](./assets/sitemap-issues/auto-identify-redirects.png){align="center"}
+![&#x200B; auto-identificeer sitemap cliëntfouten &#x200B;](./assets/sitemap-issues/auto-identify-redirects.png){align="center"}
 
 Sitemaps mogen alleen de uiteindelijke doel-URL&#39;s bevatten, niet de URL&#39;s die omleiden. Omleiding is bedoeld om gebruikers en kruiplers aan de correcte plaats te begeleiden maar kan problemen veroorzaken als misconfigured:
 
@@ -68,7 +68,7 @@ Elke kwestie wordt getoond in een lijst, met de **kolom van de Pagina** identifi
 
 ## Automatisch voorstellen
 
-Elke sitemapkwestie [ die aan de filtercriteria ](#auto-identify) voldoet is vermeld in een lijst met de volgende kolommen:
+Elke sitemapkwestie [&#x200B; die aan de filtercriteria &#x200B;](#auto-identify) voldoet is vermeld in een lijst met de volgende kolommen:
 
 * **Pagina** - URL van de sitemapingang met een kwestie.
 * **Suggestie** - de geadviseerde moeilijke situatie voor de kwestie.
@@ -79,7 +79,7 @@ Suggesties bevatten doorgaans een bijgewerkt sitepad om de sitemapvermelding te 
 
 [!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
-![ auto-optimaliseer de kwesties van de Sitemap ](./assets/sitemap-issues/auto-optimize.png){align="center"}
+![&#x200B; auto-optimaliseer de kwesties van de Sitemap &#x200B;](./assets/sitemap-issues/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate voegt de mogelijkheid toe om automatisch geoptimaliseerde sitemaps te implementeren.
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Ontbrekende of ongeldige gestructureerde gegevensmogelijkheid
 
-![ Ontbrekende of ongeldige gestructureerde gegevenskans ](./assets/missing-or-invalid-structured-data/hero.png){align="center"}
+![&#x200B; Ontbrekende of ongeldige gestructureerde gegevenskans &#x200B;](./assets/missing-or-invalid-structured-data/hero.png){align="center"}
 
 De ontbrekende of ongeldige gestructureerde gegevensmogelijkheid identificeert ontbrekende of defecte gestructureerde gegevens in de gestandaardiseerde Json-LD-indeling. Met gestructureerde gegevens kunt u belangrijke informatie op uw website ordenen, beschrijven en labelen. Zoekprogramma&#39;s kunnen de inhoud van uw pagina&#39;s beter interpreteren en de zoekresultaten worden beter zichtbaar. Betere zoekresultaten kunnen ertoe leiden dat meer gebruikers zich met uw website engageren.
 
@@ -23,7 +23,7 @@ De ontbrekende of ongeldige gestructureerde gegevenskans toont een samenvatting 
 
 ## Automatische identificatie
 
-![ auto-identificeert ontbrekende of ongeldige gestructureerde gegevens ](./assets/missing-or-invalid-structured-data/auto-identify.png){align="center"}
+![&#x200B; auto-identificeert ontbrekende of ongeldige gestructureerde gegevens &#x200B;](./assets/missing-or-invalid-structured-data/auto-identify.png){align="center"}
 
 De ontbrekende of ongeldige gestructureerde gegevenskans maakt een lijst van alle kwesties die op uw pagina&#39;s worden ontdekt, en bevat de volgende categorieën:
 
@@ -33,7 +33,7 @@ De ontbrekende of ongeldige gestructureerde gegevenskans maakt een lijst van all
 
 ## Automatisch voorstellen
 
-![ auto-suggereert ontbrekende of ongeldige gestructureerde gegevens ](./assets/missing-or-invalid-structured-data/auto-suggest.png){align="center"}
+![&#x200B; auto-suggereert ontbrekende of ongeldige gestructureerde gegevens &#x200B;](./assets/missing-or-invalid-structured-data/auto-suggest.png){align="center"}
 
 De ongeldige of ontbrekende gestructureerde gegevensmogelijkheid biedt ook door AI gegenereerde suggesties voor het wijzigen of bijwerken van de gestructureerde gegevens. Wanneer u op de knop Suggesties klikt, wordt een nieuw venster weergegeven dat het volgende bevat:
 
@@ -45,7 +45,7 @@ De ongeldige of ontbrekende gestructureerde gegevensmogelijkheid biedt ook door 
 
 [!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
-![ auto-optimaliseer voorgestelde ontbrekende of ongeldige gestructureerde gegevens ](./assets/missing-or-invalid-structured-data/auto-optimize.png){align="center"}
+![&#x200B; auto-optimaliseer voorgestelde ontbrekende of ongeldige gestructureerde gegevens &#x200B;](./assets/missing-or-invalid-structured-data/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie te implementeren voor de problemen die worden gevonden door de ongeldige of ontbrekende gestructureerde gegevensmogelijkheid. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 

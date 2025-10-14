@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Mogelijkheid voor webmachtigingen
 
-![ de toestemmingenkans van de Website ](./assets/website-permissions/hero.png){align="center"}
+![&#x200B; de toestemmingenkans van de Website &#x200B;](./assets/website-permissions/hero.png){align="center"}
 
 De mogelijkheid om websitemachtigingen te gebruiken optimaliseert websitemachtigingen, die cruciaal zijn voor het onderhouden van een veilige en beheerbare AEM-omgeving. Met deze mogelijkheid kunt u de toegangsbesturingselementen verfijnen door te ruime machtigingen (zoals `jcr:all` voor algemene paden zoals `/` of `/content` ) te verwijderen en gebruikerstoegang uit te lijnen met het beginsel van de minste bevoegdheden. Door machtigingen te stroomlijnen en redundanties te elimineren, kunt u beveiligingsrisico&#39;s verkleinen, het onderhoud verbeteren en toekomstige fouten voorkomen. Bevoegdheden controleren en bijwerken in de AEM Security Permissions Console of in uw gegevensopslagruimte. Dit zorgt ervoor dat de de dienstgebruikers slechts de toegang hebben zij werkelijk nodig hebben.
 
 ## Automatische identificatie
 
-![ auto-identificeer websitetoestemmingen ](./assets/website-permissions/auto-identify.png){align="center"}
+![&#x200B; auto-identificeer websitetoestemmingen &#x200B;](./assets/website-permissions/auto-identify.png){align="center"}
 
 De **eigenschap van de Toestemmingen van de Website** identificeert zich automatisch en maakt een lijst
 
@@ -29,7 +29,7 @@ De **eigenschap van de Toestemmingen van de Website** identificeert zich automat
 
 ## Automatisch voorstellen
 
-![ automatisch-stelt websitekwetsbaarheden ](./assets/website-permissions/auto-suggest.png){align="center"} voor
+![&#x200B; automatisch-stelt websitekwetsbaarheden &#x200B;](./assets/website-permissions/auto-suggest.png){align="center"} voor
 
 De auto-suggestie verstrekt AI-Gegenereerde aanbevelingen op het **Voorgestelde toestemmingengebied**, toestaand u om het even welke gemarkeerde toestemmingen met veilige alternatieven te vervangen.
 
@@ -37,7 +37,7 @@ De auto-suggestie verstrekt AI-Gegenereerde aanbevelingen op het **Voorgestelde 
 
 [!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
-![ auto-optimaliseer websitetoestemmingen ](./assets/website-permissions/auto-optimize.png){align="center"}
+![&#x200B; auto-optimaliseer websitetoestemmingen &#x200B;](./assets/website-permissions/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie te implementeren voor de gevonden kwetsbaarheden.
 

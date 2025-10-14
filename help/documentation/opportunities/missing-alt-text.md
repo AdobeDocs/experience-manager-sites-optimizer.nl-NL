@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Ontbrekende alternatieve tekstmogelijkheid
 
-![ Ontbrekende alt tekstkans ](./assets/missing-alt-text/hero.png){align="center"}
+![&#x200B; Ontbrekende alt tekstkans &#x200B;](./assets/missing-alt-text/hero.png){align="center"}
 
 Met de kans op ontbrekende alternatieve tekst worden afbeeldingen zonder beschrijvende alternatieve tekst op uw website geïdentificeerd. Zoekprogramma&#39;s kunnen afbeeldingen zonder alternatieve tekst niet correct indexeren of begrijpen. Deze functionaliteit vermindert aanzienlijk de ontdekkingsmogelijkheden en zoekpositie van uw inhoud en beperkt uiteindelijk het bereik van uw publiek. Bovendien worden personen met een visuele handicap die vertrouwen op schermlezers, uitgesloten van het gebruik van alt-tekst voor afbeeldingen, waardoor belemmeringen voor de toegang tot informatie ontstaan.
 
@@ -25,7 +25,7 @@ Er is ook een aanvullend veld dat de redenering, insight en suggesties met betre
 
 ## Automatische identificatie
 
-![ auto-identificeert ontbrekende alt tekst ](./assets/missing-alt-text/auto-identify.png){align="center"}
+![&#x200B; auto-identificeert ontbrekende alt tekst &#x200B;](./assets/missing-alt-text/auto-identify.png){align="center"}
 
 Bij de kans op ontbrekende alternatieve tekst worden alle afbeeldingen op uw website weergegeven die alternatieve tekst ontbreken. Deze sectie bevat de volgende categorieën:
 
@@ -35,7 +35,7 @@ Bij de kans op ontbrekende alternatieve tekst worden alle afbeeldingen op uw web
 
 ## Automatisch voorstellen
 
-![ auto-suggereert ontbrekende alt tekst ](./assets/missing-alt-text/auto-suggest.png){align="center"}
+![&#x200B; auto-suggereert ontbrekende alt tekst &#x200B;](./assets/missing-alt-text/auto-suggest.png){align="center"}
 
 Automatisch voorstellen biedt door AI gegenereerde suggesties voor de alternatieve tekst van de afbeeldingen. De door AI gegenereerde suggesties zijn ontworpen om u te helpen snel alternatieve tekst aan afbeeldingen toe te voegen zonder dat u elke afbeelding handmatig moet analyseren.
 
@@ -43,7 +43,7 @@ Automatisch voorstellen biedt door AI gegenereerde suggesties voor de alternatie
 
 >[!TAB geef ontbrekende alt tekst  uit]
 
-![ geef ontbrekende alt tekst ](./assets/missing-alt-text/edit-alt-text-value.png){align="center"} uit
+![&#x200B; geef ontbrekende alt tekst &#x200B;](./assets/missing-alt-text/edit-alt-text-value.png){align="center"} uit
 
 Als u met de AI-Gegenereerde suggestie oneens bent, kunt u de voorgestelde alt tekst uitgeven door **te selecteren geef pictogram** uit. Op deze manier kunt u de tekst die u het meest geschikt voor de afbeelding acht, handmatig aanpassen. Het bewerkingsvenster bevat het volgende:
 
@@ -53,7 +53,7 @@ Als u met de AI-Gegenereerde suggestie oneens bent, kunt u de voorgestelde alt t
 
 >[!TAB  negeer ingangen ]
 
-U kunt vermeldingen in de opportuniteitslijst negeren. Het selecteren van ![ pictogram van de Schrapping ](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) verwijdert de ingang uit de lijst. De genegeerde ingangen kunnen van het **Genegeerde** lusje bij de bovenkant van de opportuniteitspagina opnieuw worden aangehaald.
+U kunt vermeldingen in de opportuniteitslijst negeren. Het selecteren van ![&#x200B; pictogram van de Schrapping &#x200B;](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) verwijdert de ingang uit de lijst. De genegeerde ingangen kunnen van het **Genegeerde** lusje bij de bovenkant van de opportuniteitspagina opnieuw worden aangehaald.
 
 >[!ENDTABS]
 
@@ -61,7 +61,7 @@ U kunt vermeldingen in de opportuniteitslijst negeren. Het selecteren van ![ pic
 
 [!BADGE &#x200B; Ultimate &#x200B;]{type=Positive tooltip="Ultimate"}
 
-![ auto-optimaliseer ontbrekende alt tekst ](./assets/missing-alt-text/auto-optimize.png){align="center"}
+![&#x200B; auto-optimaliseer ontbrekende alt tekst &#x200B;](./assets/missing-alt-text/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate voegt de mogelijkheid toe om automatische optimalisatie te implementeren voor de problemen die worden gevonden door de ontbrekende alternatieve tekstmogelijkheid. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 
