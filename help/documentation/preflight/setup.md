@@ -15,7 +15,7 @@ Voor identificatie van de AEM Sites Optimizer Preflight-opportuniteit moet u de 
 
 ## Gebruikerstoegang inschakelen
 
-Om de Preflight uitbreiding te gebruiken, zorg ervoor uw gebruiker aan minstens één van de volgende het productprofielen van AEM Sites Optimizer in [ Adobe Admin Console ](https://adminconsole.adobe.com) wordt toegewezen:
+Om de Preflight uitbreiding te gebruiken, zorg ervoor uw gebruiker aan minstens één van de volgende het productprofielen van AEM Sites Optimizer in [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com) wordt toegewezen:
 
 * AEM Sites Optimizer - Gebruiker automatisch voorstellen
 * AEM Sites Optimizer - Gebruiker automatisch optimaliseren
@@ -29,7 +29,7 @@ Om de Preflight uitbreiding te gebruiken, zorg ervoor uw gebruiker aan minstens 
 Voer de volgende stappen uit om Preflight in de Universal Editor in te stellen:
 
 1. Open **Extension Manager** bij:
-   [ https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
+   [&#x200B; https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. Bepaal de plaats van **Preflight Uitbreiding van AEM Sites Optimizer** en leg een verzoek voor om het toe te laten.
 1. Het **team van AEM van Adobe** zal de uitbreiding voor uw organisatie herzien en toelaten.
 1. Nadat de uitbreiding wordt toegelaten, open een pagina in **Universele Redacteur**, bijvoorbeeld:
