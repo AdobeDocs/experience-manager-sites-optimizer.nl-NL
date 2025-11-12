@@ -1,7 +1,7 @@
 ---
 title: Preflight instellen
 description: Leer hoe u de Preflight-extensie instelt voor AEM Sites Optimizer.
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Voor identificatie van de AEM Sites Optimizer Preflight-opportuniteit moet u de 
 
 ## Gebruikerstoegang inschakelen
 
-Om de Preflight uitbreiding te gebruiken, zorg ervoor uw gebruiker aan minstens één van de volgende het productprofielen van AEM Sites Optimizer in [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com) wordt toegewezen:
+Om de Preflight uitbreiding te gebruiken, zorg ervoor uw gebruiker aan minstens één van de volgende het productprofielen van AEM Sites Optimizer in [ Adobe Admin Console ](https://adminconsole.adobe.com) wordt toegewezen:
 
 * AEM Sites Optimizer - Gebruiker automatisch voorstellen
 * AEM Sites Optimizer - Gebruiker automatisch optimaliseren
@@ -29,7 +29,7 @@ Om de Preflight uitbreiding te gebruiken, zorg ervoor uw gebruiker aan minstens 
 Voer de volgende stappen uit om Preflight in de Universal Editor in te stellen:
 
 1. Open **Extension Manager** bij:
-   [&#x200B; https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
+   [ https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. Bepaal de plaats van **Preflight Uitbreiding van AEM Sites Optimizer** en leg een verzoek voor om het toe te laten.
 1. Het **team van AEM van Adobe** zal de uitbreiding voor uw organisatie herzien en toelaten.
 1. Nadat de uitbreiding wordt toegelaten, open een pagina in **Universele Redacteur**, bijvoorbeeld:
@@ -124,14 +124,14 @@ Als u Preflight wilt gebruiken in de AEM Sites Page Editor, kunt u een bladwijze
 
    * Pers **Ctrl+Shift+B** (Vensters) of **Cmd+Shift+B** (Mac).
 
-!. Maak een nieuwe bladwijzer in uw browser:
+1. Maak een nieuwe bladwijzer in uw browser:
 
-* Klik met de rechtermuisknop op de bladwijzerbalk en selecteer **Nieuwe pagina** of **Bladwijzer toevoegen** .
-* Op het **Adres (URL)** gebied, kleef de volgende code:
+   * Klik met de rechtermuisknop op de bladwijzerbalk en selecteer **Nieuwe pagina** of **Bladwijzer toevoegen** .
+   * Op het **Adres (URL)** gebied, kleef de volgende code:
 
-```javascript
-javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
-```
+   ```javascript
+   javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
+   ```
 
 1. Noem de referentie **Preflight** (of om het even welke naam u verkiest).
 1. Open voorproef URL (`*.aem.page`) van de pagina u in de **Redacteur van de Pagina van AEM Sites** wilt controleren.
