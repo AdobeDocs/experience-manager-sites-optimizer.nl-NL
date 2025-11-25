@@ -17,7 +17,7 @@ ht-degree: 0%
 
 <!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
-![ de Optimalisatiemogelijkheden van Forms ](./assets/form-optimization/hero.png){align="center"}
+![&#x200B; de Optimalisatiemogelijkheden van Forms &#x200B;](./assets/form-optimization/hero.png){align="center"}
 
 Met Forms-optimalisatiemogelijkheden kunnen organisaties de gebruikersinteracties systematisch verbeteren en het converteren van formulieren versnellen. Door problemen op te sporen, zoals lage weergaven, lage conversies en lage navigatiesnelheden, kunnen teams gegevensgestuurde aanpassingen aanbrengen in het formulierontwerp, de plaatsing en de inhoud. Deze optimalisaties helpen de gebruikerservaring te stroomlijnen, waardoor bezoekers gemakkelijker formulieren kunnen invullen en de gewenste resultaten kunnen bereiken. Het gebruik van inzichten van Forms Optimization ondersteunt continue identificatie en oplossing van prestatieverschillen, wat resulteert in effectievere formulieren en verbeterde bedrijfsresultaten.
 

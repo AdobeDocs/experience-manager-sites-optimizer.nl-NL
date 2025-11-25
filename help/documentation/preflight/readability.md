@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Preflight-leesbaarheid
 
-![ Preflight Leesbaarheid kansen ](./assets/readability/hero.png){align="center"}
+![&#x200B; Preflight Leesbaarheid kansen &#x200B;](./assets/readability/hero.png){align="center"}
 
 Met de Preflight-leesbaarheid in Sites Optimizer kunt u problemen met betrekking tot de leesbaarheid van de inhoud van uw website opsporen en verhelpen. Deze kans is vooral gericht op het evalueren van de inhoudstructuur van uw site en biedt aanbevelingen die u kunt doen voor verbetering.
 

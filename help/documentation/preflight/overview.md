@@ -11,13 +11,13 @@ ht-degree: 0%
 
 # Preflight-mogelijkheden
 
-![ Preflight kansen ](./assets/overview/hero.png){align="center"}
+![&#x200B; Preflight kansen &#x200B;](./assets/overview/hero.png){align="center"}
 
 De Preflight-mogelijkheden van Sites Optimizer bestaan uit een reeks evaluaties die verschillende aspecten van de inhoud en structuur van uw website analyseren voordat de webpagina wordt gepubliceerd. Deze evaluaties helpen u potentiële problemen te identificeren en aanbevelingen te doen om de algehele kwaliteit en prestaties van uw site te verbeteren.
 
 ## Preflight instellen
 
-Volg de stappen in de [ Preflight opstelling ](./setup.md) gids om de uitbreiding Preflight in uw website te vormen.
+Volg de stappen in de [&#x200B; Preflight opstelling &#x200B;](./setup.md) gids om de uitbreiding Preflight in uw website te vormen.
 
 ## Preflight-mogelijkheden
 

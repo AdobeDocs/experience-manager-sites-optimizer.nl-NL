@@ -16,19 +16,19 @@ ht-degree: 0%
 
 <span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het kader van een programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
 
-![ Lage meningskansen ](./assets/low-views/hero.png){align="center"}
+![&#x200B; Lage meningskansen &#x200B;](./assets/low-views/hero.png){align="center"}
 
 De lage weergavemogelijkheid identificeert formulieren op uw website met een lage weergavesnelheid. Met dit opportuniteitstype kunt u beter begrijpen welke formulieren niet goed presteren en kunt u suggesties doen voor het verbeteren van hun betrokkenheidspercentage.
 
 ## Automatische identificatie
 
-![ auto-identificeer lage meningen ](./assets/low-views/auto-identify.png){align="center"}
+![&#x200B; auto-identificeer lage meningen &#x200B;](./assets/low-views/auto-identify.png){align="center"}
 
 Elke webpagina met vormen met lage meningen is vermeld als zijn eigen **Lage meningen** kans. Boven aan de opportunitypagina wordt een korte samenvatting van de opportuniteit en de redenering weergegeven.
 
 ## Automatisch voorstellen
 
-![ auto-stelt lage meningen ](./assets/low-views/auto-suggest.png){align="center"} voor
+![&#x200B; auto-stelt lage meningen &#x200B;](./assets/low-views/auto-suggest.png){align="center"} voor
 
 Automatisch voorstellen biedt door AI gegenereerde formuliervariaties die zijn ontworpen om de weergaven van uw formulieren te vergroten. Elke variatie toont de **geprojecteerde verhoging van het omzettingspercentage** die op zijn potentieel wordt gebaseerd om vormenovereenkomst te verbeteren, die u helpt aan de meest efficiënte suggesties voorrang geven.
 
@@ -36,13 +36,13 @@ Automatisch voorstellen biedt door AI gegenereerde formuliervariaties die zijn o
 
 >[!TAB  de variatie van de Controle ]
 
-![ de variaties van de Controle ](./assets/low-views/control-variation.png){align="center"}
+![&#x200B; de variaties van de Controle &#x200B;](./assets/low-views/control-variation.png){align="center"}
 
 De besturingsvariant zijn de oorspronkelijke formulieren die op dat moment actief zijn op uw website. Deze variatie wordt gebruikt als basislijn om de prestaties van de voorgestelde variaties te vergelijken.
 
 >[!TAB  Voorgestelde variaties ]
 
-![ Voorgestelde variaties ](./assets/low-views/suggested-variations.png){align="center"}
+![&#x200B; Voorgestelde variaties &#x200B;](./assets/low-views/suggested-variations.png){align="center"}
 
 De voorgestelde variaties zijn door AI gegenereerde formuliervariaties die zijn ontworpen om de weergaven van uw formulieren te vergroten. Elke variatie toont de **geprojecteerde verhoging van het omzettingspercentage** die op zijn potentieel wordt gebaseerd om vormenovereenkomst te verbeteren, die u helpt aan de meest efficiënte suggesties voorrang geven.
 

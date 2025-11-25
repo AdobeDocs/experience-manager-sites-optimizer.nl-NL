@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # Boordgebruikers
 
-Leer hoe te aan boord van gebruikers van AEM Sites Optimizer in [ Adobe Admin Console ](https://adminconsole.adobe.com/), en geef hen aangewezen toegang.
+Leer hoe te aan boord van gebruikers van AEM Sites Optimizer in [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/), en geef hen aangewezen toegang.
 
 >[!SLIDE](aem-sites-optimizer-onboard-users)

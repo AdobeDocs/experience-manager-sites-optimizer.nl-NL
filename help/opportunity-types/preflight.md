@@ -11,9 +11,9 @@ ht-degree: 0%
 
 # Preflight-mogelijkheden
 
-![ Preflight kansen ](./assets/preflight/hero.png){align="center"}
+![&#x200B; Preflight kansen &#x200B;](./assets/preflight/hero.png){align="center"}
 
-De Preflight van de kansen van AEM Sites Optimizer [ hulp zorgt ervoor dat uw Web-pagina&#39;s voor prestaties, SEO, en gebruikerservaring worden geoptimaliseerd alvorens zij live gaan. ](../documentation/preflight/overview.md) Door mogelijke problemen zoals verbroken koppelingen, ontbrekende metatags en zorgen over toegankelijkheid te identificeren, kunnen auteurs en marketeers van inhoud met Preflight deze problemen vroeg in het publicatieproces oplossen. Deze proactieve benadering minimaliseert het risico van het publiceren van suboptimale inhoud, verbetert plaatskwaliteit, en verbetert de algemene digitale aanwezigheid. Preflight-mogelijkheden bieden ondersteuning voor een vloeiender workflow, reduceren oplossingen na publicatie en dragen bij tot betere beoordelingen van zoekprogramma&#39;s en tevredenheid van gebruikers.
+De Preflight van de kansen van AEM Sites Optimizer [&#x200B; hulp zorgt ervoor dat uw Web-pagina&#39;s voor prestaties, SEO, en gebruikerservaring worden geoptimaliseerd alvorens zij live gaan. &#x200B;](../documentation/preflight/overview.md) Door mogelijke problemen zoals verbroken koppelingen, ontbrekende metatags en zorgen over toegankelijkheid te identificeren, kunnen auteurs en marketeers van inhoud met Preflight deze problemen vroeg in het publicatieproces oplossen. Deze proactieve benadering minimaliseert het risico van het publiceren van suboptimale inhoud, verbetert plaatskwaliteit, en verbetert de algemene digitale aanwezigheid. Preflight-mogelijkheden bieden ondersteuning voor een vloeiender workflow, reduceren oplossingen na publicatie en dragen bij tot betere beoordelingen van zoekprogramma&#39;s en tevredenheid van gebruikers.
 
 ## Kansen
 
