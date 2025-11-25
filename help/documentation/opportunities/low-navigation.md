@@ -4,9 +4,9 @@ description: Leer meer over de lage navigatiemogelijkheid en hoe u deze kunt geb
 badgeFormOptimization: label="Forms optimaliseren" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms optimaliseren"
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,22 @@ ht-degree: 0%
 
 # Forms lage navigatiemogelijkheid
 
-<span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
+<span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het kader van een programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
 
-![&#x200B; Lage navigatiemogelijkheid &#x200B;](./assets/low-navigation/hero.png){align="center"}
+![ Lage navigatiemogelijkheid ](./assets/low-navigation/hero.png){align="center"}
 
-De lage navigatiemogelijkheid identificeert formulieren op uw website met lage navigatiesnelheden. Met dit opportuniteitstype kunt u beter begrijpen welke formulieren niet worden gedetecteerd of geopend door gebruikers en kunt u suggesties doen om de ontdekkingsmogelijkheden te verbeteren.
+De lage navigatiemogelijkheid identificeert formulieren op uw website met lage navigatiesnelheden. Dit opportuniteitstype identificeert formulieren die gebruikers niet kunnen detecteren of benaderen en stelt manieren voor om hun ontdekkingsmogelijkheden te verbeteren.
+
 
 ## Automatische identificatie
 
-![&#x200B; auto-identificeer lage navigatie &#x200B;](./assets/low-navigation/auto-identify.png){align="center"}
+![ auto-identificeer lage navigatie ](./assets/low-navigation/auto-identify.png){align="center"}
 
 Elke webpagina met vormen met lage navigatie is vermeld als zijn eigen **Lage navigatie** kans. Boven aan de opportunitypagina wordt een korte samenvatting van de opportuniteit en de redenering weergegeven.
 
 ## Automatisch voorstellen
 
-![&#x200B; auto-stelt lage navigatie &#x200B;](./assets/low-navigation/auto-suggest.png) voor
+![ auto-stelt lage navigatie ](./assets/low-navigation/auto-suggest.png) voor
 
 Automatisch suggesties geven door AI gegenereerde formuliervariaties die zijn ontworpen om de navigatie naar uw formulieren te verbeteren. Elke variatie toont de **geprojecteerde verhoging van het omzettingspercentage** die op zijn potentieel wordt gebaseerd om vormontdekkingsbaarheid en toegankelijkheid te verbeteren, die u helpen aan de meest efficiënte suggesties voorrang geven.
 
@@ -36,13 +37,13 @@ Automatisch suggesties geven door AI gegenereerde formuliervariaties die zijn on
 
 >[!TAB  de variatie van de Controle ]
 
-![&#x200B; de variaties van de Controle &#x200B;](./assets/low-navigation/control-variation.png){align="center"}
+![ de variaties van de Controle ](./assets/low-navigation/control-variation.png){align="center"}
 
 De besturingsvariant zijn de oorspronkelijke formulieren die op dat moment actief zijn op uw website. Deze variatie wordt gebruikt als basislijn om de prestaties van de voorgestelde variaties te vergelijken.
 
 >[!TAB  Voorgestelde variaties ]
 
-![&#x200B; Voorgestelde variaties &#x200B;](./assets/low-navigation/suggested-variations.png){align="center"}
+![ Voorgestelde variaties ](./assets/low-navigation/suggested-variations.png){align="center"}
 
 De voorgestelde variaties zijn door AI gegenereerde formuliervariaties die zijn ontworpen om de navigatie naar uw formulieren te verbeteren. Elke variatie toont de **geprojecteerde verhoging van het omzettingspercentage** die op zijn potentieel wordt gebaseerd om vormontdekkingsbaarheid en toegankelijkheid te verbeteren, die u helpen aan de meest efficiënte suggesties voorrang geven.
 

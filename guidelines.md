@@ -1,17 +1,17 @@
 ---
-source-git-commit: 505238dcbe7fa9c1ee22dd174d6641e7df10394f
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 3%
+source-wordcount: '710'
+ht-degree: 0%
 
 ---
 # Richtlijnen voor het bijdragen aan de documentatie van Adobe Experience Manager
 
 ## Documentatiefilosofie
 
-Adobe Experience Manager-gebruikers werken in zeer concurrerende omgevingen en streven naar het creëren van digitale ervaringen die hen onderscheiden van hun concurrenten. Daarom is het van essentieel belang dat wanneer Adobe geavanceerde nieuwe tools in AEM levert, deze tools worden aangevuld met nauwkeurige en duidelijke documentatie, zodat de klant onmiddellijk gebruik kan maken van zijn AEM-investering en zijn investeringsrendement kan maximaliseren.
+Adobe Experience Manager-gebruikers werken in zeer concurrerende omgevingen en streven ernaar om digitale ervaringen te creëren die hen onderscheiden van hun concurrenten. Wanneer Adobe geavanceerde gereedschappen in AEM biedt, worden deze gereedschappen daarom aangevuld met nauwkeurige en duidelijke documentatie. Het laat klanten onmiddellijk hun investering van AEM gebruiken en maximaliseren hun rendement van investering.
 
-Het doel van de documentatie van AEM is om documentatie zo snel mogelijk in de handen van AEM-gebruikers te brengen. Het AEM-documentatieteam geeft daarom prioriteit aan nauwkeurige, bruikbare documentatie en streeft ernaar deze voortdurend bij te werken en te verbeteren.
+Het doel van de documentatie van AEM is om documentatie zo snel mogelijk in de handen van AEM-gebruikers te brengen. Daarom geeft Adobe prioriteit aan nauwkeurige, bruikbare documentatie en streeft het ernaar deze voortdurend bij te werken en te verbeteren.
 
 ## Documentatiebijdragen
 
@@ -19,33 +19,33 @@ Om de documentatie van AEM voortdurend te verbeteren, is de hele gemeenschap van
 
 ## Documentatienormen
 
-Hoewel het documentatieteam van Experience Manager de bijdragen aan de documentatie van Adobe toejuicht, moet elke bijdrage aan de documentatie van AEM - in de vorm van een pull-verzoek of een kwestie - in overeenstemming zijn met de bijdrage- en documentatienormen van het team.
+Hoewel Adobe de bijdragen aan haar documentatie verwelkomt, moet elke bijdrage aan de AEM-documentatie in een pull-verzoek of een kwestie voldoen aan de normen voor de bijdrage en documentatie van Adobe.
 
 Bijdragen die niet aan deze normen voldoen, kunnen worden afgewezen.
 
-### Experience Manager-documentatieteam documenteert standaard gebruiksgevallen.
+### Standaardeuse-gevallen worden in Adobe gedocumenteerd
 
 De documentatie van AEM behandelt standaardgebruiksgevallen. Gebruiksgevallen die buiten het bereik van de standaardinstallatie en het standaardgebruik van het product vallen, maken geen deel uit van de documentatie van AEM.
 
-### Het Experience Manager-documentatieteam documenteert doorgaans geen bugs of de bijbehorende tijdelijke oorzaken.
+### Adobe documenteert over het algemeen geen bugs of de bijbehorende aanraakpunten
 
 De documentatie van AEM behandelt standaardgebruiksgevallen. Daarom zijn bugs, effecten die door bugs worden veroorzaakt, en de tijdelijke oorzaken van bugs niet gedocumenteerd.
 
-Uitzonderingen op deze regel zijn van toepassing op de opmerkingen bij de release waar bekende problemen kunnen worden vermeld met mogelijke oplossingen die zijn goedgekeurd door AEM Product Management.
+De uitzonderingen op deze regel zijn op de versienota&#39;s van toepassing waar de bekende kwesties met mogelijke oplossingen kunnen worden vermeld die het Beheer van het Product goedkeurt.
 
 ### De bijdragen van de documentatie zijn niet voor het beantwoorden van technische vragen.
 
-Alle ideeën die u eventueel nodig hebt om de documentatie van AEM te verbeteren, zijn welkom als bijdragen. Nochtans zijn de commentaren, de kwesties, en trekkingsverzoeken voorgenomen voor *bijdragen* slechts. Ze zijn niet bedoeld om je vragen te beantwoorden over hoe je AEM kunt gebruiken, je AEM-project kunt implementeren of technische problemen kunt oplossen.
+Alle ideeën die u nodig hebt om de documentatie van AEM te verbeteren, zijn welkom als bijdragen. Nochtans, zijn om het even welke commentaren, kwesties, en trekkingsverzoeken bedoeld als *bijdragen* slechts. Ze hoeven geen antwoord te geven op je vragen over hoe je AEM kunt gebruiken, je AEM-project kunt implementeren of technische problemen kunt oplossen.
 
-Om het even welke vragen over het gebruik van AEM of technische fouten u door het normale steunproces via het [&#x200B; portaal van de Steun van Experience Manager &#x200B;](https://experienceleague.adobe.com/nl?support-solution=Experience+Manager#home) zou kunnen moeten worden gemeld of in de [&#x200B; gemeenschap van Experience Manager &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) besproken.
+U kunt vragen over AEM-gebruik of technische fouten melden. Gebruik het normale steunproces als [ portaal van de Steun van de Onderneming van Experience Cloud ](https://experienceleague.adobe.com/?support-solution=General#support) of besproken in de [ gemeenschap van Experience Manager ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
 
 ***de documentatiebijdragen van AEM zijn geen vervanging voor de Steun van de Klant van Adobe*** en om het even welke dergelijke bijdragen die antwoorden op steun-verwante vragen zoeken worden verworpen.
 
 ### Bijdragen moeten duidelijk verwijzen naar betrokken documentatiepagina&#39;s.
 
-Als u een probleem maakt om verbeteringen in de documentatie voor te stellen, moet u koppelingen naar de betrokken pagina&#39;s opnemen. Als u een probleemmelding maakt met de koppeling **Deze pagina bewerken** op een documentatiepagina, wordt de probleemmelding automatisch gemaakt met een koppeling naar de pagina.
+Als u een probleem maakt om verbeteringen in de documentatie voor te stellen, moet u koppelingen naar de betrokken pagina&#39;s opnemen. Als u een kwestie creeert door **te gebruiken geef deze pagina** verbinding op een documentatiepagina uit, wordt de kwestie automatisch gecreeerd met een verbinding aan de pagina.
 
-Dit is niet van toepassing op pull-aanvragen, omdat pull-aanvragen door hun aard verwijzen naar de betrokken pagina&#39;s.
+Dit proces is niet van toepassing op trekkingsverzoeken omdat trekkingsverzoeken van nature verwijzen naar de betrokken pagina&#39;s.
 
 ## Documentatierichtlijnen
 
@@ -63,9 +63,9 @@ Met deze richtlijnen kunt u uw bijdrage gemakkelijker beoordelen en daarom is in
 
 Alle lezers van AEM-documentatie zijn over de hele wereld beschikbaar en kunnen niet verwachten dat ze native of vloeiende Engelstalige luidsprekers zijn. Vermijd colloquialisme en houd de taal zo duidelijk en eenvoudig mogelijk.
 
-#### Handleiding Microsoft® volgen
+#### Volg de Microsoft®-handleiding
 
-[&#x200B; het Handboek Microsoft® van Stijl &#x200B;](https://learn.microsoft.com/en-us/style-guide/welcome/) is een vrij beschikbare gids van de documentatiestijl die zich op softwaredocumentatie concentreert en de documentatie van AEM volgt deze gids waar mogelijk.
+[ het Handboek Microsoft® van Stijl ](https://learn.microsoft.com/en-us/style-guide/welcome/) is een vrij beschikbare gids van de documentatiestijl die zich op softwaredocumentatie concentreert en de documentatie van AEM volgt deze gids waar mogelijk.
 
 ### Opmaak
 
@@ -83,10 +83,10 @@ Gebruik geen markeringen of andere annotaties in schermafbeeldingen (zoals rode 
 
 ### Versiespecifieke verwijzingen
 
-Probeer zo veel mogelijk directe verwijzingen naar een specifieke versie in de documentatie te voorkomen. Dit maakt de documentatie flexibeler en verlengbaar voor toekomstige versies.
+Probeer zo veel mogelijk directe verwijzingen naar een specifieke versie in de documentatie te voorkomen. Deze aanbeveling maakt de documentatie flexibeler en uitbreidbaar voor toekomstige versies.
 
 ### Gebruik van Dag, AEM, CQ, CRX
 
-Het product zou altijd door zijn volledige naam **Adobe Experience Manager** voor het eerst in een artikel moeten worden geroepen en kan daarna als **AEM** worden bedoeld.
+In een artikel, verwijs altijd naar het product door zijn volledige naam **Adobe Experience Manager** de eerste keer het wordt gebruikt. Daarna, kan het als **AEM** worden bedoeld.
 
 Gebruik geen Day, Day Software, CQ en CRX, tenzij dit onvermijdelijk is, bijvoorbeeld in klassenamen of met verwijzing naar de geschiedenis van AEM.

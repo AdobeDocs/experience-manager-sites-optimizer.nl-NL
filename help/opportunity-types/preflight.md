@@ -1,9 +1,9 @@
 ---
 title: Preflight-optimalisatie met AEM Sites Optimizer
 description: Meer weten over Preflight-mogelijkheden met AEM Sites Optimizer?
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 # Preflight-mogelijkheden
 
-![&#x200B; Preflight kansen &#x200B;](./assets/preflight/hero.png){align="center"}
+![ Preflight kansen ](./assets/preflight/hero.png){align="center"}
 
-De Preflight van de kansen van AEM Sites Optimizer [&#x200B; hulp zorgt ervoor dat uw Web-pagina&#39;s voor prestaties, SEO, en gebruikerservaring worden geoptimaliseerd alvorens zij live gaan. &#x200B;](../documentation/preflight/overview.md) Door mogelijke problemen zoals verbroken koppelingen, ontbrekende metatags en zorgen over toegankelijkheid te identificeren, kunnen auteurs en marketeers van inhoud met Preflight deze problemen vroeg in het publicatieproces oplossen. Deze proactieve benadering minimaliseert het risico van het publiceren van suboptimale inhoud, verbetert plaatskwaliteit, en verbetert algemene digitale aanwezigheid. Het gebruik van Preflight-mogelijkheden ondersteunt een vloeiender werkschema, vermindert postpublishing-correcties en draagt bij aan betere beoordelingen van zoekmachines en gebruikerstevredenheid.
+De Preflight van de kansen van AEM Sites Optimizer [ hulp zorgt ervoor dat uw Web-pagina&#39;s voor prestaties, SEO, en gebruikerservaring worden geoptimaliseerd alvorens zij live gaan. ](../documentation/preflight/overview.md) Door mogelijke problemen zoals verbroken koppelingen, ontbrekende metatags en zorgen over toegankelijkheid te identificeren, kunnen auteurs en marketeers van inhoud met Preflight deze problemen vroeg in het publicatieproces oplossen. Deze proactieve benadering minimaliseert het risico van het publiceren van suboptimale inhoud, verbetert plaatskwaliteit, en verbetert de algemene digitale aanwezigheid. Preflight-mogelijkheden bieden ondersteuning voor een vloeiender workflow, reduceren oplossingen na publicatie en dragen bij tot betere beoordelingen van zoekprogramma&#39;s en tevredenheid van gebruikers.
 
 ## Kansen
 

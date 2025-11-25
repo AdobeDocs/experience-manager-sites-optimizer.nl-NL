@@ -4,9 +4,9 @@ description: Leer meer over de lage omzettingsmogelijkheden en hoe u deze kunt g
 badgeFormOptimization: label="Forms optimaliseren" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms optimaliseren"
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 # Forms lage conversiemogelijkheid
 
-<span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
+<span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het kader van een programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
 
-![&#x200B; Lage omzettingskansen &#x200B;](./assets/low-conversions/hero.png){align="center"}
+![ Lage omzettingskansen ](./assets/low-conversions/hero.png){align="center"}
 
 Met de lage conversiekans worden op uw website formulieren met lage conversiekoersen geïdentificeerd. Met dit opportuniteitstype kunt u beter begrijpen welke formulieren niet goed presteren en kunt u suggesties doen voor het verbeteren van hun betrokkenheidspercentage.
 
 ## Automatische identificatie
 
-![&#x200B; auto-identificeer lage omzettingen &#x200B;](./assets/low-conversions/auto-identify.png){align="center"}
+![ auto-identificeer lage omzettingen ](./assets/low-conversions/auto-identify.png){align="center"}
 
 Elke webpagina met vormen met lage omzettingen is vermeld als zijn eigen **Lage omzettingen** kans. Boven aan de opportunitypagina wordt een korte samenvatting van de opportuniteit en de redenering weergegeven.
 
 ## Automatisch voorstellen
 
-![&#x200B; auto-stelt lage omzettingen &#x200B;](./assets/low-conversions/auto-suggest.png){align="center"} voor
+![ auto-stelt lage omzettingen ](./assets/low-conversions/auto-suggest.png){align="center"} voor
 
 Automatisch voorstellen biedt door AI gegenereerde formuliervariaties die zijn ontworpen om de conversie van uw formulieren te vergroten. Elke variatie toont de **geprojecteerde verhoging van het omzettingspercentage** die op zijn potentieel wordt gebaseerd om vormenovereenkomst te verbeteren, die u helpt aan de meest efficiënte suggesties voorrang geven.
 
@@ -36,13 +36,13 @@ Automatisch voorstellen biedt door AI gegenereerde formuliervariaties die zijn o
 
 >[!TAB  de variatie van de Controle ]
 
-![&#x200B; de variaties van de Controle &#x200B;](./assets/low-conversions/control-variation.png){align="center"}
+![ de variaties van de Controle ](./assets/low-conversions/control-variation.png){align="center"}
 
 De besturingsvariant zijn de oorspronkelijke formulieren die op dat moment actief zijn op uw website. Deze variatie wordt gebruikt als basislijn om de prestaties van de voorgestelde variaties te vergelijken.
 
 >[!TAB  Voorgestelde variaties ]
 
-![&#x200B; Voorgestelde variaties &#x200B;](./assets/low-conversions/suggested-variations.png){align="center"}
+![ Voorgestelde variaties ](./assets/low-conversions/suggested-variations.png){align="center"}
 
 De voorgestelde variaties zijn door AI gegenereerde formuliervariaties die zijn ontworpen om de conversie van uw formulieren te verhogen. Elke variatie toont de **geprojecteerde verhoging van het omzettingspercentage** die op zijn potentieel wordt gebaseerd om vormenovereenkomst te verbeteren, die u helpt aan de meest efficiënte suggesties voorrang geven.
 

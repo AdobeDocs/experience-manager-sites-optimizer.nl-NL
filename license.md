@@ -1,7 +1,7 @@
 ---
-source-git-commit: a714cb379634bd5c1e7467b156310468d69400b6
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -9,7 +9,7 @@ ht-degree: 0%
 
 © Copyright 2025 Adobe. Alle rechten voorbehouden.
 
-Hierbij wordt kosteloos een machtiging verleend aan eenieder die een kopie van deze software en de bijbehorende documentatiebestanden (de &quot;Software&quot;) ontvangt, om zonder beperking in de Software te handelen, met inbegrip van de rechten om, onder de volgende voorwaarden, kopieën van de Software te gebruiken, te kopiëren, te wijzigen, samen te voegen, te publiceren, te sublicentiëren en/of te verkopen, en om personen aan wie de Software wordt geleverd, toe te staan dit te doen:
+Deze licentie verleent gratis toestemming aan eenieder die een kopie van deze software en de bijbehorende documentatiebestanden (de &quot;Software&quot;) verkrijgt, om de software zonder beperkingen af te handelen. Deze licentie omvat zonder beperkingen de rechten om kopieën van de software te gebruiken, kopiëren, bewerken, samenvoegen, publiceren, distribueren, sublicenties en/of verkopen. En om personen aan wie de Software wordt geleverd, toe te staan dit te doen, onder de volgende voorwaarden:
 
 De bovenstaande copyrightkennisgeving en deze machtigingskennisgeving worden opgenomen in alle exemplaren of belangrijke delen van de Software.
 

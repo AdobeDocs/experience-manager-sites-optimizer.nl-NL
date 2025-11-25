@@ -3,9 +3,9 @@ title: Forms optimaliseren met Sites Optimizer
 description: Meer informatie over Forms Optimization met Sites Optimizer.
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 # Toegankelijkheidsmogelijkheden van Forms
 
-<span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
+<span class="preview"> De Forms-optimalisatiefunctie is beschikbaar in het kader van een programma voor vroege toegang. U kunt vanaf uw officiële e-mailadres naar aem-forms-ea@adobe.com schrijven om deel te nemen aan het vroege toegangsprogramma en toegang tot de mogelijkheden te vragen. </span>
 
-![&#x200B; de Toegankelijkheidskansen van Forms &#x200B;](./assets/form-accesibility/hero.png){align="center"}
+![ de Toegankelijkheidskansen van Forms ](./assets/form-accesibility/hero.png){align="center"}
 
 
-Toegankelijkheidsmogelijkheden van Forms zijn van essentieel belang voor het verbeteren van gebruikersinteracties en het verhogen van de conversies. Als u uw formulieren controleert op naleving van de Web Content Accessibility Guidelines (WCAG), kunt u ervoor zorgen dat gebruikers met een visuele, auditieve, cognitieve en motorische handicap een inclusieve ervaring hebben. Dit voldoet niet alleen aan ethische en wettelijke vereisten, maar verbetert ook de voltooiingscijfers en vergroot uw publiek, wat resulteert in een betere gebruikerservaring en sterkere bedrijfsresultaten.
+Toegankelijkheidsmogelijkheden van Forms zijn van essentieel belang voor het verbeteren van gebruikersinteracties en het verhogen van de conversies. Als u uw formulieren controleert op naleving van de Web Content Accessibility Guidelines (WCAG), kunt u ervoor zorgen dat gebruikers met een visuele, auditieve, cognitieve en motorische handicap een inclusieve ervaring hebben. Deze functionaliteit voldoet niet alleen aan ethische en wettelijke vereisten, maar verbetert ook de voltooiingscijfers en vergroot uw publiek, wat resulteert in een betere gebruikerservaring en sterkere bedrijfsresultaten.
 
 ## Kansen
 
