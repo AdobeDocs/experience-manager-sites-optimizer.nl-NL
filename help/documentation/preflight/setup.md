@@ -1,9 +1,9 @@
 ---
 title: Preflight instellen
 description: Leer hoe u de Preflight-extensie instelt voor AEM Sites Optimizer.
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: e39930ebe2213dcca17209934173a7b521b34dbc
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Voor identificatie van de AEM Sites Optimizer Preflight-opportuniteit moet de ex
 
 ## Gebruikerstoegang inschakelen
 
-Om de Preflight uitbreiding te gebruiken, zorg ervoor dat uw gebruiker aan minstens één van de volgende het productprofielen van AEM Sites Optimizer in [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com) wordt toegewezen:
+Om de Preflight uitbreiding te gebruiken, zorg ervoor dat uw gebruiker aan minstens één van de volgende het productprofielen van AEM Sites Optimizer in [ Adobe Admin Console ](https://adminconsole.adobe.com) wordt toegewezen:
 
 * AEM Sites Optimizer - Gebruiker automatisch voorstellen
 * AEM Sites Optimizer - Gebruiker automatisch optimaliseren
@@ -29,7 +29,7 @@ Om de Preflight uitbreiding te gebruiken, zorg ervoor dat uw gebruiker aan minst
 Voer de volgende stappen uit om Preflight in de Universal Editor in te stellen:
 
 1. Open **Extension Manager** bij:
-   [&#x200B; https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
+   [ https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. Bepaal de plaats van **Preflight Uitbreiding van AEM Sites Optimizer** en leg een verzoek voor om het toe te laten.
 1. Het **team van Adobe AEM** overzichten en laat de uitbreiding voor uw organisatie toe.
 1. Nadat de uitbreiding wordt toegelaten, open een pagina in **Universele Redacteur**, bijvoorbeeld:
@@ -135,6 +135,31 @@ Als u Preflight wilt gebruiken in de AEM Sites Page Editor, kunt u een bladwijze
 
 1. Noem de referentie **Preflight** (of om het even welke naam u verkiest).
 1. Open voorproef URL (`*.aem.page`) van de pagina die u in de **Redacteur van de Pagina van AEM Sites** wilt controleren.
+1. Klik **Preflight** referentie in uw bar van Bladwijzers om de controle voor de huidige pagina te beginnen.
+
+>[!TAB  Adobe Managed Services ]
+
+>[!IMPORTANT]
+>
+>Alleen Adobe Managed Services-omgevingen (AMS) die Adobe Identity Provider (IMS) gebruiken voor verificatie op AEM Author, worden ondersteund. Preflight werkt niet als uw organisatie een andere identiteitsprovider voor AMS-verificatie gebruikt.
+
+Als u Preflight in de AEM Sites Page Editor wilt gebruiken in een AMS-omgeving, maakt u een bladwijzer in uw webbrowser en volgt u de volgende stappen:
+
+1. Toon uw **Bar van Referenties** in uw Webbrowser:
+
+   * Pers **Ctrl+Shift+B** (Vensters) of **Cmd+Shift+B** (Mac).
+
+1. Maak een nieuwe bladwijzer in uw browser:
+
+   * Klik met de rechtermuisknop op de bladwijzerbalk en selecteer **Nieuwe pagina** of **Bladwijzer toevoegen** .
+   * Op het **Adres (URL)** gebied, kleef de volgende code:
+
+   ```javascript
+   javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=ams';document.head.appendChild(script);})();
+   ```
+
+1. Noem de referentie **Preflight** (of om het even welke naam u verkiest).
+1. Open de pagina u in de **Redacteur van de Pagina van AEM Sites** wilt controleren.
 1. Klik **Preflight** referentie in uw bar van Bladwijzers om de controle voor de huidige pagina te beginnen.
 
 >[!ENDTABS]
