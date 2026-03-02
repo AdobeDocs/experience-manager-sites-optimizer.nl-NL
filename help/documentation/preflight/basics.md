@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Basisbeginselen van Preflight
 
-![ Preflight ](./assets/overview/hero.png){align="center"}
+![&#x200B; Preflight &#x200B;](./assets/overview/hero.png){align="center"}
 
 Met Preflight kunt u nagaan welke mogelijkheden er zijn om uw webpagina&#39;s te verbeteren voordat deze worden gepubliceerd. De extensie Preflight herkent mogelijkheden door controles op uw inhoud uit te voeren en geeft de resultaten in een deelvenster weer, zodat u deze kunt aanspreken voordat u de inhoud publiceert.
 
@@ -23,7 +23,7 @@ Preflight is beschikbaar in verschillende ontwerpomgevingen:
 * **op document-Gebaseerde creatie** - Via Sidekick, of bookmarklet, stel Preflight tooling op uw voorvertoonde paginainhoud in werking om de lijst van kansen te zien.
 * **de Redacteur van de Pagina van AEM Sites** - gebruik Preflight bookmarklet in uw browser om een controle te beginnen.
 
-Voor opstellingsinstructies, zie [ Preflight opstelling ](./setup.md).
+Voor opstellingsinstructies, zie [&#x200B; Preflight opstelling &#x200B;](./setup.md).
 
 ## Starten van een audit
 
@@ -39,4 +39,4 @@ Wanneer de controle voltooit, toont Preflight de kansen het vond. Elke kans is g
 
 ## Preflight-mogelijkheden
 
-Preflight evalueert meerdere aspecten van uw inhoud, zoals toegankelijkheid, metagegevens, koppelingen en leesbaarheid. Zie [ Preflight kansen ](./overview.md) voor een volledige lijst van beschikbare opportuniteitstypes en hoe te om hen te richten.
+Preflight evalueert meerdere aspecten van uw inhoud, zoals toegankelijkheid, metagegevens, koppelingen en leesbaarheid. Zie [&#x200B; Preflight kansen &#x200B;](./overview.md) voor een volledige lijst van beschikbare opportuniteitstypes en hoe te om hen te richten.
