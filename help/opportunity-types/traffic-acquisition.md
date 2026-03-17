@@ -1,7 +1,7 @@
 ---
 title: Verkeersaanschaf optimaliseren met Sites Optimizer
 description: Leer hoe te om verkeersaanwinst met Sites Optimizer te verhogen.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -11,13 +11,15 @@ ht-degree: 0%
 
 # Verkeersaankomstmogelijkheden
 
-![&#x200B; de verwervingskansen van het Verkeer &#x200B;](./assets/traffic-acquisition/hero.png){align="center"}
+![ de verwervingskansen van het Verkeer ](./assets/traffic-acquisition/hero.png){align="center"}
 
 Verkeersaanschaf drijft potentiële klanten naar uw website en creëert verkoop- of leadmogelijkheden. Door strategieën zoals de optimalisering van de onderzoeksmotor (SEO) te gebruiken, kunnen de ondernemingen onderzoekszicht verbeteren en het voor gebruikers gemakkelijker maken om hun inhoud te ontdekken. Een gestage stroom bezoekers vergroot het bewustzijn van merken en vergroot het vertrouwen. Het geeft ook waardevolle inzichten in gebruikersgedrag. Met deze inzichten kunnen teams hun aanbod verfijnen en de algehele ervaring verbeteren. Met behulp van AEM Sites Optimizer-inzichten kunt u doorlopend optimaliseren, een duurzame groei garanderen en de conversiegraad in de loop der tijd verbeteren.
 
 ## Kansen
 
-<!-- CARDS
+<!--
+CARDS
+
  
 * ../documentation/opportunities/broken-backlinks.md
   {title=Broken backlinks}
@@ -32,7 +34,7 @@ Verkeersaanschaf drijft potentiële klanten naar uw website en creëert verkoop-
   {title=Sitemap issues}
   {image=../assets/common/card-relationship.png}
 
---->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Broken backlinks">

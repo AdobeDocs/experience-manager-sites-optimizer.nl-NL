@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer Opportunity-documentatie
 description: Leer meer over alle beschikbare mogelijkheden voor Siteoptimalisatie en hoe u deze kunt gebruiken om de prestaties van uw site te verbeteren.
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '891'
 ht-degree: 0%
 
 ---
@@ -11,12 +11,12 @@ ht-degree: 0%
 
 # Opportuniteitsdocumentatie
 
-![&#x200B; de kansen van Sites Optimizer &#x200B;](./assets/overview/hero.png){align="center"}
+![ de kansen van Sites Optimizer ](./assets/overview/hero.png){align="center"}
 
 
-Sites Optimizer bestaat uit een steeds groter wordende reeks mogelijkheden van Adobe AI, die ontworpen is om verbeteringen voor uw website te identificeren en voor te stellen. Elke kans biedt inzicht in de potentiële bedrijfswaarde, benadrukt gebieden die aandacht nodig hebben, en verstrekt activeerbare aanbevelingen voor optimalisering. Klik in elke gelegenheid om de geïdentificeerde problemen te verkennen, suggesties voor verbeteringen en stapsgewijze instructies voor het implementeren van deze wijzigingen voor verbeterde websiteprestaties en gebruikerservaring.
+Sites Optimizer bestaat uit een steeds groter aantal mogelijkheden van Adobe AI, die ontworpen is om verbeteringen voor uw website op te sporen en voor te stellen. Elke kans biedt inzicht in de potentiële bedrijfswaarde, benadrukt gebieden die aandacht nodig hebben, en verstrekt activeerbare aanbevelingen voor optimalisering. Klik in elke gelegenheid om de geïdentificeerde problemen te verkennen, suggesties voor verbeteringen en stapsgewijze instructies voor het implementeren van deze wijzigingen voor verbeterde websiteprestaties en gebruikerservaring.
 
-De kansen zijn beschikbaar via de **menuoptie 0&rbrace; Kansen &lbrace;in** de blijvende navigatie van de Optimizer van de Plaats [.](/help/documentation/basics.md#navigation)
+De kansen zijn beschikbaar via de **menuoptie 0} Kansen {in [ de blijvende navigatie van de Optimizer van de Plaats ](/help/documentation/basics.md#navigation).**
 
 ## Opportunity-status
 
@@ -26,13 +26,13 @@ Gebruik de lusjes over de bovenkant om kansen door status te organiseren en te f
 
 >[!TAB  Huidige ]
 
-![&#x200B; Huidige kansen &#x200B;](./assets/overview/current.png){align="center"}
+![ Huidige kansen ](./assets/overview/current.png){align="center"}
 
 Kansen die momenteel in behandeling zijn.
 
 >[!TAB  Genegeerd ]
 
-![&#x200B; Genegeerde kansen &#x200B;](./assets/overview/ignored.png){align="center"}
+![ Genegeerde kansen ](./assets/overview/ignored.png){align="center"}
 
 Kansen die genegeerd zijn. Genegeerde mogelijkheden kunnen vanuit deze weergave worden hersteld.
 
@@ -44,34 +44,34 @@ Een historische lijst met mogelijkheden die zijn geoptimaliseerd.
 
 ## Kansen
 
-Met een [&#x200B; geselecteerde opportuniteitsstatus &#x200B;](#opportunity-status), kunt u een lijst van kansen bekijken. U kunt de lijst met mogelijkheden op de volgende manieren filteren:
+Met een [ geselecteerde opportuniteitsstatus ](#opportunity-status), kunt u een lijst van kansen bekijken. U kunt de lijst met mogelijkheden op de volgende manieren filteren:
 
 * **Onderzoek** - Onderzoek van kansen door **sleutelwoorden, markeringen of URLs**.
-* **het type van Kans** - gebruik **Type** dropdown aan filterkansen door [&#x200B; opportuniteitstype &#x200B;](/help/opportunity-types/overview.md).
+* **het type van Kans** - gebruik **Type** dropdown aan filterkansen door [ opportuniteitstype ](/help/opportunity-types/overview.md).
 
 ### Opportuniteitsdetails
 
-![&#x200B; details van de Kans &#x200B;](/help/documentation/opportunities/assets/overview/opportunity-details.png){align="center"}
+![ details van de Kans ](/help/documentation/opportunities/assets/overview/opportunity-details.png){align="center"}
 
 Elke gelegenheid biedt een korte beschrijving van het probleem, de mogelijke gevolgen voor uw site en een link naar volledige informatie. U kunt ook de status bekijken, om aan te geven of de toepassing is geoptimaliseerd of nog in behandeling is.
 
 * **titel van de Kans** - een korte beschrijving van de kwestie en zijn potentiële effect op de prestaties van uw plaats.
 * **Laatst bijgewerkt** - Sites Optimizer werkte de kans met nieuwe gegevens op deze datum laatst bij.
 * **Aantal van de Uitgave** - het aantal instanties van de kwestie die op uw plaats wordt geïdentificeerd.
-* **types van Kans** - de [&#x200B; types van kans &#x200B;](/help/opportunity-types/overview.md) dat deze kans deel van - zoals verkeersaanwinst, overeenkomst, omzetting, of plaatsgezondheid uitmaakt.
+* **types van Kans** - de [ types van kans ](/help/opportunity-types/overview.md) dat deze kans deel van - zoals verkeersaanwinst, overeenkomst, omzetting, of plaatsgezondheid uitmaakt.
 
 De summiere informatie voor elke kans varieert door type en kan details over opbrengsteffect, verkeer, gebruikersovereenkomst, of veiligheidsbedreigingen omvatten.
 
 Om de details van een kans te bekijken, klik de **knoop van Details**.
 
-Om een kans van het dashboard van Sites Optimizer uit te sluiten, klik **negeren** knoop.  Deze actie verplaatst de kans aan [**Genegeerde** tabel &#x200B;](#opportunity-status).
+Om een kans van het dashboard van Sites Optimizer uit te sluiten, klik **negeren** knoop.  Deze actie verplaatst de kans aan [**Genegeerde** tabel ](#opportunity-status).
 
 ## Alle mogelijkheden
 
 Verken alle mogelijke mogelijkheden die in Sites Optimizer beschikbaar zijn:
 
-<!-- CARDS
-
+<!--
+CARDS
 * ./accessibility-issues.md
   {title=Accessibility issues}
   {image=../../assets/common/card-arrows.png} 
@@ -117,8 +117,8 @@ Verken alle mogelijke mogelijkheden die in Sites Optimizer beschikbaar zijn:
 * ./website-vulnerabilities.md
   {title=Website vulnerabilities}
   {image=../../assets/common/card-puzzle.png}
-  
---->
+-->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Accessibility issues">

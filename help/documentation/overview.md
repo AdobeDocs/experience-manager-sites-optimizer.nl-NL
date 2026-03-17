@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer-documentatie
 description: documentatie van Experience Manager Sites Optimizer.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Sites Optimizer-documentatie
 
-![&#x200B; Sites Optimizer &#x200B;](./assets/overview/hero.png){align="center"}
+![ Sites Optimizer ](./assets/overview/hero.png){align="center"}
 
 Welkom bij de documentatie van Sites Optimizer. Hier vindt u informatie over hoe u Sites Optimizer kunt gebruiken om uw AEM-sites te optimaliseren.
 
@@ -19,7 +19,8 @@ Welkom bij de documentatie van Sites Optimizer. Hier vindt u informatie over hoe
 
 Onderzoek de documentatie van AEM Sites Optimizer om over zeer belangrijke componenten UI, met inbegrip van het dashboard van het Huis, de configuraties van Montages, en de lijst van Kansen voor optimaliseringsinzichten te leren.
 
-<!-- CARDS 
+<!--
+CARDS 
 
 * ./basics.md
   {title = Basics}

@@ -1,9 +1,9 @@
 ---
 title: Sitegezondheid optimaliseren met Sites Optimizer
 description: Leer hoe u de gezondheid van uw site kunt verbeteren met Sites Optimizer.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -11,13 +11,15 @@ ht-degree: 0%
 
 # Gezondheidsmogelijkheden van de site
 
-![&#x200B; de gezondheidskansen van de Plaats &#x200B;](./assets/site-health/hero.png){align="center"}
+![ de gezondheidskansen van de Plaats ](./assets/site-health/hero.png){align="center"}
 
-Het behoud van de gezondheid van sites in AEM Sites Optimizer is essentieel voor het bieden van snelle, betrouwbare en krachtige digitale ervaringen. Door kansen voor verbetering-zulke als Kernweb te identificeren kunnen de teams paginasnelheid, interactiviteit, en visuele stabiliteit optimaliseren om gebruikerservaring en onderzoekmachine rangschikkingen te verbeteren. Een goed onderhouden site zorgt voor vloeiender navigatie, betere betrokkenheid en verbeterde algehele prestaties. Met behulp van AEM Sites Optimizer-inzichten kunt u de site voortdurend controleren en verfijnen, zodat deze efficiënt en effectief blijft.
+Het behoud van de gezondheid van sites in AEM Sites Optimizer is essentieel voor het bieden van snelle, betrouwbare en krachtige digitale ervaringen. Door mogelijkheden voor verbetering-zoals Core Web Vitals-teams te identificeren kunnen paginasnelheid, interactiviteit, en visuele stabiliteit optimaliseren om gebruikerservaring en onderzoekmachine het rangschikken te verbeteren. Een goed onderhouden site zorgt voor vloeiender navigatie, betere betrokkenheid en verbeterde algehele prestaties. Met behulp van AEM Sites Optimizer-inzichten kunt u de site voortdurend controleren en verfijnen, zodat deze efficiënt en effectief blijft.
 
 ## Kansen
 
-<!-- CARDS
+<!--
+CARDS
+
 
 * ../documentation/opportunities/core-web-vitals.md
   {title=Core web vitals}
@@ -41,7 +43,7 @@ Het behoud van de gezondheid van sites in AEM Sites Optimizer is essentieel voor
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Kernwebvitaliteit"> het Web vitals van de Kern </a>
                     </p>
-                    <p class="is-size-6">Leer over de Kernwebinstellingen van het Web en hoe te om het te gebruiken om verkeersaanwinst te verbeteren.</p>
+                    <p class="is-size-6">Leer over de kansen van Core Web Vitals en hoe te om het te gebruiken om verkeersaankoop te verbeteren.</p>
                 </div>
                 <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>

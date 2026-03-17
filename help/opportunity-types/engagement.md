@@ -1,9 +1,9 @@
 ---
 title: Betrokkenheid met Sites Optimizer optimaliseren
 description: Leer hoe u de betrokkenheid bij Sites Optimizer kunt verbeteren.
-source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -11,13 +11,15 @@ ht-degree: 0%
 
 # Betrokkenheidskansen
 
-![&#x200B; de kansen van de Betrokkenheid &#x200B;](./assets/engagement/hero.png){align="center"}
+![ de kansen van de Betrokkenheid ](./assets/engagement/hero.png){align="center"}
 
 Betrokkenheidsmogelijkheden in AEM Sites Optimizer zijn van cruciaal belang voor het verbeteren van digitale ervaringen door gebruikers inzicht te geven in de manier waarop ze met webpagina&#39;s werken. Door gebieden voor verbetering te identificeren - zoals toegankelijkheidskwesties, gebroken interne verbindingen, hoge stuittarieven, en ontbrekende alt tekst - kunnen de marketers en inhoudsauteurs hun plaatsen voor betere prestaties en gebruikersbetrokkenheid optimaliseren. Deze kansen helpen ervoor zorgen dat de inhoud effectief, ontdekkbaar, en dwingend is, uiteindelijk drijvende hogere omzettingen en een naadloze klantenreis. Met AEM Sites Optimizer-aanbevelingen kunnen teams hun digitale strategie voortdurend verfijnen en op grote schaal ervaringen met hoge impact bieden.
 
 ## Kansen
 
-<!-- CARDS
+<!--
+CARDS
+
 
 * ../documentation/opportunities/accessibility-issues.md
   {title=Accessibility issues}

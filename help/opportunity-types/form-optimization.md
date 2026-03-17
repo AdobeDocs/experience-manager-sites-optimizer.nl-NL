@@ -3,9 +3,9 @@ title: Forms optimaliseren met Sites Optimizer
 description: Meer informatie over Forms Optimization met Sites Optimizer.
 hide: true
 hidefromtoc: true
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,15 @@ ht-degree: 0%
 
 <!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
-![&#x200B; de Optimalisatiemogelijkheden van Forms &#x200B;](./assets/form-optimization/hero.png){align="center"}
+![ de Optimalisatiemogelijkheden van Forms ](./assets/form-optimization/hero.png){align="center"}
 
 Met Forms-optimalisatiemogelijkheden kunnen organisaties de gebruikersinteracties systematisch verbeteren en het converteren van formulieren versnellen. Door problemen op te sporen, zoals lage weergaven, lage conversies en lage navigatiesnelheden, kunnen teams gegevensgestuurde aanpassingen aanbrengen in het formulierontwerp, de plaatsing en de inhoud. Deze optimalisaties helpen de gebruikerservaring te stroomlijnen, waardoor bezoekers gemakkelijker formulieren kunnen invullen en de gewenste resultaten kunnen bereiken. Het gebruik van inzichten van Forms Optimization ondersteunt continue identificatie en oplossing van prestatieverschillen, wat resulteert in effectievere formulieren en verbeterde bedrijfsresultaten.
 
 ## Kansen
 
-<!-- CARDS
+<!--
+CARDS
+
  
 * ../documentation/opportunities/low-views.md
   {title=Low views}
@@ -32,7 +34,7 @@ Met Forms-optimalisatiemogelijkheden kunnen organisaties de gebruikersinteractie
   {title=Low conversions}
   {image=../assets/common/card-bag.png}
 
---->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low views">
